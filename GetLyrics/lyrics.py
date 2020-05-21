@@ -191,10 +191,13 @@ def get_lyrics_of_song(song_name,song_artist):
 	lyrics = None
 	try_var = 0
 	while lyrics==None and try_var<5:
-		song  = genius.search_song(song_name,song_artist)
-		if song!=None:
-			lyrics = song.lyrics
-		try_var +=1
+		try:
+			song  = genius.search_song(song_name,song_artist)
+			if song!=None:
+				lyrics = song.lyrics
+			try_var +=1
+		except:
+			continue
 	return lyrics
 
 def clean_lyrics(lyrics):
@@ -348,6 +351,7 @@ def corona_stats_by_week(stats,start_date_datetime):
 		date_curr = date_curr[1:]
 	new_cases = 0
 	new_deaths = 0
+	total_cases = 0
 	corona_stats_week = {}
 	for i in range(1,7):
 		print("\n")
@@ -357,6 +361,7 @@ def corona_stats_by_week(stats,start_date_datetime):
 			stat_curr = stats[date_curr]
 			new_cases = new_cases + stat_curr['new_daily_cases']
 			new_deaths = new_deaths + stat_curr['new_daily_deaths']
+			total_cases = stat_curr['total_cases']
 			date_curr =  datetime.datetime.strptime(date_curr,'%m/%d/%y')
 			date_curr = (date_curr + timedelta(days=1)).strftime('%m/%d/%y')
 			if date_curr[0] == '0':
@@ -374,6 +379,7 @@ def corona_stats_by_week(stats,start_date_datetime):
 	corona_stats_week["End Date"] = end_date
 	corona_stats_week["New cases"] = new_cases
 	corona_stats_week["New Deaths"] = new_deaths
+	corona_stats_week["Total Cases"] = total_cases
 	return corona_stats_week
 
 
