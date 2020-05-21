@@ -342,6 +342,7 @@ def corona_stats_by_week(stats,start_date_datetime):
 	Return:
 		Dict of stats for the week that starts on the start_date_datetime value
 	"""
+
 	date_curr = start_date_datetime.strftime('%m/%d/%y')
 	if date_curr[0] == '0':
 		date_curr = date_curr[1:]
@@ -349,13 +350,23 @@ def corona_stats_by_week(stats,start_date_datetime):
 	new_deaths = 0
 	corona_stats_week = {}
 	for i in range(1,7):
-		stat_curr = stats[date_curr]
-		new_cases = new_cases + stat_curr['new_daily_cases']
-		new_deaths = new_deaths + stat_curr['new_daily_deaths']
-		date_curr =  datetime.datetime.strptime(date_curr,'%m/%d/%y')
-		date_curr = (date_curr + timedelta(days=1)).strftime('%m/%d/%y')
-		if date_curr[0] == '0':
-			date_curr = date_curr[1:]
+		print("\n")
+		print(stats)
+		print(date_curr)
+		try:
+			stat_curr = stats[date_curr]
+			new_cases = new_cases + stat_curr['new_daily_cases']
+			new_deaths = new_deaths + stat_curr['new_daily_deaths']
+			date_curr =  datetime.datetime.strptime(date_curr,'%m/%d/%y')
+			date_curr = (date_curr + timedelta(days=1)).strftime('%m/%d/%y')
+			if date_curr[0] == '0':
+				date_curr = date_curr[1:]
+		except:
+			date_curr =  datetime.datetime.strptime(date_curr,'%m/%d/%y')
+			date_curr = (date_curr + timedelta(days=1)).strftime('%m/%d/%y')
+			if date_curr[0] == '0':
+				date_curr = date_curr[1:]
+			continue
 	start_date = start_date_datetime.strftime('%Y-%m-%d')
 	end_date = 	datetime.datetime.strptime(date_curr,'%m/%d/%y')
 	end_date = end_date.strftime('%Y-%m-%d')
