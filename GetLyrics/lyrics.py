@@ -7,6 +7,7 @@ from datetime import timedelta
 import datetime
 import lyricsgenius
 genius = lyricsgenius.Genius("UYc49IZCXtRp-1GIQ7LLeORJAslM1dUJa3w9fzwNh2FvShdXcbtwaXlgahYZFzVx")
+import csv
 
 
 LIST_OF_COUNTRIES ={ 
@@ -166,8 +167,13 @@ def get_list_of_all_songs(country):
 		list_songs = top_song_by_dates_of_county_spotify(country,start_date_curr,end_date_curr)
 		print(list_songs)
 		list_after_analysis = run_analysis_on_songs(list_songs)
-		with open(f'songs_{country}_{start_date_curr}_{end_date_curr}', 'w') as fout:
-			fout.write(json.dumps(list_after_analysis, indent=4))
+		# json files
+		#with open(f'songs_{country}_{start_date_curr}_{end_date_curr}', 'w') as fout:
+		#	fout.write(json.dumps(list_after_analysis, indent=4))
+		with open(f'songs_{LIST_OF_COUNTRIES[country]}_{start_date_curr}_{end_date_curr}.csv', 'w', encoding='utf8', newline='') as output_file:
+			fc = csv.DictWriter(output_file, fieldnames=list_after_analysis[0].keys(),)
+			fc.writeheader()
+			fc.writerows(list_after_analysis)	
 		start_date_curr =  datetime.datetime.strptime(end_date_curr,'%Y-%m-%d')
 		end_date_curr = (start_date_curr + timedelta(days=7)).strftime('%Y-%m-%d')
 		start_date_curr = start_date_curr.strftime('%Y-%m-%d')
@@ -294,8 +300,12 @@ def analysis_songs_by_country(country):
 		start_date_curr =  datetime.datetime.strptime(end_date_curr,'%Y-%m-%d')
 		end_date_curr = (start_date_curr + timedelta(days=7)).strftime('%Y-%m-%d')
 		start_date_curr = start_date_curr.strftime('%Y-%m-%d')
-	with open(f'analysis_{country}', 'w') as fout:
-		fout.write(json.dumps(analysis_country, indent=4))
+	with open(f'analysis_{LIST_OF_COUNTRIES[country]}.csv', 'w', encoding='utf8', newline='') as output_file:
+			fc = csv.DictWriter(output_file, fieldnames=analysis_country[0].keys(),)
+			fc.writeheader()
+			fc.writerows(analysis_country)	
+	#with open(f'analysis_{country}', 'w') as fout:
+	#	fout.write(json.dumps(analysis_country, indent=4))
 	
 	
 	
@@ -332,8 +342,11 @@ def corona_stats_by_country(country):
 		corona_stats_week = corona_stats_by_week(corona_stat, start_date_curr)
 		list_corona_stat.append(corona_stats_week)
 		start_date_curr = (start_date_curr + timedelta(days=7))
-	with open(f'corona_stats_{country}', 'w') as fout:
-		fout.write(json.dumps(list_corona_stat, indent=4))
+	with open(f'corona_stats_{LIST_OF_COUNTRIES[country]}.csv', 'w', encoding='utf8', newline='') as output_file:
+		fc = csv.DictWriter(output_file, fieldnames=list_corona_stat[0].keys(),)
+		fc.writeheader()
+		fc.writerows(list_corona_stat)
+		#fout.write(json.dumps(list_corona_stat, indent=4))
 	
 	
 def corona_stats_by_week(stats,start_date_datetime):
