@@ -10,7 +10,7 @@ genius = lyricsgenius.Genius("UYc49IZCXtRp-1GIQ7LLeORJAslM1dUJa3w9fzwNh2FvShdXcb
 
 
 LIST_OF_COUNTRIES ={ 
-	"it":"Italy",
+	#"it":"Italy",
 	"us":"United states",
 	"gb":"United kingdom",
 	"ar":"Argentina",

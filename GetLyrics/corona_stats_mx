@@ -1,0 +1,93 @@
+[
+    {
+        "Start Date": "2020-01-31",
+        "End Date": "2020-02-06",
+        "New cases": 0,
+        "New Deaths": 0,
+        "Total Cases": 0
+    },
+    {
+        "Start Date": "2020-02-07",
+        "End Date": "2020-02-13",
+        "New cases": 0,
+        "New Deaths": 0,
+        "Total Cases": 0
+    },
+    {
+        "Start Date": "2020-02-14",
+        "End Date": "2020-02-20",
+        "New cases": 0,
+        "New Deaths": 0,
+        "Total Cases": 0
+    },
+    {
+        "Start Date": "2020-02-21",
+        "End Date": "2020-02-27",
+        "New cases": 0,
+        "New Deaths": 0,
+        "Total Cases": 0
+    },
+    {
+        "Start Date": "2020-02-28",
+        "End Date": "2020-03-05",
+        "New cases": 5,
+        "New Deaths": 0,
+        "Total Cases": 5
+    },
+    {
+        "Start Date": "2020-03-06",
+        "End Date": "2020-03-12",
+        "New cases": 3,
+        "New Deaths": 0,
+        "Total Cases": 8
+    },
+    {
+        "Start Date": "2020-03-13",
+        "End Date": "2020-03-19",
+        "New cases": 81,
+        "New Deaths": 0,
+        "Total Cases": 93
+    },
+    {
+        "Start Date": "2020-03-20",
+        "End Date": "2020-03-26",
+        "New cases": 287,
+        "New Deaths": 4,
+        "Total Cases": 405
+    },
+    {
+        "Start Date": "2020-03-27",
+        "End Date": "2020-04-02",
+        "New cases": 740,
+        "New Deaths": 23,
+        "Total Cases": 1215
+    },
+    {
+        "Start Date": "2020-04-03",
+        "End Date": "2020-04-09",
+        "New cases": 1275,
+        "New Deaths": 91,
+        "Total Cases": 2785
+    },
+    {
+        "Start Date": "2020-04-10",
+        "End Date": "2020-04-16",
+        "New cases": 2218,
+        "New Deaths": 232,
+        "Total Cases": 5399
+    },
+    {
+        "Start Date": "2020-04-17",
+        "End Date": "2020-04-23",
+        "New cases": 3654,
+        "New Deaths": 408,
+        "Total Cases": 9501
+    },
+    {
+        "Start Date": "2020-04-24",
+        "End Date": "2020-04-30",
+        "New cases": 6208,
+        "New Deaths": 599,
+        "Total Cases": 16752
+    }
+]
