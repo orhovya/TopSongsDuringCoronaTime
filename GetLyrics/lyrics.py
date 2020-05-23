@@ -19,19 +19,19 @@ LIST_OF_COUNTRIES ={
 	"br":"Brazil",
 	"co":"Colombia",
 	"de":"Germany",
-	"es":"Spain",
-	"fr":"France",
-	"gt":"Guatemala",
-	"ee":"Estonia",
-	"in":"India",
-	"jp":"Japan",
-	"mx":"Mexico",
-	"pa":"Panama",
-	"th":"Thailand",
-	"za":"South afrika",
-	"vn":"Vietnam",
-	"il":"Israel",
-	"hk":"China"}
+	"es":"Spain",}
+	#"fr":"France",
+	#"gt":"Guatemala",
+	#"ee":"Estonia",
+	#"in":"India",
+	#"jp":"Japan",
+	#"mx":"Mexico",
+	#"pa":"Panama",
+	#"th":"Thailand",
+	#"za":"South afrika",
+	#"vn":"Vietnam",
+	#"il":"Israel",
+	#"hk":"China"}
 
 START_DATE_SONGS = '2019-11-29'
 END_DATE_SONGS = '2020-05-01'
@@ -256,8 +256,17 @@ def analysis_of_a_week_in_country(country,start_date,end_date):
 	Return:
 		String which represents Positive,Neutral,Negative according to max of songs of that kind.
 	"""
-	with open(f'songs_{country}_{start_date}_{end_date}', 'r') as fin:
-		json_analysis = json.load(fin)	
+	json_analysis = []
+	with open(f'songs_{LIST_OF_COUNTRIES[country]}_{start_date}_{end_date}.csv', 'r', encoding="utf8") as fin:
+		reader = csv.reader(fin)
+		headers = next(reader)
+		for row in reader:
+			mydict = {}
+			for i in range(0,len(headers)):
+				mydict.update({headers[i]:row[i]})
+			print(mydict)
+			json_analysis.append(mydict)
+		#json_analysis = json.load(fin)	
 	number_positive= 0
 	number_negative =0
 	number_neutral = 0
@@ -398,10 +407,10 @@ def corona_stats_by_week(stats,start_date_datetime):
 
 if __name__ == '__main__':
 	#save all songs of all countries to json files
-	for key in LIST_OF_COUNTRIES.keys():
-		corona_stats_by_country(key)
-	for key in LIST_OF_COUNTRIES.keys():
-		get_list_of_all_songs(key)
+	#for key in LIST_OF_COUNTRIES.keys():
+	#	corona_stats_by_country(key)
+	#for key in LIST_OF_COUNTRIES.keys():
+	#	get_list_of_all_songs(key)
 	for key in LIST_OF_COUNTRIES.keys():
 		analysis_songs_by_country(key)
 	
