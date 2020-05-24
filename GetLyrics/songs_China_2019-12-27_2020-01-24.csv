@@ -1,0 +1,30 @@
+song_name,song_artist,track number,country,start date,end date,Analysis
+Psycho,Red Velvet,1,China,2019-12-27,2020-01-03,Positive
+Señorita,Shawn Mendes,2,China,2019-12-27,2020-01-03,Positive
+Memories,Maroon 5,3,China,2019-12-27,2020-01-03,Positive
+Dance Monkey,Tones And I,4,China,2019-12-27,2020-01-03,Neutral
+ROXANNE,Arizona Zervas,5,China,2019-12-27,2020-01-03,Positive
+everything i wanted,Billie Eilish,6,China,2019-12-27,2020-01-03,Negative
+Circles,Post Malone,7,China,2019-12-27,2020-01-03,Positive
+"讓愛高飛 - 劇集 ""多功能老婆"" 片尾曲",Pakho Chau,8,China,2019-12-27,2020-01-03,could not determine analysis
+Don't Start Now,Dua Lipa,9,China,2019-12-27,2020-01-03,Negative
+說好不哭,Jay Chou,10,China,2019-12-27,2020-01-03,Neutral
+bad guy,Billie Eilish,11,China,2019-12-27,2020-01-03,Negative
+Falling,Trevor Daniel,12,China,2019-12-27,2020-01-03,Positive
+Adore You,Harry Styles,13,China,2019-12-27,2020-01-03,Positive
+My Oh My (feat. DaBaby),Camila Cabello,14,China,2019-12-27,2020-01-03,Neutral
+Into the Unknown,Idina Menzel,15,China,2019-12-27,2020-01-03,Negative
+Someone You Loved,Lewis Capaldi,16,China,2019-12-27,2020-01-03,Positive
+Blinding Lights,The Weeknd,17,China,2019-12-27,2020-01-03,Negative
+Beautiful People (feat. Khalid),Ed Sheeran,18,China,2019-12-27,2020-01-03,Positive
+Lose You To Love Me,Selena Gomez,19,China,2019-12-27,2020-01-03,Positive
+Watermelon Sugar,Harry Styles,20,China,2019-12-27,2020-01-03,Positive
+Yummy,Justin Bieber,1,China,2020-01-03,2020-01-10,Positive
+我們都是這樣長大的,Sammi Cheng,17,China,2020-01-03,2020-01-10,could not determine analysis
+Mean It,Lauv,20,China,2020-01-03,2020-01-10,Negative
+Rare,Selena Gomez,6,China,2020-01-10,2020-01-17,Positive
+Life Is Good (feat. Drake),Future,13,China,2020-01-10,2020-01-17,Positive
+The Box,Roddy Ricch,14,China,2020-01-10,2020-01-17,Negative
+You should be sad,Halsey,19,China,2020-01-10,2020-01-17,could not determine analysis
+Black Swan,BTS,5,China,2020-01-17,2020-01-24,Positive
+Godzilla (feat. Juice WRLD),Eminem,17,China,2020-01-17,2020-01-24,Neutral

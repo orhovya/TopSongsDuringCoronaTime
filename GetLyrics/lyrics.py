@@ -8,10 +8,10 @@ import datetime
 import lyricsgenius
 genius = lyricsgenius.Genius("UYc49IZCXtRp-1GIQ7LLeORJAslM1dUJa3w9fzwNh2FvShdXcbtwaXlgahYZFzVx")
 import csv
-
+ANALYSIS_ALL_SONGS = {}
 
 LIST_OF_COUNTRIES ={ 
-	#"it":"Italy",
+	"it":"Italy",
 	"us":"United states",
 	"gb":"United kingdom",
 	"ar":"Argentina",
@@ -19,25 +19,25 @@ LIST_OF_COUNTRIES ={
 	"br":"Brazil",
 	"co":"Colombia",
 	"de":"Germany",
-	"es":"Spain",}
-	#"fr":"France",
-	#"gt":"Guatemala",
-	#"ee":"Estonia",
-	#"in":"India",
-	#"jp":"Japan",
-	#"mx":"Mexico",
-	#"pa":"Panama",
-	#"th":"Thailand",
-	#"za":"South afrika",
-	#"vn":"Vietnam",
-	#"il":"Israel",
-	#"hk":"China"}
+	"es":"Spain",
+	"fr":"France",
+	"gt":"Guatemala",
+	"ee":"Estonia",
+	"in":"India",
+	"jp":"Japan",
+	"mx":"Mexico",
+	"pa":"Panama",
+	"th":"Thailand",
+	"za":"South afrika",
+	"vn":"Vietnam",
+	"il":"Israel",
+	"hk":"China"}
 
 START_DATE_SONGS = '2019-11-29'
 END_DATE_SONGS = '2020-05-01'
 
 START_DATE_CORONA = '2020-01-31'
-END_DATE_CORONA = '2020-05-01'
+END_DATE_CORONA = '2020-05-15'
 
 
 #def request_song_info(song_title, artist_name):
@@ -117,6 +117,40 @@ def top_songs_spotify_request(country,start_date,end_date):
 	response = requests.request("GET",f"https://spotifycharts.com/regional/{country}/weekly/{start_date}--{end_date}")
 	html_file = BeautifulSoup(response.text, "html.parser")
 	return html_file.find_all('td', attrs={'class':'chart-table-track'})
+
+def search_song_in_list(song,list_of_songs):
+	print("song in search")
+	print(song)
+	for song_in_list in list_of_songs:
+		print("song in list")
+		print(song_in_list)
+		if song_in_list['song_name']== song['song_name']:
+			return True
+	return False
+	
+def top_songs_monthly_of_country(country,start_month,end_month):
+	start_curr_week =  datetime.datetime.strptime(start_month,'%Y-%m-%d')
+	end_curr_week = (start_curr_week + timedelta(days=7)).strftime('%Y-%m-%d')
+	start_curr_week = start_curr_week.strftime('%Y-%m-%d')
+	list_of_songs = []
+	while(start_curr_week < end_month):
+		new_weekly_songs = []
+		list_songs_of_week = top_song_by_dates_of_county_spotify(country,start_curr_week,end_curr_week)
+		for song in list_songs_of_week:
+			is_in_list = search_song_in_list(song,list_of_songs)
+			if not is_in_list:
+				new_weekly_songs.append(song)
+		list_after_analysis = run_analysis_on_songs(new_weekly_songs)
+		list_of_songs.extend(list_after_analysis)
+		print("list_of songs")
+		print(list_of_songs)
+
+		start_curr_week =  datetime.datetime.strptime(end_curr_week,'%Y-%m-%d')
+		end_curr_week = (start_curr_week + timedelta(days=7)).strftime('%Y-%m-%d')
+		start_curr_week = start_curr_week.strftime('%Y-%m-%d')
+	print("list monthly")
+	print(list_of_songs)
+	return list_of_songs
 	
 def top_song_by_dates_of_county_spotify(country,start_date,end_date):
 	"""
@@ -128,8 +162,11 @@ def top_song_by_dates_of_county_spotify(country,start_date,end_date):
 	Return:
 		A list of Dict when each dict had data regarding a specific song.
 	"""
-# the required format for dates =2020-04-10
+	# the required format for dates =2020-04-10
+	print(start_date)
+	print(end_date)
 	songs_list_html = top_songs_spotify_request(country,start_date,end_date)
+	print(songs_list_html)
 	list_songs_by_country_and_time = []
 	for i in range(0,20):
 		dict = {}
@@ -159,24 +196,23 @@ def get_list_of_all_songs(country):
 		A json file for each week which contain the week data and the songs data by rank.
 	"""
 	start_date_curr =  datetime.datetime.strptime(START_DATE_SONGS,'%Y-%m-%d')
-	end_date_curr = (start_date_curr + timedelta(days=7)).strftime('%Y-%m-%d')
-	start_date_curr = start_date_curr.strftime('%Y-%m-%d')
-	while(start_date_curr!=END_DATE_SONGS):
+	end_date_curr = (start_date_curr + timedelta(days=28)).strftime('%Y-%m-%d')
+	end_date = datetime.datetime.strptime(END_DATE_SONGS,'%Y-%m-%d')
+	while(start_date_curr< end_date):
+		start_date_curr = start_date_curr.strftime('%Y-%m-%d')
 		print(start_date_curr)
 		print(end_date_curr)
-		list_songs = top_song_by_dates_of_county_spotify(country,start_date_curr,end_date_curr)
+		list_songs = top_songs_monthly_of_country(country,start_date_curr,end_date_curr)
 		print(list_songs)
-		list_after_analysis = run_analysis_on_songs(list_songs)
 		# json files
 		#with open(f'songs_{country}_{start_date_curr}_{end_date_curr}', 'w') as fout:
 		#	fout.write(json.dumps(list_after_analysis, indent=4))
 		with open(f'songs_{LIST_OF_COUNTRIES[country]}_{start_date_curr}_{end_date_curr}.csv', 'w', encoding='utf8', newline='') as output_file:
-			fc = csv.DictWriter(output_file, fieldnames=list_after_analysis[0].keys(),)
+			fc = csv.DictWriter(output_file, fieldnames=list_songs[0].keys(),)
 			fc.writeheader()
-			fc.writerows(list_after_analysis)	
+			fc.writerows(list_songs)	
 		start_date_curr =  datetime.datetime.strptime(end_date_curr,'%Y-%m-%d')
-		end_date_curr = (start_date_curr + timedelta(days=7)).strftime('%Y-%m-%d')
-		start_date_curr = start_date_curr.strftime('%Y-%m-%d')
+		end_date_curr = (start_date_curr + timedelta(days=28)).strftime('%Y-%m-%d')
 		print(start_date_curr)
 		print(end_date_curr)
 
@@ -222,6 +258,13 @@ def run_analysis_on_songs(list_of_dict_of_songs):
 	for songs in list_of_dict_of_songs:
 		print("song_name "+ songs['song_name'])
 		print("song_artist "+ songs['song_artist'])
+		if songs['song_name'] in ANALYSIS_ALL_SONGS:
+			songs['Analysis'] = ANALYSIS_ALL_SONGS[songs['song_name']]
+			list_of_dict_of_songs[i] = songs
+			i =i+1
+			print("song already in analysis list")
+			print(ANALYSIS_ALL_SONGS)
+			continue
 		lyrics = get_lyrics_of_song(songs['song_name'],songs['song_artist'])
 		analysis = ''
 		if lyrics:
@@ -231,6 +274,7 @@ def run_analysis_on_songs(list_of_dict_of_songs):
 			songs['Analysis'] = analysis
 		else:
 			songs['Analysis'] = "could not determine analysis"
+		ANALYSIS_ALL_SONGS[songs['song_name']] = songs['Analysis']
 		list_of_dict_of_songs[i] = songs
 		print(songs)
 		i =i+1
@@ -245,7 +289,7 @@ def run_analysis_on_songs(list_of_dict_of_songs):
 #				print("new lyrics" +new_lyrics)
 #				fill_happy_sad(new_lyrics)
 			
-def analysis_of_a_week_in_country(country,start_date,end_date):
+def analysis_of_a_month_in_country(country,start_date,end_date):
 	"""
 	Function that returns an analysis of a country from start_date until end_date after which is a specific week.
 	We count the number of Positive,Negative,Neutral analysis for each song on that week and return the one that appeared the most.
@@ -285,7 +329,27 @@ def analysis_of_a_week_in_country(country,start_date,end_date):
 	if number_positive == week_analysis:
 		return "Positive"
 
-
+def analysis_corona_monthly_count(country,start_date):
+	corona_stat_all = []
+	corona_monthly = []
+	with open(f'corona_stats_{LIST_OF_COUNTRIES[country]}.csv', 'r', encoding="utf8") as fin:
+		reader = csv.reader(fin)
+		headers = next(reader)
+		for row in reader:
+			mydict = {}
+			for i in range(0,len(headers)):
+				mydict.update({headers[i]:row[i]})
+			print(mydict)
+			corona_stat_all.append(mydict)
+	i = 0
+	for corona in corona_stat_all:
+		print(corona)
+		if corona['Start Date'] == start_date:
+			total_cases_per_month = corona_stat_all[i+3]['Total Cases']
+			print(total_cases_per_month)
+			return total_cases_per_month
+		i = i+1
+		
 def analysis_songs_by_country(country):
 	"""
 	Function that creates a list of all analysis of a country from START_DATE until END_DATE_SONGS after the algorithem ran.
@@ -295,20 +359,21 @@ def analysis_songs_by_country(country):
 		Saves for a given country the analysis for each week from START_DATE until END_DATE_SONGS
 	"""
 	start_date_curr =  datetime.datetime.strptime(START_DATE_SONGS,'%Y-%m-%d')
-	end_date_curr = (start_date_curr + timedelta(days=7)).strftime('%Y-%m-%d')
-	start_date_curr = start_date_curr.strftime('%Y-%m-%d')
+	end_date_curr = (start_date_curr + timedelta(days=28)).strftime('%Y-%m-%d')
+	end_date = datetime.datetime.strptime(END_DATE_SONGS,'%Y-%m-%d')
 	analysis_country = []
-	while(start_date_curr!=END_DATE_SONGS):
+	while(start_date_curr< end_date):
+		start_date_curr = start_date_curr.strftime('%Y-%m-%d')
 		analysis_week = {}
-		analysis = analysis_of_a_week_in_country(country,start_date_curr,end_date_curr)
+		analysis = analysis_of_a_month_in_country(country,start_date_curr,end_date_curr)
 		print(analysis)
 		analysis_week['Analysis']= analysis
 		analysis_week['Start Date']= start_date_curr
 		analysis_week['End Date'] = end_date_curr
+		analysis_week['Total cases'] = analysis_corona_monthly_count(country,start_date_curr)
 		analysis_country.append(analysis_week)
 		start_date_curr =  datetime.datetime.strptime(end_date_curr,'%Y-%m-%d')
-		end_date_curr = (start_date_curr + timedelta(days=7)).strftime('%Y-%m-%d')
-		start_date_curr = start_date_curr.strftime('%Y-%m-%d')
+		end_date_curr = (start_date_curr + timedelta(days=28)).strftime('%Y-%m-%d')
 	with open(f'analysis_{LIST_OF_COUNTRIES[country]}.csv', 'w', encoding='utf8', newline='') as output_file:
 			fc = csv.DictWriter(output_file, fieldnames=analysis_country[0].keys(),)
 			fc.writeheader()
@@ -346,7 +411,7 @@ def corona_stats_by_country(country):
 	list_corona_stat = []
 	corona_stat = corona_stats_request(country)
 	end_date = datetime.datetime.strptime(END_DATE_CORONA,'%Y-%m-%d')
-	start_date_curr =  datetime.datetime.strptime(START_DATE_CORONA,'%Y-%m-%d')
+	start_date_curr =  datetime.datetime.strptime(START_DATE_SONGS,'%Y-%m-%d')
 	while(start_date_curr < end_date):
 		corona_stats_week = corona_stats_by_week(corona_stat, start_date_curr)
 		list_corona_stat.append(corona_stats_week)
@@ -374,6 +439,7 @@ def corona_stats_by_week(stats,start_date_datetime):
 	new_cases = 0
 	new_deaths = 0
 	total_cases = 0
+	total_deaths = 0
 	corona_stats_week = {}
 	for i in range(1,7):
 		print("\n")
@@ -384,6 +450,7 @@ def corona_stats_by_week(stats,start_date_datetime):
 			new_cases = new_cases + stat_curr['new_daily_cases']
 			new_deaths = new_deaths + stat_curr['new_daily_deaths']
 			total_cases = stat_curr['total_cases']
+			total_deaths = stat_curr['total_deaths']
 			date_curr =  datetime.datetime.strptime(date_curr,'%m/%d/%y')
 			date_curr = (date_curr + timedelta(days=1)).strftime('%m/%d/%y')
 			if date_curr[0] == '0':
@@ -402,18 +469,60 @@ def corona_stats_by_week(stats,start_date_datetime):
 	corona_stats_week["New cases"] = new_cases
 	corona_stats_week["New Deaths"] = new_deaths
 	corona_stats_week["Total Cases"] = total_cases
+	corona_stats_week["Total Deaths"] = total_deaths
 	return corona_stats_week
 
-
+def all_analysis():
+	all_countries = []
+	country_analysis = []
+	for country in LIST_OF_COUNTRIES.keys():
+		country_analysis = []
+		country_dict = {}
+		with open(f'analysis_{LIST_OF_COUNTRIES[country]}.csv', 'r', encoding="utf8") as fin:
+			reader = csv.reader(fin)
+			headers = next(reader)
+			for row in reader:
+				mydict = {}
+				for i in range(0,len(headers)):
+					mydict.update({headers[i]:row[i]})
+				country_analysis.append(mydict)
+		number_positive = 0
+		number_negative = 0
+		number_neutral = 0
+		for analysis in country_analysis:
+			if analysis['Analysis'] == "Negative":
+				number_negative =number_negative + 1
+			if analysis['Analysis'] == "Positive":
+				number_positive= number_positive + 1
+			if analysis['Analysis'] == "Neutral":
+				number_neutral = number_neutral + 1
+		sum_analysis = max([number_positive,number_negative,number_negative])
+		if number_negative == sum_analysis:
+			analysis =  "Negative"
+		if number_neutral == sum_analysis:
+			analysis =  "Neutral"
+		if number_positive == sum_analysis:
+			analysis =  "Positive"
+		country_dict['Country Name'] = LIST_OF_COUNTRIES[country]
+		country_dict['Num of Positive Month Songs'] = number_positive
+		country_dict['Num of Negative Month Songs'] = number_negative
+		country_dict['Num of Neutral Month Songs'] = number_neutral
+		country_dict['Total cases'] =  country_analysis[5]['Total cases']
+		all_countries.append(country_dict)
+	with open(f'all_countries.csv', 'w', encoding='utf8', newline='') as output_file:
+		fc = csv.DictWriter(output_file, fieldnames=all_countries[0].keys(),)
+		fc.writeheader()
+		fc.writerows(all_countries)
+		
 if __name__ == '__main__':
 	#save all songs of all countries to json files
 	#for key in LIST_OF_COUNTRIES.keys():
 	#	corona_stats_by_country(key)
 	#for key in LIST_OF_COUNTRIES.keys():
 	#	get_list_of_all_songs(key)
-	for key in LIST_OF_COUNTRIES.keys():
-		analysis_songs_by_country(key)
-	
+	#for key in LIST_OF_COUNTRIES.keys():
+	#	analysis_songs_by_country(key)
+	all_analysis()
 	#a = analysis_of_a_week_in_country('it','2019-11-29','2019-12-06')
 	#	with open(f'corona_analysis_it', 'r') as fin:
 	#		stats = json.load(fin)	
