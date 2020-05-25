@@ -31,7 +31,8 @@ LIST_OF_COUNTRIES ={
 	"za":"South afrika",
 	"vn":"Vietnam",
 	"il":"Israel",
-	"hk":"China"}
+	#"hk":"China",
+	"cn":"China"}
 
 START_DATE_SONGS = '2019-11-29'
 END_DATE_SONGS = '2020-05-01'
@@ -522,20 +523,10 @@ if __name__ == '__main__':
 	#	get_list_of_all_songs(key)
 	#for key in LIST_OF_COUNTRIES.keys():
 	#	analysis_songs_by_country(key)
+	#corona_stats_by_country('cn')
+	analysis_songs_by_country('cn')
 	all_analysis()
-	#a = analysis_of_a_week_in_country('it','2019-11-29','2019-12-06')
-	#	with open(f'corona_analysis_it', 'r') as fin:
-	#		stats = json.load(fin)	
-	#a = corona_stats_by_week(stats[0],'2020-01-31')
-	#print(a)
-	#result = get_result("when I was your man", "bruno mars")
-	#print(result)
-	#url = get_url_of_lyrics(result)
-	#print("url is "+ url)
-	#lyrics = get_lyrics_from_url(url)
-	#print(type(lyrics))
-	#new_lyrics = clean_lyrics(lyrics)
-	#print("new lyrics" +new_lyrics)
-	#fill_happy_sad(new_lyrics)
+
+	
 	
 	
