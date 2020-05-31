@@ -1,33 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Tusa,KAROL G,1,Colombia,2020-02-21,2020-02-28,Negative
-Ignorantes,Bad Bunny,2,Colombia,2020-02-21,2020-02-28,Negative
-Sigues Con El,Dímelo Flow,3,Colombia,2020-02-21,2020-02-28,Negative
-Hola - Remix,Dalex,4,Colombia,2020-02-21,2020-02-28,Negative
-Morado,J Balvin,5,Colombia,2020-02-21,2020-02-28,could not determine analysis
-Dance Monkey,Tones And I,6,Colombia,2020-02-21,2020-02-28,Neutral
-BORRAXXA,Feid,7,Colombia,2020-02-21,2020-02-28,Negative
-Fantasias,Rauw Alejandro,8,Colombia,2020-02-21,2020-02-28,Negative
-Girl,Myke Towers,9,Colombia,2020-02-21,2020-02-28,Negative
-Vete,Bad Bunny,10,Colombia,2020-02-21,2020-02-28,Negative
-Blanco,J Balvin,11,Colombia,2020-02-21,2020-02-28,Negative
-Keii,Anuel AA,12,Colombia,2020-02-21,2020-02-28,Positive
-RITMO (Bad Boys For Life),Black Eyed Peas,13,Colombia,2020-02-21,2020-02-28,Positive
-Medusa,Jhay Cortez,14,Colombia,2020-02-21,2020-02-28,Negative
-LA CANCIÓN,J Balvin,15,Colombia,2020-02-21,2020-02-28,Negative
-Quizas,Rich Music LTD,16,Colombia,2020-02-21,2020-02-28,Positive
-No Me Conoce - Remix,Jhay Cortez,17,Colombia,2020-02-21,2020-02-28,Negative
-Bellaquita - Remix,Dalex,18,Colombia,2020-02-21,2020-02-28,Negative
-China,Anuel AA,19,Colombia,2020-02-21,2020-02-28,Negative
-Mejor,Dalex,20,Colombia,2020-02-21,2020-02-28,Positive
-Rojo,J Balvin,1,Colombia,2020-02-28,2020-03-06,Neutral
-René,Residente,3,Colombia,2020-02-28,2020-03-06,Negative
-La Difícil,Bad Bunny,4,Colombia,2020-02-28,2020-03-06,Negative
-Si Veo a Tu Mamá,Bad Bunny,5,Colombia,2020-02-28,2020-03-06,Negative
-La Santa,Bad Bunny,10,Colombia,2020-02-28,2020-03-06,Negative
-Pero Ya No,Bad Bunny,14,Colombia,2020-02-28,2020-03-06,Negative
-Yo Perreo Sola,Bad Bunny,18,Colombia,2020-02-28,2020-03-06,Negative
-Safaera,Bad Bunny,19,Colombia,2020-02-28,2020-03-06,Negative
-Soliá,Bad Bunny,20,Colombia,2020-02-28,2020-03-06,Negative
-Diosa,Myke Towers,14,Colombia,2020-03-13,2020-03-20,Negative
-Tattoo,Rauw Alejandro,15,Colombia,2020-03-13,2020-03-20,Negative
-Por Primera Vez,Camilo,18,Colombia,2020-03-13,2020-03-20,Positive
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Tusa,KAROL G,1,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Ignorantes,Bad Bunny,2,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Sigues Con El,Dímelo Flow,3,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Hola - Remix,Dalex,4,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Morado,J Balvin,5,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/J-balvin-morado-lyrics
+Dance Monkey,Tones And I,6,Colombia,2020-02-21,2020-02-28,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+BORRAXXA,Feid,7,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Feid-and-manuel-turizo-borraxxa-lyrics
+Fantasias,Rauw Alejandro,8,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Girl,Myke Towers,9,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Myke-towers-girl-lyrics
+Vete,Bad Bunny,10,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Blanco,J Balvin,11,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/J-balvin-blanco-lyrics
+Keii,Anuel AA,12,Colombia,2020-02-21,2020-02-28,Positive,https://genius.com/Anuel-aa-keii-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,13,Colombia,2020-02-21,2020-02-28,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Medusa,Jhay Cortez,14,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Jhay-cortez-anuel-aa-and-j-balvin-medusa-lyrics
+LA CANCIÓN,J Balvin,15,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+Quizas,Rich Music LTD,16,Colombia,2020-02-21,2020-02-28,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics
+No Me Conoce - Remix,Jhay Cortez,17,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Bellaquita - Remix,Dalex,18,Colombia,2020-02-21,2020-02-28,Negative,https://genius.com/Dalex-lenny-tavarez-and-anitta-bellaquita-remix-lyrics
+China,Anuel AA,19,Colombia,2020-02-21,2020-02-28,could not determine analysis,
+Mejor,Dalex,20,Colombia,2020-02-21,2020-02-28,Positive,https://genius.com/Dalex-and-sech-mejor-lyrics
+Rojo,J Balvin,1,Colombia,2020-02-28,2020-03-06,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Ignorantes,Bad Bunny,2,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+René,Residente,3,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Residente-rene-lyrics
+La Difícil,Bad Bunny,4,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Si Veo a Tu Mamá,Bad Bunny,5,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Morado,J Balvin,6,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/J-balvin-morado-lyrics
+Tusa,KAROL G,7,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Sigues Con El,Dímelo Flow,8,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Vete,Bad Bunny,9,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-vete-lyrics
+La Santa,Bad Bunny,10,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-and-daddy-yankee-la-santa-lyrics
+Hola - Remix,Dalex,11,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Blanco,J Balvin,12,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/J-balvin-blanco-lyrics
+Dance Monkey,Tones And I,13,Colombia,2020-02-28,2020-03-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Pero Ya No,Bad Bunny,14,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-pero-ya-no-lyrics
+BORRAXXA,Feid,15,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Feid-and-manuel-turizo-borraxxa-lyrics
+Girl,Myke Towers,16,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Myke-towers-girl-lyrics
+Fantasias,Rauw Alejandro,17,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Yo Perreo Sola,Bad Bunny,18,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Safaera,Bad Bunny,19,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Soliá,Bad Bunny,20,Colombia,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-solia-lyrics
+Rojo,J Balvin,1,Colombia,2020-03-06,2020-03-13,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Si Veo a Tu Mamá,Bad Bunny,2,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Ignorantes,Bad Bunny,3,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+La Difícil,Bad Bunny,4,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Safaera,Bad Bunny,5,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Tusa,KAROL G,6,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Morado,J Balvin,7,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/J-balvin-morado-lyrics
+Sigues Con El,Dímelo Flow,8,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+La Santa,Bad Bunny,9,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-and-daddy-yankee-la-santa-lyrics
+Hola - Remix,Dalex,10,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Vete,Bad Bunny,11,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Dance Monkey,Tones And I,12,Colombia,2020-03-06,2020-03-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+René,Residente,13,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Residente-rene-lyrics
+Blanco,J Balvin,14,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/J-balvin-blanco-lyrics
+Yo Perreo Sola,Bad Bunny,15,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+BORRAXXA,Feid,16,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Feid-and-manuel-turizo-borraxxa-lyrics
+Girl,Myke Towers,17,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Myke-towers-girl-lyrics
+Fantasias,Rauw Alejandro,18,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Pero Ya No,Bad Bunny,19,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-pero-ya-no-lyrics
+LA CANCIÓN,J Balvin,20,Colombia,2020-03-06,2020-03-13,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+Rojo,J Balvin,1,Colombia,2020-03-13,2020-03-20,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Safaera,Bad Bunny,2,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Si Veo a Tu Mamá,Bad Bunny,3,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Ignorantes,Bad Bunny,4,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+La Difícil,Bad Bunny,5,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Tusa,KAROL G,6,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Morado,J Balvin,7,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/J-balvin-morado-lyrics
+Sigues Con El,Dímelo Flow,8,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Hola - Remix,Dalex,9,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+La Santa,Bad Bunny,10,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-and-daddy-yankee-la-santa-lyrics
+Dance Monkey,Tones And I,11,Colombia,2020-03-13,2020-03-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Vete,Bad Bunny,12,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Blanco,J Balvin,13,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/J-balvin-blanco-lyrics
+Diosa,Myke Towers,14,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Tattoo,Rauw Alejandro,15,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Yo Perreo Sola,Bad Bunny,16,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Fantasias,Rauw Alejandro,17,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Por Primera Vez,Camilo,18,Colombia,2020-03-13,2020-03-20,Positive,https://genius.com/Camilo-and-evaluna-montaner-por-primera-vez-lyrics
+Girl,Myke Towers,19,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Myke-towers-girl-lyrics
+BORRAXXA,Feid,20,Colombia,2020-03-13,2020-03-20,Negative,https://genius.com/Feid-and-manuel-turizo-borraxxa-lyrics

@@ -1,31 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Combatchy (feat. MC Rebecca),Anitta,1,Brazil,2019-11-29,2019-12-06,Negative
-Surtada - Remix Brega Funk,Dadá Boladão,2,Brazil,2019-11-29,2019-12-06,Neutral
-Cheirosa - Ao Vivo,Jorge &amp; Mateus,3,Brazil,2019-11-29,2019-12-06,could not determine analysis
-Some que ele vem atrás,Anitta,4,Brazil,2019-11-29,2019-12-06,Neutral
-Supera - Ao Vivo,Marília Mendonça,5,Brazil,2019-11-29,2019-12-06,Positive
-Gaiola É o Troco,MC Du Black,6,Brazil,2019-11-29,2019-12-06,Positive
-Chama Ela (feat. Pedro Sampaio),Lexa,7,Brazil,2019-11-29,2019-12-06,Negative
-Hit Contagiante,Felipe Original,8,Brazil,2019-11-29,2019-12-06,Negative
-Tijolão - Ao Vivo,Jorge &amp; Mateus,9,Brazil,2019-11-29,2019-12-06,could not determine analysis
-Lençol Dobrado,João Gustavo e Murilo,10,Brazil,2019-11-29,2019-12-06,Positive
-Ferida Curada,Zé Neto &amp; Cristiano,11,Brazil,2019-11-29,2019-12-06,could not determine analysis
-Invocada (Participação especial de Léo Santana) - Ao vivo,Ludmilla,12,Brazil,2019-11-29,2019-12-06,could not determine analysis
-Contatinho - Ao Vivo,Leo Santana,13,Brazil,2019-11-29,2019-12-06,Neutral
-choque térmico - ao vivo,Luan Santana,14,Brazil,2019-11-29,2019-12-06,could not determine analysis
-menina solta,Giulia Be,15,Brazil,2019-11-29,2019-12-06,Positive
-3 Batidas - Ao Vivo,Guilherme &amp; Benuto,16,Brazil,2019-11-29,2019-12-06,could not determine analysis
-Quarta Cadeira - Ao Vivo,Matheus &amp; Kauan,17,Brazil,2019-11-29,2019-12-06,could not determine analysis
-Quando a vontade bater (Participação especial de PK Delas),Pk,18,Brazil,2019-11-29,2019-12-06,could not determine analysis
-Sentou e Gostou,MC JottaPê,19,Brazil,2019-11-29,2019-12-06,Positive
-Kenny G,Matuê,20,Brazil,2019-11-29,2019-12-06,Negative
-SENTADÃO,Pedro Sampaio,3,Brazil,2019-12-06,2019-12-13,Negative
-Liberdade Provisória,Henrique &amp; Juliano,5,Brazil,2019-12-06,2019-12-13,could not determine analysis
-Verdinha,Ludmilla,9,Brazil,2019-12-06,2019-12-13,Negative
-To Voando Alto,Mc Poze do Rodo,20,Brazil,2019-12-06,2019-12-13,Neutral
-Girassol,Priscilla Alcantara,9,Brazil,2019-12-13,2019-12-20,Neutral
-Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,10,Brazil,2019-12-13,2019-12-20,could not determine analysis
-A Gente Fez Amor - Ao Vivo,Gusttavo Lima,10,Brazil,2019-12-20,2019-12-27,could not determine analysis
-Com ou Sem Mim (Ao Vivo em Fortaleza),Gustavo Mioto,17,Brazil,2019-12-20,2019-12-27,could not determine analysis
-S de Saudade,Luíza &amp; Maurílio,19,Brazil,2019-12-20,2019-12-27,could not determine analysis
-Tiro Certo - Ao Vivo,Zé Felipe,20,Brazil,2019-12-20,2019-12-27,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Combatchy (feat. MC Rebecca),Anitta,1,Brazil,2019-11-29,2019-12-06,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+Surtada - Remix Brega Funk,Dadá Boladão,2,Brazil,2019-11-29,2019-12-06,Neutral,https://genius.com/Dada-boladao-surtada-remix-lyrics
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,3,Brazil,2019-11-29,2019-12-06,could not determine analysis,
+Some que ele vem atrás,Anitta,4,Brazil,2019-11-29,2019-12-06,Neutral,https://genius.com/Anitta-and-marilia-mendonca-some-que-ele-vem-atras-lyrics
+Supera - Ao Vivo,Marília Mendonça,5,Brazil,2019-11-29,2019-12-06,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Gaiola É o Troco,MC Du Black,6,Brazil,2019-11-29,2019-12-06,Positive,https://genius.com/Mc-du-black-gaiola-e-o-troco-lyrics
+Chama Ela (feat. Pedro Sampaio),Lexa,7,Brazil,2019-11-29,2019-12-06,Negative,https://genius.com/Lexa-chama-ela-lyrics
+Hit Contagiante,Felipe Original,8,Brazil,2019-11-29,2019-12-06,Negative,https://genius.com/Felipe-original-hit-contagiante-lyrics
+Tijolão - Ao Vivo,Jorge &amp; Mateus,9,Brazil,2019-11-29,2019-12-06,could not determine analysis,
+Lençol Dobrado,João Gustavo e Murilo,10,Brazil,2019-11-29,2019-12-06,Positive,https://genius.com/Analaga-lencol-dobrado-lyrics
+Ferida Curada,Zé Neto &amp; Cristiano,11,Brazil,2019-11-29,2019-12-06,could not determine analysis,
+Invocada (Participação especial de Léo Santana) - Ao vivo,Ludmilla,12,Brazil,2019-11-29,2019-12-06,could not determine analysis,
+Contatinho - Ao Vivo,Leo Santana,13,Brazil,2019-11-29,2019-12-06,Neutral,https://genius.com/Leo-santana-contatinho-ao-vivo-lyrics
+choque térmico - ao vivo,Luan Santana,14,Brazil,2019-11-29,2019-12-06,could not determine analysis,
+menina solta,Giulia Be,15,Brazil,2019-11-29,2019-12-06,Positive,https://genius.com/Giulia-be-menina-solta-lyrics
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,16,Brazil,2019-11-29,2019-12-06,could not determine analysis,
+Quarta Cadeira - Ao Vivo,Matheus &amp; Kauan,17,Brazil,2019-11-29,2019-12-06,could not determine analysis,
+Quando a vontade bater (Participação especial de PK Delas),Pk,18,Brazil,2019-11-29,2019-12-06,could not determine analysis,
+Sentou e Gostou,MC JottaPê,19,Brazil,2019-11-29,2019-12-06,Positive,https://genius.com/Mc-jottape-sentou-e-gostou-lyrics
+Kenny G,Matuê,20,Brazil,2019-11-29,2019-12-06,Negative,https://genius.com/Matue-kenny-g-lyrics
+Combatchy (feat. MC Rebecca),Anitta,1,Brazil,2019-12-06,2019-12-13,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+Surtada - Remix Brega Funk,Dadá Boladão,2,Brazil,2019-12-06,2019-12-13,Neutral,https://genius.com/Dada-boladao-surtada-remix-lyrics
+SENTADÃO,Pedro Sampaio,3,Brazil,2019-12-06,2019-12-13,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+Supera - Ao Vivo,Marília Mendonça,4,Brazil,2019-12-06,2019-12-13,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Liberdade Provisória,Henrique &amp; Juliano,5,Brazil,2019-12-06,2019-12-13,could not determine analysis,
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,6,Brazil,2019-12-06,2019-12-13,could not determine analysis,
+Gaiola É o Troco,MC Du Black,7,Brazil,2019-12-06,2019-12-13,Positive,https://genius.com/Mc-du-black-gaiola-e-o-troco-lyrics
+Some que ele vem atrás,Anitta,8,Brazil,2019-12-06,2019-12-13,Neutral,https://genius.com/Anitta-and-marilia-mendonca-some-que-ele-vem-atras-lyrics
+Verdinha,Ludmilla,9,Brazil,2019-12-06,2019-12-13,Negative,https://genius.com/Ludmilla-verdinha-lyrics
+Hit Contagiante,Felipe Original,10,Brazil,2019-12-06,2019-12-13,Negative,https://genius.com/Felipe-original-hit-contagiante-lyrics
+Chama Ela (feat. Pedro Sampaio),Lexa,11,Brazil,2019-12-06,2019-12-13,Negative,https://genius.com/Lexa-chama-ela-lyrics
+Lençol Dobrado,João Gustavo e Murilo,12,Brazil,2019-12-06,2019-12-13,Positive,https://genius.com/Analaga-lencol-dobrado-lyrics
+Tijolão - Ao Vivo,Jorge &amp; Mateus,13,Brazil,2019-12-06,2019-12-13,could not determine analysis,
+Ferida Curada,Zé Neto &amp; Cristiano,14,Brazil,2019-12-06,2019-12-13,could not determine analysis,
+Quando a vontade bater (Participação especial de PK Delas),Pk,15,Brazil,2019-12-06,2019-12-13,could not determine analysis,
+Quarta Cadeira - Ao Vivo,Matheus &amp; Kauan,16,Brazil,2019-12-06,2019-12-13,could not determine analysis,
+Contatinho - Ao Vivo,Leo Santana,17,Brazil,2019-12-06,2019-12-13,Neutral,https://genius.com/Leo-santana-contatinho-ao-vivo-lyrics
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,18,Brazil,2019-12-06,2019-12-13,could not determine analysis,
+menina solta,Giulia Be,19,Brazil,2019-12-06,2019-12-13,Positive,https://genius.com/Giulia-be-menina-solta-lyrics
+To Voando Alto,Mc Poze do Rodo,20,Brazil,2019-12-06,2019-12-13,Neutral,https://genius.com/Mc-poze-do-rodo-to-voando-alto-lyrics
+Liberdade Provisória,Henrique &amp; Juliano,1,Brazil,2019-12-13,2019-12-20,could not determine analysis,
+Combatchy (feat. MC Rebecca),Anitta,2,Brazil,2019-12-13,2019-12-20,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+SENTADÃO,Pedro Sampaio,3,Brazil,2019-12-13,2019-12-20,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+Surtada - Remix Brega Funk,Dadá Boladão,4,Brazil,2019-12-13,2019-12-20,Neutral,https://genius.com/Dada-boladao-surtada-remix-lyrics
+Supera - Ao Vivo,Marília Mendonça,5,Brazil,2019-12-13,2019-12-20,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,6,Brazil,2019-12-13,2019-12-20,could not determine analysis,
+Some que ele vem atrás,Anitta,7,Brazil,2019-12-13,2019-12-20,Neutral,https://genius.com/Anitta-and-marilia-mendonca-some-que-ele-vem-atras-lyrics
+Gaiola É o Troco,MC Du Black,8,Brazil,2019-12-13,2019-12-20,Positive,https://genius.com/Mc-du-black-gaiola-e-o-troco-lyrics
+Girassol,Priscilla Alcantara,9,Brazil,2019-12-13,2019-12-20,Neutral,https://genius.com/Priscilla-alcantara-girassol-lyrics
+Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,10,Brazil,2019-12-13,2019-12-20,could not determine analysis,
+Verdinha,Ludmilla,11,Brazil,2019-12-13,2019-12-20,Negative,https://genius.com/Ludmilla-verdinha-lyrics
+Hit Contagiante,Felipe Original,12,Brazil,2019-12-13,2019-12-20,Negative,https://genius.com/Felipe-original-hit-contagiante-lyrics
+Chama Ela (feat. Pedro Sampaio),Lexa,13,Brazil,2019-12-13,2019-12-20,Negative,https://genius.com/Lexa-chama-ela-lyrics
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,14,Brazil,2019-12-13,2019-12-20,could not determine analysis,
+Tijolão - Ao Vivo,Jorge &amp; Mateus,15,Brazil,2019-12-13,2019-12-20,could not determine analysis,
+Quarta Cadeira - Ao Vivo,Matheus &amp; Kauan,16,Brazil,2019-12-13,2019-12-20,could not determine analysis,
+Lençol Dobrado,João Gustavo e Murilo,17,Brazil,2019-12-13,2019-12-20,Positive,https://genius.com/Analaga-lencol-dobrado-lyrics
+Contatinho - Ao Vivo,Leo Santana,18,Brazil,2019-12-13,2019-12-20,Neutral,https://genius.com/Leo-santana-contatinho-ao-vivo-lyrics
+Ferida Curada,Zé Neto &amp; Cristiano,19,Brazil,2019-12-13,2019-12-20,could not determine analysis,
+To Voando Alto,Mc Poze do Rodo,20,Brazil,2019-12-13,2019-12-20,Neutral,https://genius.com/Mc-poze-do-rodo-to-voando-alto-lyrics
+Liberdade Provisória,Henrique &amp; Juliano,1,Brazil,2019-12-20,2019-12-27,could not determine analysis,
+Combatchy (feat. MC Rebecca),Anitta,2,Brazil,2019-12-20,2019-12-27,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+SENTADÃO,Pedro Sampaio,3,Brazil,2019-12-20,2019-12-27,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,4,Brazil,2019-12-20,2019-12-27,could not determine analysis,
+Supera - Ao Vivo,Marília Mendonça,5,Brazil,2019-12-20,2019-12-27,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Surtada - Remix Brega Funk,Dadá Boladão,6,Brazil,2019-12-20,2019-12-27,Neutral,https://genius.com/Dada-boladao-surtada-remix-lyrics
+Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,7,Brazil,2019-12-20,2019-12-27,could not determine analysis,
+Some que ele vem atrás,Anitta,8,Brazil,2019-12-20,2019-12-27,Neutral,https://genius.com/Anitta-and-marilia-mendonca-some-que-ele-vem-atras-lyrics
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,9,Brazil,2019-12-20,2019-12-27,could not determine analysis,
+A Gente Fez Amor - Ao Vivo,Gusttavo Lima,10,Brazil,2019-12-20,2019-12-27,could not determine analysis,
+Tijolão - Ao Vivo,Jorge &amp; Mateus,11,Brazil,2019-12-20,2019-12-27,could not determine analysis,
+Verdinha,Ludmilla,12,Brazil,2019-12-20,2019-12-27,Negative,https://genius.com/Ludmilla-verdinha-lyrics
+Hit Contagiante,Felipe Original,13,Brazil,2019-12-20,2019-12-27,Negative,https://genius.com/Felipe-original-hit-contagiante-lyrics
+Gaiola É o Troco,MC Du Black,14,Brazil,2019-12-20,2019-12-27,Positive,https://genius.com/Mc-du-black-gaiola-e-o-troco-lyrics
+Lençol Dobrado,João Gustavo e Murilo,15,Brazil,2019-12-20,2019-12-27,Positive,https://genius.com/Analaga-lencol-dobrado-lyrics
+Chama Ela (feat. Pedro Sampaio),Lexa,16,Brazil,2019-12-20,2019-12-27,Negative,https://genius.com/Lexa-chama-ela-lyrics
+Com ou Sem Mim (Ao Vivo em Fortaleza),Gustavo Mioto,17,Brazil,2019-12-20,2019-12-27,could not determine analysis,
+Ferida Curada,Zé Neto &amp; Cristiano,18,Brazil,2019-12-20,2019-12-27,could not determine analysis,
+S de Saudade,Luíza &amp; Maurílio,19,Brazil,2019-12-20,2019-12-27,could not determine analysis,
+Tiro Certo - Ao Vivo,Zé Felipe,20,Brazil,2019-12-20,2019-12-27,Negative,https://genius.com/Genius-brasil-awards-2016-vencedores-annotated

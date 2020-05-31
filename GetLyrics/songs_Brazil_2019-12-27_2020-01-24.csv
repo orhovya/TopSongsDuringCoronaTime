@@ -1,27 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Liberdade Provisória,Henrique &amp; Juliano,1,Brazil,2019-12-27,2020-01-03,could not determine analysis
-SENTADÃO,Pedro Sampaio,2,Brazil,2019-12-27,2020-01-03,Negative
-Combatchy (feat. MC Rebecca),Anitta,3,Brazil,2019-12-27,2020-01-03,Negative
-Cheirosa - Ao Vivo,Jorge &amp; Mateus,4,Brazil,2019-12-27,2020-01-03,could not determine analysis
-Supera - Ao Vivo,Marília Mendonça,5,Brazil,2019-12-27,2020-01-03,Positive
-Surtada - Remix Brega Funk,Dadá Boladão,6,Brazil,2019-12-27,2020-01-03,Neutral
-Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,7,Brazil,2019-12-27,2020-01-03,could not determine analysis
-A Gente Fez Amor - Ao Vivo,Gusttavo Lima,8,Brazil,2019-12-27,2020-01-03,could not determine analysis
-Some que ele vem atrás,Anitta,9,Brazil,2019-12-27,2020-01-03,Neutral
-3 Batidas - Ao Vivo,Guilherme &amp; Benuto,10,Brazil,2019-12-27,2020-01-03,could not determine analysis
-Verdinha,Ludmilla,11,Brazil,2019-12-27,2020-01-03,Negative
-Tijolão - Ao Vivo,Jorge &amp; Mateus,12,Brazil,2019-12-27,2020-01-03,could not determine analysis
-Hit Contagiante,Felipe Original,13,Brazil,2019-12-27,2020-01-03,Negative
-S de Saudade,Luíza &amp; Maurílio,14,Brazil,2019-12-27,2020-01-03,could not determine analysis
-Gaiola É o Troco,MC Du Black,15,Brazil,2019-12-27,2020-01-03,Positive
-Chama Ela (feat. Pedro Sampaio),Lexa,16,Brazil,2019-12-27,2020-01-03,Negative
-Lençol Dobrado,João Gustavo e Murilo,17,Brazil,2019-12-27,2020-01-03,Positive
-Contatinho - Ao Vivo,Leo Santana,18,Brazil,2019-12-27,2020-01-03,Neutral
-Aí Eu Bebo - Ao Vivo,Maiara &amp; Maraisa,19,Brazil,2019-12-27,2020-01-03,could not determine analysis
-Dance Monkey,Tones And I,20,Brazil,2019-12-27,2020-01-03,Neutral
-Yummy,Justin Bieber,16,Brazil,2020-01-03,2020-01-10,Positive
-Porta Mala,Os Parazim,18,Brazil,2020-01-03,2020-01-10,could not determine analysis
-menina solta,Giulia Be,20,Brazil,2020-01-03,2020-01-10,Positive
-Graveto - Ao Vivo,Marília Mendonça,10,Brazil,2020-01-10,2020-01-17,could not determine analysis
-Tudo Ok,Thiaguinho MT,2,Brazil,2020-01-17,2020-01-24,Positive
-Vem Me Satisfazer,MC Ingryd,12,Brazil,2020-01-17,2020-01-24,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Liberdade Provisória,Henrique &amp; Juliano,1,Brazil,2019-12-27,2020-01-03,could not determine analysis,
+SENTADÃO,Pedro Sampaio,2,Brazil,2019-12-27,2020-01-03,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+Combatchy (feat. MC Rebecca),Anitta,3,Brazil,2019-12-27,2020-01-03,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,4,Brazil,2019-12-27,2020-01-03,could not determine analysis,
+Supera - Ao Vivo,Marília Mendonça,5,Brazil,2019-12-27,2020-01-03,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Surtada - Remix Brega Funk,Dadá Boladão,6,Brazil,2019-12-27,2020-01-03,Neutral,https://genius.com/Dada-boladao-surtada-remix-lyrics
+Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,7,Brazil,2019-12-27,2020-01-03,could not determine analysis,
+A Gente Fez Amor - Ao Vivo,Gusttavo Lima,8,Brazil,2019-12-27,2020-01-03,could not determine analysis,
+Some que ele vem atrás,Anitta,9,Brazil,2019-12-27,2020-01-03,Neutral,https://genius.com/Anitta-and-marilia-mendonca-some-que-ele-vem-atras-lyrics
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,10,Brazil,2019-12-27,2020-01-03,could not determine analysis,
+Verdinha,Ludmilla,11,Brazil,2019-12-27,2020-01-03,Negative,https://genius.com/Ludmilla-verdinha-lyrics
+Tijolão - Ao Vivo,Jorge &amp; Mateus,12,Brazil,2019-12-27,2020-01-03,could not determine analysis,
+Hit Contagiante,Felipe Original,13,Brazil,2019-12-27,2020-01-03,Negative,https://genius.com/Felipe-original-hit-contagiante-lyrics
+S de Saudade,Luíza &amp; Maurílio,14,Brazil,2019-12-27,2020-01-03,could not determine analysis,
+Gaiola É o Troco,MC Du Black,15,Brazil,2019-12-27,2020-01-03,Positive,https://genius.com/Mc-du-black-gaiola-e-o-troco-lyrics
+Chama Ela (feat. Pedro Sampaio),Lexa,16,Brazil,2019-12-27,2020-01-03,Negative,https://genius.com/Lexa-chama-ela-lyrics
+Lençol Dobrado,João Gustavo e Murilo,17,Brazil,2019-12-27,2020-01-03,Positive,https://genius.com/Analaga-lencol-dobrado-lyrics
+Contatinho - Ao Vivo,Leo Santana,18,Brazil,2019-12-27,2020-01-03,Neutral,https://genius.com/Leo-santana-contatinho-ao-vivo-lyrics
+Aí Eu Bebo - Ao Vivo,Maiara &amp; Maraisa,19,Brazil,2019-12-27,2020-01-03,could not determine analysis,
+Dance Monkey,Tones And I,20,Brazil,2019-12-27,2020-01-03,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Liberdade Provisória,Henrique &amp; Juliano,1,Brazil,2020-01-03,2020-01-10,could not determine analysis,
+A Gente Fez Amor - Ao Vivo,Gusttavo Lima,2,Brazil,2020-01-03,2020-01-10,could not determine analysis,
+SENTADÃO,Pedro Sampaio,3,Brazil,2020-01-03,2020-01-10,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+Combatchy (feat. MC Rebecca),Anitta,4,Brazil,2020-01-03,2020-01-10,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,5,Brazil,2020-01-03,2020-01-10,could not determine analysis,
+Surtada - Remix Brega Funk,Dadá Boladão,6,Brazil,2020-01-03,2020-01-10,Neutral,https://genius.com/Dada-boladao-surtada-remix-lyrics
+Supera - Ao Vivo,Marília Mendonça,7,Brazil,2020-01-03,2020-01-10,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Dance Monkey,Tones And I,8,Brazil,2020-01-03,2020-01-10,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,9,Brazil,2020-01-03,2020-01-10,could not determine analysis,
+Some que ele vem atrás,Anitta,10,Brazil,2020-01-03,2020-01-10,Neutral,https://genius.com/Anitta-and-marilia-mendonca-some-que-ele-vem-atras-lyrics
+Verdinha,Ludmilla,11,Brazil,2020-01-03,2020-01-10,Negative,https://genius.com/Ludmilla-verdinha-lyrics
+S de Saudade,Luíza &amp; Maurílio,12,Brazil,2020-01-03,2020-01-10,could not determine analysis,
+Tijolão - Ao Vivo,Jorge &amp; Mateus,13,Brazil,2020-01-03,2020-01-10,could not determine analysis,
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,14,Brazil,2020-01-03,2020-01-10,could not determine analysis,
+Gaiola É o Troco,MC Du Black,15,Brazil,2020-01-03,2020-01-10,Positive,https://genius.com/Mc-du-black-gaiola-e-o-troco-lyrics
+Yummy,Justin Bieber,16,Brazil,2020-01-03,2020-01-10,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Hit Contagiante,Felipe Original,17,Brazil,2020-01-03,2020-01-10,Negative,https://genius.com/Felipe-original-hit-contagiante-lyrics
+Porta Mala,Os Parazim,18,Brazil,2020-01-03,2020-01-10,could not determine analysis,
+Chama Ela (feat. Pedro Sampaio),Lexa,19,Brazil,2020-01-03,2020-01-10,Negative,https://genius.com/Lexa-chama-ela-lyrics
+menina solta,Giulia Be,20,Brazil,2020-01-03,2020-01-10,Positive,https://genius.com/Giulia-be-menina-solta-lyrics
+Liberdade Provisória,Henrique &amp; Juliano,1,Brazil,2020-01-10,2020-01-17,could not determine analysis,
+SENTADÃO,Pedro Sampaio,2,Brazil,2020-01-10,2020-01-17,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+A Gente Fez Amor - Ao Vivo,Gusttavo Lima,3,Brazil,2020-01-10,2020-01-17,could not determine analysis,
+Combatchy (feat. MC Rebecca),Anitta,4,Brazil,2020-01-10,2020-01-17,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,5,Brazil,2020-01-10,2020-01-17,could not determine analysis,
+Surtada - Remix Brega Funk,Dadá Boladão,6,Brazil,2020-01-10,2020-01-17,Neutral,https://genius.com/Dada-boladao-surtada-remix-lyrics
+Dance Monkey,Tones And I,7,Brazil,2020-01-10,2020-01-17,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,8,Brazil,2020-01-10,2020-01-17,could not determine analysis,
+Supera - Ao Vivo,Marília Mendonça,9,Brazil,2020-01-10,2020-01-17,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Graveto - Ao Vivo,Marília Mendonça,10,Brazil,2020-01-10,2020-01-17,could not determine analysis,
+Some que ele vem atrás,Anitta,11,Brazil,2020-01-10,2020-01-17,Neutral,https://genius.com/Anitta-and-marilia-mendonca-some-que-ele-vem-atras-lyrics
+Verdinha,Ludmilla,12,Brazil,2020-01-10,2020-01-17,Negative,https://genius.com/Ludmilla-verdinha-lyrics
+S de Saudade,Luíza &amp; Maurílio,13,Brazil,2020-01-10,2020-01-17,could not determine analysis,
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,14,Brazil,2020-01-10,2020-01-17,could not determine analysis,
+Porta Mala,Os Parazim,15,Brazil,2020-01-10,2020-01-17,could not determine analysis,
+Gaiola É o Troco,MC Du Black,16,Brazil,2020-01-10,2020-01-17,Positive,https://genius.com/Mc-du-black-gaiola-e-o-troco-lyrics
+Tijolão - Ao Vivo,Jorge &amp; Mateus,17,Brazil,2020-01-10,2020-01-17,could not determine analysis,
+Hit Contagiante,Felipe Original,18,Brazil,2020-01-10,2020-01-17,Negative,https://genius.com/Felipe-original-hit-contagiante-lyrics
+Chama Ela (feat. Pedro Sampaio),Lexa,19,Brazil,2020-01-10,2020-01-17,Negative,https://genius.com/Lexa-chama-ela-lyrics
+Yummy,Justin Bieber,20,Brazil,2020-01-10,2020-01-17,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Liberdade Provisória,Henrique &amp; Juliano,1,Brazil,2020-01-17,2020-01-24,could not determine analysis,
+Tudo Ok,Thiaguinho MT,2,Brazil,2020-01-17,2020-01-24,Positive,https://genius.com/Thiaguinho-mt-tudo-ok-lyrics
+SENTADÃO,Pedro Sampaio,3,Brazil,2020-01-17,2020-01-24,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+A Gente Fez Amor - Ao Vivo,Gusttavo Lima,4,Brazil,2020-01-17,2020-01-24,could not determine analysis,
+Combatchy (feat. MC Rebecca),Anitta,5,Brazil,2020-01-17,2020-01-24,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+Graveto - Ao Vivo,Marília Mendonça,6,Brazil,2020-01-17,2020-01-24,could not determine analysis,
+Dance Monkey,Tones And I,7,Brazil,2020-01-17,2020-01-24,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Surtada - Remix Brega Funk,Dadá Boladão,8,Brazil,2020-01-17,2020-01-24,Neutral,https://genius.com/Dada-boladao-surtada-remix-lyrics
+Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,9,Brazil,2020-01-17,2020-01-24,could not determine analysis,
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,10,Brazil,2020-01-17,2020-01-24,could not determine analysis,
+Supera - Ao Vivo,Marília Mendonça,11,Brazil,2020-01-17,2020-01-24,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Vem Me Satisfazer,MC Ingryd,12,Brazil,2020-01-17,2020-01-24,Negative,https://genius.com/Mc-ingryd-vem-me-satisfazer-lyrics
+S de Saudade,Luíza &amp; Maurílio,13,Brazil,2020-01-17,2020-01-24,could not determine analysis,
+Some que ele vem atrás,Anitta,14,Brazil,2020-01-17,2020-01-24,Neutral,https://genius.com/Anitta-and-marilia-mendonca-some-que-ele-vem-atras-lyrics
+Verdinha,Ludmilla,15,Brazil,2020-01-17,2020-01-24,Negative,https://genius.com/Ludmilla-verdinha-lyrics
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,16,Brazil,2020-01-17,2020-01-24,could not determine analysis,
+Porta Mala,Os Parazim,17,Brazil,2020-01-17,2020-01-24,could not determine analysis,
+Gaiola É o Troco,MC Du Black,18,Brazil,2020-01-17,2020-01-24,Positive,https://genius.com/Mc-du-black-gaiola-e-o-troco-lyrics
+Hit Contagiante,Felipe Original,19,Brazil,2020-01-17,2020-01-24,Negative,https://genius.com/Felipe-original-hit-contagiante-lyrics
+Tijolão - Ao Vivo,Jorge &amp; Mateus,20,Brazil,2020-01-17,2020-01-24,could not determine analysis,

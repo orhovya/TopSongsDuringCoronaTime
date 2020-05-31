@@ -1,26 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Tusa,KAROL G,1,Guatemala,2019-11-29,2019-12-06,Negative
-Vete,Bad Bunny,2,Guatemala,2019-11-29,2019-12-06,Negative
-RITMO (Bad Boys For Life),Black Eyed Peas,3,Guatemala,2019-11-29,2019-12-06,Positive
-LA CANCIÓN,J Balvin,4,Guatemala,2019-11-29,2019-12-06,Negative
-Fantasias,Rauw Alejandro,5,Guatemala,2019-11-29,2019-12-06,Negative
-China,Anuel AA,6,Guatemala,2019-11-29,2019-12-06,Negative
-No Me Conoce - Remix,Jhay Cortez,7,Guatemala,2019-11-29,2019-12-06,Negative
-Callaita,Bad Bunny,8,Guatemala,2019-11-29,2019-12-06,Negative
-Pa' Olvidarme De Ella,Piso 21,9,Guatemala,2019-11-29,2019-12-06,Negative
-Que Tire Pa Lante,Daddy Yankee,10,Guatemala,2019-11-29,2019-12-06,Negative
-Adicto (with Anuel AA &amp; Ozuna),Tainy,11,Guatemala,2019-11-29,2019-12-06,could not determine analysis
-Whine Up,Nicky Jam,12,Guatemala,2019-11-29,2019-12-06,Negative
-Si Te Vas,Sech,13,Guatemala,2019-11-29,2019-12-06,Positive
-Soltera - Remix,Lunay,14,Guatemala,2019-11-29,2019-12-06,Negative
-Tutu,Camilo,15,Guatemala,2019-11-29,2019-12-06,Negative
-Quizas,Rich Music LTD,16,Guatemala,2019-11-29,2019-12-06,Positive
-Aventura,Lunay,17,Guatemala,2019-11-29,2019-12-06,Negative
-QUE PRETENDES,J Balvin,18,Guatemala,2019-11-29,2019-12-06,Negative
-Indeciso,Reik,19,Guatemala,2019-11-29,2019-12-06,Negative
-"Yo x Ti, Tu x Mi",ROSALÍA,20,Guatemala,2019-11-29,2019-12-06,Positive
-Dance Monkey,Tones And I,18,Guatemala,2019-12-06,2019-12-13,Neutral
-11 PM,Maluma,19,Guatemala,2019-12-06,2019-12-13,Negative
-Pa Mí - Remix,Dalex,20,Guatemala,2019-12-06,2019-12-13,Negative
-Sigues Con El,Dímelo Flow,18,Guatemala,2019-12-13,2019-12-20,Negative
-Amor A Primera Vista,Los Angeles Azules,19,Guatemala,2019-12-20,2019-12-27,could not determine analysis
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Tusa,KAROL G,1,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Vete,Bad Bunny,2,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Bad-bunny-vete-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,3,Guatemala,2019-11-29,2019-12-06,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+LA CANCIÓN,J Balvin,4,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+Fantasias,Rauw Alejandro,5,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+China,Anuel AA,6,Guatemala,2019-11-29,2019-12-06,could not determine analysis,
+No Me Conoce - Remix,Jhay Cortez,7,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Callaita,Bad Bunny,8,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+Pa' Olvidarme De Ella,Piso 21,9,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+Que Tire Pa Lante,Daddy Yankee,10,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Adicto (with Anuel AA &amp; Ozuna),Tainy,11,Guatemala,2019-11-29,2019-12-06,could not determine analysis,
+Whine Up,Nicky Jam,12,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Nicky-jam-and-anuel-aa-whine-up-lyrics
+Si Te Vas,Sech,13,Guatemala,2019-11-29,2019-12-06,Positive,https://genius.com/Sech-and-ozuna-si-te-vas-lyrics
+Soltera - Remix,Lunay,14,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Lunay-daddy-yankee-and-bad-bunny-soltera-remix-lyrics
+Tutu,Camilo,15,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Camilo-and-pedro-capo-tutu-lyrics
+Quizas,Rich Music LTD,16,Guatemala,2019-11-29,2019-12-06,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics
+Aventura,Lunay,17,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Lunay-ozuna-and-anuel-aa-aventura-lyrics
+QUE PRETENDES,J Balvin,18,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/J-balvin-and-bad-bunny-que-pretendes-lyrics
+Indeciso,Reik,19,Guatemala,2019-11-29,2019-12-06,Negative,https://genius.com/Reik-j-balvin-and-lalo-ebratt-indeciso-lyrics
+"Yo x Ti, Tu x Mi",ROSALÍA,20,Guatemala,2019-11-29,2019-12-06,Positive,https://genius.com/Rosalia-and-ozuna-yo-x-ti-tu-x-mi-lyrics
+Tusa,KAROL G,1,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Vete,Bad Bunny,2,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Bad-bunny-vete-lyrics
+LA CANCIÓN,J Balvin,3,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+Fantasias,Rauw Alejandro,4,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,5,Guatemala,2019-12-06,2019-12-13,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+China,Anuel AA,6,Guatemala,2019-12-06,2019-12-13,could not determine analysis,
+No Me Conoce - Remix,Jhay Cortez,7,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Callaita,Bad Bunny,8,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+Pa' Olvidarme De Ella,Piso 21,9,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+Adicto (with Anuel AA &amp; Ozuna),Tainy,10,Guatemala,2019-12-06,2019-12-13,could not determine analysis,
+Que Tire Pa Lante,Daddy Yankee,11,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Whine Up,Nicky Jam,12,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Nicky-jam-and-anuel-aa-whine-up-lyrics
+Soltera - Remix,Lunay,13,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Lunay-daddy-yankee-and-bad-bunny-soltera-remix-lyrics
+Si Te Vas,Sech,14,Guatemala,2019-12-06,2019-12-13,Positive,https://genius.com/Sech-and-ozuna-si-te-vas-lyrics
+Tutu,Camilo,15,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Camilo-and-pedro-capo-tutu-lyrics
+QUE PRETENDES,J Balvin,16,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/J-balvin-and-bad-bunny-que-pretendes-lyrics
+Quizas,Rich Music LTD,17,Guatemala,2019-12-06,2019-12-13,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics
+Dance Monkey,Tones And I,18,Guatemala,2019-12-06,2019-12-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+11 PM,Maluma,19,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Maluma-11-pm-lyrics
+Pa Mí - Remix,Dalex,20,Guatemala,2019-12-06,2019-12-13,Negative,https://genius.com/Dalex-rafa-pabon-and-khea-pa-mi-remix-lyrics
+Tusa,KAROL G,1,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Vete,Bad Bunny,2,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Fantasias,Rauw Alejandro,3,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+LA CANCIÓN,J Balvin,4,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,5,Guatemala,2019-12-13,2019-12-20,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+China,Anuel AA,6,Guatemala,2019-12-13,2019-12-20,could not determine analysis,
+No Me Conoce - Remix,Jhay Cortez,7,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Pa' Olvidarme De Ella,Piso 21,8,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+Callaita,Bad Bunny,9,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+Adicto (with Anuel AA &amp; Ozuna),Tainy,10,Guatemala,2019-12-13,2019-12-20,could not determine analysis,
+Que Tire Pa Lante,Daddy Yankee,11,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Whine Up,Nicky Jam,12,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Nicky-jam-and-anuel-aa-whine-up-lyrics
+Dance Monkey,Tones And I,13,Guatemala,2019-12-13,2019-12-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Soltera - Remix,Lunay,14,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Lunay-daddy-yankee-and-bad-bunny-soltera-remix-lyrics
+Si Te Vas,Sech,15,Guatemala,2019-12-13,2019-12-20,Positive,https://genius.com/Sech-and-ozuna-si-te-vas-lyrics
+Tutu,Camilo,16,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Camilo-and-pedro-capo-tutu-lyrics
+Quizas,Rich Music LTD,17,Guatemala,2019-12-13,2019-12-20,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics
+Sigues Con El,Dímelo Flow,18,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+QUE PRETENDES,J Balvin,19,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/J-balvin-and-bad-bunny-que-pretendes-lyrics
+Aventura,Lunay,20,Guatemala,2019-12-13,2019-12-20,Negative,https://genius.com/Lunay-ozuna-and-anuel-aa-aventura-lyrics
+Tusa,KAROL G,1,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Vete,Bad Bunny,2,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Fantasias,Rauw Alejandro,3,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+LA CANCIÓN,J Balvin,4,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,5,Guatemala,2019-12-20,2019-12-27,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+China,Anuel AA,6,Guatemala,2019-12-20,2019-12-27,could not determine analysis,
+No Me Conoce - Remix,Jhay Cortez,7,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Pa' Olvidarme De Ella,Piso 21,8,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+Callaita,Bad Bunny,9,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+Sigues Con El,Dímelo Flow,10,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Dance Monkey,Tones And I,11,Guatemala,2019-12-20,2019-12-27,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Que Tire Pa Lante,Daddy Yankee,12,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Adicto (with Anuel AA &amp; Ozuna),Tainy,13,Guatemala,2019-12-20,2019-12-27,could not determine analysis,
+Whine Up,Nicky Jam,14,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Nicky-jam-and-anuel-aa-whine-up-lyrics
+Si Te Vas,Sech,15,Guatemala,2019-12-20,2019-12-27,Positive,https://genius.com/Sech-and-ozuna-si-te-vas-lyrics
+Soltera - Remix,Lunay,16,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Lunay-daddy-yankee-and-bad-bunny-soltera-remix-lyrics
+Tutu,Camilo,17,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/Camilo-and-pedro-capo-tutu-lyrics
+Quizas,Rich Music LTD,18,Guatemala,2019-12-20,2019-12-27,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics
+Amor A Primera Vista,Los Angeles Azules,19,Guatemala,2019-12-20,2019-12-27,Positive,https://genius.com/Los-angeles-azules-belinda-and-lalo-ebratt-amor-a-primera-vista-lyrics
+QUE PRETENDES,J Balvin,20,Guatemala,2019-12-20,2019-12-27,Negative,https://genius.com/J-balvin-and-bad-bunny-que-pretendes-lyrics

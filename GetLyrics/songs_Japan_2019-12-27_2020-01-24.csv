@@ -1,25 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Pretender,Official HIGE DANdism,1,Japan,2019-12-27,2020-01-03,Neutral
-Hakujitsu,King Gnu,2,Japan,2019-12-27,2020-01-03,Neutral
-宿命,Official HIGE DANdism,3,Japan,2019-12-27,2020-01-03,Neutral
-Machigaisagashi,Masaki Suda,4,Japan,2019-12-27,2020-01-03,Neutral
-イエスタデイ,Official HIGE DANdism,5,Japan,2019-12-27,2020-01-03,could not determine analysis
-ノーダウト,Official HIGE DANdism,6,Japan,2019-12-27,2020-01-03,could not determine analysis
-マリーゴールド,Aimyon,7,Japan,2019-12-27,2020-01-03,could not determine analysis
-115万キロのフィルム,Official HIGE DANdism,8,Japan,2019-12-27,2020-01-03,could not determine analysis
-Gurenge,LiSA,9,Japan,2019-12-27,2020-01-03,Negative
-Sayonara Elegy,Masaki Suda,10,Japan,2019-12-27,2020-01-03,could not determine analysis
-高嶺の花子さん,back number,11,Japan,2019-12-27,2020-01-03,Neutral
-クリスマスソング,back number,12,Japan,2019-12-27,2020-01-03,could not determine analysis
-Stand By You,Official HIGE DANdism,13,Japan,2019-12-27,2020-01-03,Positive
-Teenager Forever,King Gnu,14,Japan,2019-12-27,2020-01-03,Neutral
-君はロックを聴かない,Aimyon,15,Japan,2019-12-27,2020-01-03,could not determine analysis
-インフェルノ,Mrs. GREEN APPLE,16,Japan,2019-12-27,2020-01-03,Neutral
-Hikoutei,King Gnu,17,Japan,2019-12-27,2020-01-03,Neutral
-HANABI,Mr.Children,18,Japan,2019-12-27,2020-01-03,Neutral
-Umbrella,King Gnu,19,Japan,2019-12-27,2020-01-03,Neutral
-ただ君に晴れ,ヨルシカ,20,Japan,2019-12-27,2020-01-03,could not determine analysis
-I LOVE...,Official HIGE DANdism,10,Japan,2020-01-17,2020-01-24,Positive
-Doron,King Gnu,12,Japan,2020-01-17,2020-01-24,Neutral
-Humor,King Gnu,14,Japan,2020-01-17,2020-01-24,could not determine analysis
-Small Planet,King Gnu,19,Japan,2020-01-17,2020-01-24,Neutral
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Pretender,Official HIGE DANdism,1,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/Official-hige-dandism-pretender-lyrics
+Hakujitsu,King Gnu,2,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/King-gnu-hakujitsu-lyrics
+宿命,Official HIGE DANdism,3,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/Official-hige-dandism-shukumei-lyrics
+Machigaisagashi,Masaki Suda,4,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/Masaki-suda-machigai-sagashi-lyrics
+イエスタデイ,Official HIGE DANdism,5,Japan,2019-12-27,2020-01-03,could not determine analysis,
+ノーダウト,Official HIGE DANdism,6,Japan,2019-12-27,2020-01-03,could not determine analysis,
+マリーゴールド,Aimyon,7,Japan,2019-12-27,2020-01-03,could not determine analysis,
+115万キロのフィルム,Official HIGE DANdism,8,Japan,2019-12-27,2020-01-03,could not determine analysis,
+Gurenge,LiSA,9,Japan,2019-12-27,2020-01-03,Negative,https://genius.com/Lisa-gurenge-lyrics
+Sayonara Elegy,Masaki Suda,10,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/Masaki-suda-sayonara-elegy-lyrics
+高嶺の花子さん,back number,11,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/Back-number--lyrics
+クリスマスソング,back number,12,Japan,2019-12-27,2020-01-03,could not determine analysis,
+Stand By You,Official HIGE DANdism,13,Japan,2019-12-27,2020-01-03,Positive,https://genius.com/Official-hige-dandism-stand-by-you-lyrics
+Teenager Forever,King Gnu,14,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/King-gnu-teenager-forever-lyrics
+君はロックを聴かない,Aimyon,15,Japan,2019-12-27,2020-01-03,could not determine analysis,
+インフェルノ,Mrs. GREEN APPLE,16,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/Mrs-green-apple-inferno-lyrics
+Hikoutei,King Gnu,17,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/King-gnu-hikoutei-lyrics
+HANABI,Mr.Children,18,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/Mrchildren-hanabi-lyrics
+Umbrella,King Gnu,19,Japan,2019-12-27,2020-01-03,Neutral,https://genius.com/King-gnu-umbrella-lyrics
+ただ君に晴れ,ヨルシカ,20,Japan,2019-12-27,2020-01-03,could not determine analysis,
+Pretender,Official HIGE DANdism,1,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/Official-hige-dandism-pretender-lyrics
+Hakujitsu,King Gnu,2,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/King-gnu-hakujitsu-lyrics
+宿命,Official HIGE DANdism,3,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/Official-hige-dandism-shukumei-lyrics
+Machigaisagashi,Masaki Suda,4,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/Masaki-suda-machigai-sagashi-lyrics
+イエスタデイ,Official HIGE DANdism,5,Japan,2020-01-03,2020-01-10,could not determine analysis,
+ノーダウト,Official HIGE DANdism,6,Japan,2020-01-03,2020-01-10,could not determine analysis,
+115万キロのフィルム,Official HIGE DANdism,7,Japan,2020-01-03,2020-01-10,could not determine analysis,
+マリーゴールド,Aimyon,8,Japan,2020-01-03,2020-01-10,could not determine analysis,
+Gurenge,LiSA,9,Japan,2020-01-03,2020-01-10,Negative,https://genius.com/Lisa-gurenge-lyrics
+Sayonara Elegy,Masaki Suda,10,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/Masaki-suda-sayonara-elegy-lyrics
+高嶺の花子さん,back number,11,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/Back-number--lyrics
+Teenager Forever,King Gnu,12,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/King-gnu-teenager-forever-lyrics
+Hikoutei,King Gnu,13,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/King-gnu-hikoutei-lyrics
+Umbrella,King Gnu,14,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/King-gnu-umbrella-lyrics
+Stand By You,Official HIGE DANdism,15,Japan,2020-01-03,2020-01-10,Positive,https://genius.com/Official-hige-dandism-stand-by-you-lyrics
+インフェルノ,Mrs. GREEN APPLE,16,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/Mrs-green-apple-inferno-lyrics
+クリスマスソング,back number,17,Japan,2020-01-03,2020-01-10,could not determine analysis,
+君はロックを聴かない,Aimyon,18,Japan,2020-01-03,2020-01-10,could not determine analysis,
+ただ君に晴れ,ヨルシカ,19,Japan,2020-01-03,2020-01-10,could not determine analysis,
+HANABI,Mr.Children,20,Japan,2020-01-03,2020-01-10,Neutral,https://genius.com/Mrchildren-hanabi-lyrics
+Pretender,Official HIGE DANdism,1,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/Official-hige-dandism-pretender-lyrics
+Hakujitsu,King Gnu,2,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/King-gnu-hakujitsu-lyrics
+宿命,Official HIGE DANdism,3,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/Official-hige-dandism-shukumei-lyrics
+Teenager Forever,King Gnu,4,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/King-gnu-teenager-forever-lyrics
+Machigaisagashi,Masaki Suda,5,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/Masaki-suda-machigai-sagashi-lyrics
+イエスタデイ,Official HIGE DANdism,6,Japan,2020-01-10,2020-01-17,could not determine analysis,
+ノーダウト,Official HIGE DANdism,7,Japan,2020-01-10,2020-01-17,could not determine analysis,
+115万キロのフィルム,Official HIGE DANdism,8,Japan,2020-01-10,2020-01-17,could not determine analysis,
+マリーゴールド,Aimyon,9,Japan,2020-01-10,2020-01-17,could not determine analysis,
+Umbrella,King Gnu,10,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/King-gnu-umbrella-lyrics
+Gurenge,LiSA,11,Japan,2020-01-10,2020-01-17,Negative,https://genius.com/Lisa-gurenge-lyrics
+Sayonara Elegy,Masaki Suda,12,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/Masaki-suda-sayonara-elegy-lyrics
+高嶺の花子さん,back number,13,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/Back-number--lyrics
+Hikoutei,King Gnu,14,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/King-gnu-hikoutei-lyrics
+Stand By You,Official HIGE DANdism,15,Japan,2020-01-10,2020-01-17,Positive,https://genius.com/Official-hige-dandism-stand-by-you-lyrics
+インフェルノ,Mrs. GREEN APPLE,16,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/Mrs-green-apple-inferno-lyrics
+君はロックを聴かない,Aimyon,17,Japan,2020-01-10,2020-01-17,could not determine analysis,
+HANABI,Mr.Children,18,Japan,2020-01-10,2020-01-17,Neutral,https://genius.com/Mrchildren-hanabi-lyrics
+クリスマスソング,back number,19,Japan,2020-01-10,2020-01-17,could not determine analysis,
+ただ君に晴れ,ヨルシカ,20,Japan,2020-01-10,2020-01-17,could not determine analysis,
+Pretender,Official HIGE DANdism,1,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/Official-hige-dandism-pretender-lyrics
+Hakujitsu,King Gnu,2,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/King-gnu-hakujitsu-lyrics
+Teenager Forever,King Gnu,3,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/King-gnu-teenager-forever-lyrics
+宿命,Official HIGE DANdism,4,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/Official-hige-dandism-shukumei-lyrics
+イエスタデイ,Official HIGE DANdism,5,Japan,2020-01-17,2020-01-24,could not determine analysis,
+Machigaisagashi,Masaki Suda,6,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/Masaki-suda-machigai-sagashi-lyrics
+ノーダウト,Official HIGE DANdism,7,Japan,2020-01-17,2020-01-24,could not determine analysis,
+115万キロのフィルム,Official HIGE DANdism,8,Japan,2020-01-17,2020-01-24,could not determine analysis,
+Umbrella,King Gnu,9,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/King-gnu-umbrella-lyrics
+I LOVE...,Official HIGE DANdism,10,Japan,2020-01-17,2020-01-24,Positive,https://genius.com/Official-hige-dandism-i-love-lyrics
+マリーゴールド,Aimyon,11,Japan,2020-01-17,2020-01-24,could not determine analysis,
+Doron,King Gnu,12,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/King-gnu-doron-lyrics
+Gurenge,LiSA,13,Japan,2020-01-17,2020-01-24,Negative,https://genius.com/Lisa-gurenge-lyrics
+Humor,King Gnu,14,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/King-gnu-humor-lyrics
+Sayonara Elegy,Masaki Suda,15,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/Masaki-suda-sayonara-elegy-lyrics
+高嶺の花子さん,back number,16,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/Back-number--lyrics
+Hakujitsu,King Gnu,17,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/King-gnu-hakujitsu-lyrics
+Stand By You,Official HIGE DANdism,18,Japan,2020-01-17,2020-01-24,Positive,https://genius.com/Official-hige-dandism-stand-by-you-lyrics
+Small Planet,King Gnu,19,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/King-gnu-small-planet-lyrics
+インフェルノ,Mrs. GREEN APPLE,20,Japan,2020-01-17,2020-01-24,Neutral,https://genius.com/Mrs-green-apple-inferno-lyrics

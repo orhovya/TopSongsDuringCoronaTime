@@ -1,25 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Filhall,B Praak,1,India,2019-11-29,2019-12-06,Neutral
-"Ghungroo (From ""War"")",Arijit Singh,2,India,2019-11-29,2019-12-06,could not determine analysis
-"Tum Hi Aana (From ""Marjaavaan"")",Payal Dev,3,India,2019-11-29,2019-12-06,Neutral
-Memories,Maroon 5,4,India,2019-11-29,2019-12-06,Positive
-Makhna,Tanishk Bagchi,5,India,2019-11-29,2019-12-06,Neutral
-"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,6,India,2019-11-29,2019-12-06,Neutral
-Heartless,The Weeknd,7,India,2019-11-29,2019-12-06,Negative
-Señorita,Shawn Mendes,8,India,2019-11-29,2019-12-06,Positive
-Yaad Piya Ki Aane Lagi,Neha Kakkar,9,India,2019-11-29,2019-12-06,could not determine analysis
-Pal Pal Dil Ke Paas- Title Track,Arijit Singh,10,India,2019-11-29,2019-12-06,could not determine analysis
-Blinding Lights,The Weeknd,11,India,2019-11-29,2019-12-06,Negative
-everything i wanted,Billie Eilish,12,India,2019-11-29,2019-12-06,Negative
-"Bekhayali (From ""Kabir Singh"")",Sachet Tandon,13,India,2019-11-29,2019-12-06,could not determine analysis
-Circles,Post Malone,14,India,2019-11-29,2019-12-06,Positive
-"Shaitan Ka Saala (From ""Housefull 4"")",Sohail Sen,15,India,2019-11-29,2019-12-06,could not determine analysis
-"Pachtaoge (From ""Jaani Ve"")",Arijit Singh,16,India,2019-11-29,2019-12-06,could not determine analysis
-"O Saki Saki (From ""Batla House"")",Neha Kakkar,17,India,2019-11-29,2019-12-06,Neutral
-"Tera Ban Jaunga (From ""Kabir Singh"")",Akhil Sachdeva,18,India,2019-11-29,2019-12-06,could not determine analysis
-"Duniyaa (From ""Luka Chuppi"")",Akhil,19,India,2019-11-29,2019-12-06,Neutral
-Ve Maahi,Arijit Singh,20,India,2019-11-29,2019-12-06,Neutral
-ROXANNE,Arizona Zervas,14,India,2019-12-06,2019-12-13,Positive
-Falling,Trevor Daniel,20,India,2019-12-06,2019-12-13,Positive
-"Mere Sohneya (From ""Kabir Singh"")",Sachet Tandon,20,India,2019-12-13,2019-12-20,Neutral
-"Muqabla (From ""Street Dancer 3D"")",Yash Narvekar,4,India,2019-12-20,2019-12-27,could not determine analysis
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Filhall,B Praak,1,India,2019-11-29,2019-12-06,Neutral,https://genius.com/B-praak-filhall-lyrics
+"Ghungroo (From ""War"")",Arijit Singh,2,India,2019-11-29,2019-12-06,could not determine analysis,
+"Tum Hi Aana (From ""Marjaavaan"")",Payal Dev,3,India,2019-11-29,2019-12-06,Neutral,https://genius.com/Payal-dev-and-jubin-nautiyal-tum-hi-aana-from-marjaavaan-lyrics
+Memories,Maroon 5,4,India,2019-11-29,2019-12-06,Positive,https://genius.com/Maroon-5-memories-lyrics
+Makhna,Tanishk Bagchi,5,India,2019-11-29,2019-12-06,could not determine analysis,
+"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,6,India,2019-11-29,2019-12-06,Neutral,https://genius.com/Arijit-singh-tujhe-kitna-chahne-lage-from-kabir-singh-lyrics
+Heartless,The Weeknd,7,India,2019-11-29,2019-12-06,Negative,https://genius.com/The-weeknd-heartless-lyrics
+Señorita,Shawn Mendes,8,India,2019-11-29,2019-12-06,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Yaad Piya Ki Aane Lagi,Neha Kakkar,9,India,2019-11-29,2019-12-06,could not determine analysis,
+Pal Pal Dil Ke Paas- Title Track,Arijit Singh,10,India,2019-11-29,2019-12-06,could not determine analysis,
+Blinding Lights,The Weeknd,11,India,2019-11-29,2019-12-06,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+everything i wanted,Billie Eilish,12,India,2019-11-29,2019-12-06,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+"Bekhayali (From ""Kabir Singh"")",Sachet Tandon,13,India,2019-11-29,2019-12-06,could not determine analysis,
+Circles,Post Malone,14,India,2019-11-29,2019-12-06,Positive,https://genius.com/Post-malone-circles-lyrics
+"Shaitan Ka Saala (From ""Housefull 4"")",Sohail Sen,15,India,2019-11-29,2019-12-06,could not determine analysis,
+"Pachtaoge (From ""Jaani Ve"")",Arijit Singh,16,India,2019-11-29,2019-12-06,could not determine analysis,
+"O Saki Saki (From ""Batla House"")",Neha Kakkar,17,India,2019-11-29,2019-12-06,Neutral,https://genius.com/Neha-kakkar-o-saki-saki-from-batla-house-lyrics
+"Tera Ban Jaunga (From ""Kabir Singh"")",Akhil Sachdeva,18,India,2019-11-29,2019-12-06,could not determine analysis,
+"Duniyaa (From ""Luka Chuppi"")",Akhil,19,India,2019-11-29,2019-12-06,Neutral,https://genius.com/Akhil-and-dhvani-bhanushali-duniyaa-from-luka-chuppi-lyrics
+Ve Maahi,Arijit Singh,20,India,2019-11-29,2019-12-06,Neutral,https://genius.com/Arijit-singh-and-asees-kaur-ve-maahi-lyrics
+"Ghungroo (From ""War"")",Arijit Singh,1,India,2019-12-06,2019-12-13,could not determine analysis,
+Memories,Maroon 5,2,India,2019-12-06,2019-12-13,Positive,https://genius.com/Maroon-5-memories-lyrics
+"Tum Hi Aana (From ""Marjaavaan"")",Payal Dev,3,India,2019-12-06,2019-12-13,Neutral,https://genius.com/Payal-dev-and-jubin-nautiyal-tum-hi-aana-from-marjaavaan-lyrics
+Makhna,Tanishk Bagchi,4,India,2019-12-06,2019-12-13,could not determine analysis,
+Filhall,B Praak,5,India,2019-12-06,2019-12-13,Neutral,https://genius.com/B-praak-filhall-lyrics
+Yaad Piya Ki Aane Lagi,Neha Kakkar,6,India,2019-12-06,2019-12-13,could not determine analysis,
+Señorita,Shawn Mendes,7,India,2019-12-06,2019-12-13,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,8,India,2019-12-06,2019-12-13,Neutral,https://genius.com/Arijit-singh-tujhe-kitna-chahne-lage-from-kabir-singh-lyrics
+Pal Pal Dil Ke Paas- Title Track,Arijit Singh,9,India,2019-12-06,2019-12-13,could not determine analysis,
+Circles,Post Malone,10,India,2019-12-06,2019-12-13,Positive,https://genius.com/Post-malone-circles-lyrics
+Blinding Lights,The Weeknd,11,India,2019-12-06,2019-12-13,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Heartless,The Weeknd,12,India,2019-12-06,2019-12-13,Negative,https://genius.com/The-weeknd-heartless-lyrics
+"Bekhayali (From ""Kabir Singh"")",Sachet Tandon,13,India,2019-12-06,2019-12-13,could not determine analysis,
+ROXANNE,Arizona Zervas,14,India,2019-12-06,2019-12-13,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+"O Saki Saki (From ""Batla House"")",Neha Kakkar,15,India,2019-12-06,2019-12-13,Neutral,https://genius.com/Neha-kakkar-o-saki-saki-from-batla-house-lyrics
+"Duniyaa (From ""Luka Chuppi"")",Akhil,16,India,2019-12-06,2019-12-13,Neutral,https://genius.com/Akhil-and-dhvani-bhanushali-duniyaa-from-luka-chuppi-lyrics
+"Tera Ban Jaunga (From ""Kabir Singh"")",Akhil Sachdeva,17,India,2019-12-06,2019-12-13,could not determine analysis,
+Ve Maahi,Arijit Singh,18,India,2019-12-06,2019-12-13,Neutral,https://genius.com/Arijit-singh-and-asees-kaur-ve-maahi-lyrics
+"Pachtaoge (From ""Jaani Ve"")",Arijit Singh,19,India,2019-12-06,2019-12-13,could not determine analysis,
+Falling,Trevor Daniel,20,India,2019-12-06,2019-12-13,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+"Ghungroo (From ""War"")",Arijit Singh,1,India,2019-12-13,2019-12-20,could not determine analysis,
+Yaad Piya Ki Aane Lagi,Neha Kakkar,2,India,2019-12-13,2019-12-20,could not determine analysis,
+Makhna,Tanishk Bagchi,3,India,2019-12-13,2019-12-20,could not determine analysis,
+Memories,Maroon 5,4,India,2019-12-13,2019-12-20,Positive,https://genius.com/Maroon-5-memories-lyrics
+"Tum Hi Aana (From ""Marjaavaan"")",Payal Dev,5,India,2019-12-13,2019-12-20,Neutral,https://genius.com/Payal-dev-and-jubin-nautiyal-tum-hi-aana-from-marjaavaan-lyrics
+"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,6,India,2019-12-13,2019-12-20,Neutral,https://genius.com/Arijit-singh-tujhe-kitna-chahne-lage-from-kabir-singh-lyrics
+Señorita,Shawn Mendes,7,India,2019-12-13,2019-12-20,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Filhall,B Praak,8,India,2019-12-13,2019-12-20,Neutral,https://genius.com/B-praak-filhall-lyrics
+Falling,Trevor Daniel,9,India,2019-12-13,2019-12-20,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Circles,Post Malone,10,India,2019-12-13,2019-12-20,Positive,https://genius.com/Post-malone-circles-lyrics
+Pal Pal Dil Ke Paas- Title Track,Arijit Singh,11,India,2019-12-13,2019-12-20,could not determine analysis,
+Blinding Lights,The Weeknd,12,India,2019-12-13,2019-12-20,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+ROXANNE,Arizona Zervas,13,India,2019-12-13,2019-12-20,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+"Bekhayali (From ""Kabir Singh"")",Sachet Tandon,14,India,2019-12-13,2019-12-20,could not determine analysis,
+"O Saki Saki (From ""Batla House"")",Neha Kakkar,15,India,2019-12-13,2019-12-20,Neutral,https://genius.com/Neha-kakkar-o-saki-saki-from-batla-house-lyrics
+"Shaitan Ka Saala (From ""Housefull 4"")",Sohail Sen,16,India,2019-12-13,2019-12-20,could not determine analysis,
+"Duniyaa (From ""Luka Chuppi"")",Akhil,17,India,2019-12-13,2019-12-20,Neutral,https://genius.com/Akhil-and-dhvani-bhanushali-duniyaa-from-luka-chuppi-lyrics
+Ve Maahi,Arijit Singh,18,India,2019-12-13,2019-12-20,Neutral,https://genius.com/Arijit-singh-and-asees-kaur-ve-maahi-lyrics
+"Tera Ban Jaunga (From ""Kabir Singh"")",Akhil Sachdeva,19,India,2019-12-13,2019-12-20,could not determine analysis,
+"Mere Sohneya (From ""Kabir Singh"")",Sachet Tandon,20,India,2019-12-13,2019-12-20,Neutral,https://genius.com/Sachet-tandon-and-parampara-thakur-mere-sohneya-from-kabir-singh-lyrics
+"Ghungroo (From ""War"")",Arijit Singh,1,India,2019-12-20,2019-12-27,could not determine analysis,
+Makhna,Tanishk Bagchi,2,India,2019-12-20,2019-12-27,could not determine analysis,
+Yaad Piya Ki Aane Lagi,Neha Kakkar,3,India,2019-12-20,2019-12-27,could not determine analysis,
+"Muqabla (From ""Street Dancer 3D"")",Yash Narvekar,4,India,2019-12-20,2019-12-27,could not determine analysis,
+Falling,Trevor Daniel,5,India,2019-12-20,2019-12-27,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Memories,Maroon 5,6,India,2019-12-20,2019-12-27,Positive,https://genius.com/Maroon-5-memories-lyrics
+"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,7,India,2019-12-20,2019-12-27,Neutral,https://genius.com/Arijit-singh-tujhe-kitna-chahne-lage-from-kabir-singh-lyrics
+"Tum Hi Aana (From ""Marjaavaan"")",Payal Dev,8,India,2019-12-20,2019-12-27,Neutral,https://genius.com/Payal-dev-and-jubin-nautiyal-tum-hi-aana-from-marjaavaan-lyrics
+Señorita,Shawn Mendes,9,India,2019-12-20,2019-12-27,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+ROXANNE,Arizona Zervas,10,India,2019-12-20,2019-12-27,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Filhall,B Praak,11,India,2019-12-20,2019-12-27,Neutral,https://genius.com/B-praak-filhall-lyrics
+"O Saki Saki (From ""Batla House"")",Neha Kakkar,12,India,2019-12-20,2019-12-27,Neutral,https://genius.com/Neha-kakkar-o-saki-saki-from-batla-house-lyrics
+"Shaitan Ka Saala (From ""Housefull 4"")",Sohail Sen,13,India,2019-12-20,2019-12-27,could not determine analysis,
+Pal Pal Dil Ke Paas- Title Track,Arijit Singh,14,India,2019-12-20,2019-12-27,could not determine analysis,
+Blinding Lights,The Weeknd,15,India,2019-12-20,2019-12-27,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Circles,Post Malone,16,India,2019-12-20,2019-12-27,Positive,https://genius.com/Post-malone-circles-lyrics
+"Bekhayali (From ""Kabir Singh"")",Sachet Tandon,17,India,2019-12-20,2019-12-27,could not determine analysis,
+"Duniyaa (From ""Luka Chuppi"")",Akhil,18,India,2019-12-20,2019-12-27,Neutral,https://genius.com/Akhil-and-dhvani-bhanushali-duniyaa-from-luka-chuppi-lyrics
+Ve Maahi,Arijit Singh,19,India,2019-12-20,2019-12-27,Neutral,https://genius.com/Arijit-singh-and-asees-kaur-ve-maahi-lyrics
+"Mere Sohneya (From ""Kabir Singh"")",Sachet Tandon,20,India,2019-12-20,2019-12-27,Neutral,https://genius.com/Sachet-tandon-and-parampara-thakur-mere-sohneya-from-kabir-singh-lyrics

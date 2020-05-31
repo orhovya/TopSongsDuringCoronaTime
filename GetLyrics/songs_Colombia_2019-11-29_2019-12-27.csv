@@ -1,25 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Tusa,KAROL G,1,Colombia,2019-11-29,2019-12-06,Negative
-Fantasias,Rauw Alejandro,2,Colombia,2019-11-29,2019-12-06,Negative
-RITMO (Bad Boys For Life),Black Eyed Peas,3,Colombia,2019-11-29,2019-12-06,Positive
-Vete,Bad Bunny,4,Colombia,2019-11-29,2019-12-06,Negative
-Blanco,J Balvin,5,Colombia,2019-11-29,2019-12-06,Negative
-LA CANCIÓN,J Balvin,6,Colombia,2019-11-29,2019-12-06,Negative
-China,Anuel AA,7,Colombia,2019-11-29,2019-12-06,Negative
-Loco,Beéle,8,Colombia,2019-11-29,2019-12-06,Positive
-Adicto (with Anuel AA &amp; Ozuna),Tainy,9,Colombia,2019-11-29,2019-12-06,could not determine analysis
-Quizas,Rich Music LTD,10,Colombia,2019-11-29,2019-12-06,Positive
-No Me Conoce - Remix,Jhay Cortez,11,Colombia,2019-11-29,2019-12-06,Negative
-Callaita,Bad Bunny,12,Colombia,2019-11-29,2019-12-06,Negative
-Indeciso,Reik,13,Colombia,2019-11-29,2019-12-06,Negative
-Si Te Vas,Sech,14,Colombia,2019-11-29,2019-12-06,Positive
-Hola - Remix,Dalex,15,Colombia,2019-11-29,2019-12-06,Negative
-QUE PRETENDES,J Balvin,16,Colombia,2019-11-29,2019-12-06,Negative
-Qué Pena,Maluma,17,Colombia,2019-11-29,2019-12-06,Negative
-Que Tire Pa Lante,Daddy Yankee,18,Colombia,2019-11-29,2019-12-06,Negative
-Whine Up,Nicky Jam,19,Colombia,2019-11-29,2019-12-06,Negative
-Tutu,Camilo,20,Colombia,2019-11-29,2019-12-06,Negative
-Dance Monkey,Tones And I,14,Colombia,2019-12-13,2019-12-20,Neutral
-Sigues Con El,Dímelo Flow,15,Colombia,2019-12-13,2019-12-20,Negative
-Enamórate De Alguien Más,Morat,19,Colombia,2019-12-13,2019-12-20,Negative
-Alguien Me Gusta,Andy Rivera,20,Colombia,2019-12-20,2019-12-27,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Tusa,KAROL G,1,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Fantasias,Rauw Alejandro,2,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,3,Colombia,2019-11-29,2019-12-06,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Vete,Bad Bunny,4,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Blanco,J Balvin,5,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/J-balvin-blanco-lyrics
+LA CANCIÓN,J Balvin,6,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+China,Anuel AA,7,Colombia,2019-11-29,2019-12-06,could not determine analysis,
+Loco,Beéle,8,Colombia,2019-11-29,2019-12-06,Positive,https://genius.com/Beele-loco-lyrics
+Adicto (with Anuel AA &amp; Ozuna),Tainy,9,Colombia,2019-11-29,2019-12-06,could not determine analysis,
+Quizas,Rich Music LTD,10,Colombia,2019-11-29,2019-12-06,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics
+No Me Conoce - Remix,Jhay Cortez,11,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Callaita,Bad Bunny,12,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+Indeciso,Reik,13,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Reik-j-balvin-and-lalo-ebratt-indeciso-lyrics
+Si Te Vas,Sech,14,Colombia,2019-11-29,2019-12-06,Positive,https://genius.com/Sech-and-ozuna-si-te-vas-lyrics
+Hola - Remix,Dalex,15,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+QUE PRETENDES,J Balvin,16,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/J-balvin-and-bad-bunny-que-pretendes-lyrics
+Qué Pena,Maluma,17,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Maluma-and-j-balvin-que-pena-lyrics
+Que Tire Pa Lante,Daddy Yankee,18,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Whine Up,Nicky Jam,19,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Nicky-jam-and-anuel-aa-whine-up-lyrics
+Tutu,Camilo,20,Colombia,2019-11-29,2019-12-06,Negative,https://genius.com/Camilo-and-pedro-capo-tutu-lyrics
+Tusa,KAROL G,1,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Fantasias,Rauw Alejandro,2,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,3,Colombia,2019-12-06,2019-12-13,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+LA CANCIÓN,J Balvin,4,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+China,Anuel AA,5,Colombia,2019-12-06,2019-12-13,could not determine analysis,
+Blanco,J Balvin,6,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/J-balvin-blanco-lyrics
+Vete,Bad Bunny,7,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Loco,Beéle,8,Colombia,2019-12-06,2019-12-13,Positive,https://genius.com/Beele-loco-lyrics
+No Me Conoce - Remix,Jhay Cortez,9,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Adicto (with Anuel AA &amp; Ozuna),Tainy,10,Colombia,2019-12-06,2019-12-13,could not determine analysis,
+Callaita,Bad Bunny,11,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+Quizas,Rich Music LTD,12,Colombia,2019-12-06,2019-12-13,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics
+Hola - Remix,Dalex,13,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Indeciso,Reik,14,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Reik-j-balvin-and-lalo-ebratt-indeciso-lyrics
+QUE PRETENDES,J Balvin,15,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/J-balvin-and-bad-bunny-que-pretendes-lyrics
+Si Te Vas,Sech,16,Colombia,2019-12-06,2019-12-13,Positive,https://genius.com/Sech-and-ozuna-si-te-vas-lyrics
+Tutu,Camilo,17,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Camilo-and-pedro-capo-tutu-lyrics
+Whine Up,Nicky Jam,18,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Nicky-jam-and-anuel-aa-whine-up-lyrics
+Qué Pena,Maluma,19,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Maluma-and-j-balvin-que-pena-lyrics
+Que Tire Pa Lante,Daddy Yankee,20,Colombia,2019-12-06,2019-12-13,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Tusa,KAROL G,1,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Fantasias,Rauw Alejandro,2,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,3,Colombia,2019-12-13,2019-12-20,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Blanco,J Balvin,4,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/J-balvin-blanco-lyrics
+LA CANCIÓN,J Balvin,5,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+China,Anuel AA,6,Colombia,2019-12-13,2019-12-20,could not determine analysis,
+Vete,Bad Bunny,7,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Quizas,Rich Music LTD,8,Colombia,2019-12-13,2019-12-20,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics
+Loco,Beéle,9,Colombia,2019-12-13,2019-12-20,Positive,https://genius.com/Beele-loco-lyrics
+No Me Conoce - Remix,Jhay Cortez,10,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Adicto (with Anuel AA &amp; Ozuna),Tainy,11,Colombia,2019-12-13,2019-12-20,could not determine analysis,
+Hola - Remix,Dalex,12,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Callaita,Bad Bunny,13,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+Dance Monkey,Tones And I,14,Colombia,2019-12-13,2019-12-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Sigues Con El,Dímelo Flow,15,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Indeciso,Reik,16,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/Reik-j-balvin-and-lalo-ebratt-indeciso-lyrics
+Si Te Vas,Sech,17,Colombia,2019-12-13,2019-12-20,Positive,https://genius.com/Sech-and-ozuna-si-te-vas-lyrics
+QUE PRETENDES,J Balvin,18,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/J-balvin-and-bad-bunny-que-pretendes-lyrics
+Enamórate De Alguien Más,Morat,19,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/Morat-enamorate-de-alguien-mas-lyrics
+Tutu,Camilo,20,Colombia,2019-12-13,2019-12-20,Negative,https://genius.com/Camilo-and-pedro-capo-tutu-lyrics
+Tusa,KAROL G,1,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Fantasias,Rauw Alejandro,2,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,3,Colombia,2019-12-20,2019-12-27,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Sigues Con El,Dímelo Flow,4,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Blanco,J Balvin,5,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/J-balvin-blanco-lyrics
+LA CANCIÓN,J Balvin,6,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+Vete,Bad Bunny,7,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/Bad-bunny-vete-lyrics
+China,Anuel AA,8,Colombia,2019-12-20,2019-12-27,could not determine analysis,
+Hola - Remix,Dalex,9,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Dance Monkey,Tones And I,10,Colombia,2019-12-20,2019-12-27,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Quizas,Rich Music LTD,11,Colombia,2019-12-20,2019-12-27,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics
+Loco,Beéle,12,Colombia,2019-12-20,2019-12-27,Positive,https://genius.com/Beele-loco-lyrics
+No Me Conoce - Remix,Jhay Cortez,13,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Adicto (with Anuel AA &amp; Ozuna),Tainy,14,Colombia,2019-12-20,2019-12-27,could not determine analysis,
+Callaita,Bad Bunny,15,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+Indeciso,Reik,16,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/Reik-j-balvin-and-lalo-ebratt-indeciso-lyrics
+QUE PRETENDES,J Balvin,17,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/J-balvin-and-bad-bunny-que-pretendes-lyrics
+Si Te Vas,Sech,18,Colombia,2019-12-20,2019-12-27,Positive,https://genius.com/Sech-and-ozuna-si-te-vas-lyrics
+Tutu,Camilo,19,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/Camilo-and-pedro-capo-tutu-lyrics
+Alguien Me Gusta,Andy Rivera,20,Colombia,2019-12-20,2019-12-27,Negative,https://genius.com/Andy-rivera-alguien-me-gusta-lyrics

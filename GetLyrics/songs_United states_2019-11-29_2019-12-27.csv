@@ -1,37 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Heartless,The Weeknd,1,United states,2019-11-29,2019-12-06,Negative
-ROXANNE,Arizona Zervas,2,United states,2019-11-29,2019-12-06,Positive
-Blinding Lights,The Weeknd,3,United states,2019-11-29,2019-12-06,Negative
-Circles,Post Malone,4,United states,2019-11-29,2019-12-06,Positive
-everything i wanted,Billie Eilish,5,United states,2019-11-29,2019-12-06,Negative
-Falling,Trevor Daniel,6,United states,2019-11-29,2019-12-06,Positive
-HIGHEST IN THE ROOM,Travis Scott,7,United states,2019-11-29,2019-12-06,Positive
-BOP,DaBaby,8,United states,2019-11-29,2019-12-06,Negative
-All I Want for Christmas Is You,Mariah Carey,9,United states,2019-11-29,2019-12-06,Positive
-Bandit (with YoungBoy Never Broke Again),Juice WRLD,10,United states,2019-11-29,2019-12-06,Positive
-Dance Monkey,Tones And I,11,United states,2019-11-29,2019-12-06,Neutral
-hot girl bummer,blackbear,12,United states,2019-11-29,2019-12-06,Negative
-Someone You Loved,Lewis Capaldi,13,United states,2019-11-29,2019-12-06,Positive
-Lose You To Love Me,Selena Gomez,14,United states,2019-11-29,2019-12-06,Positive
-Rockin' Around The Christmas Tree,Brenda Lee,15,United states,2019-11-29,2019-12-06,Positive
-Memories,Maroon 5,16,United states,2019-11-29,2019-12-06,Positive
-Jingle Bell Rock,BobHelms,17,United states,2019-11-29,2019-12-06,could not determine analysis
-Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,18,United states,2019-11-29,2019-12-06,Positive
-Santa Tell Me,Ariana Grande,19,United states,2019-11-29,2019-12-06,Positive
-Ballin' (with Roddy Ricch),Mustard,20,United states,2019-11-29,2019-12-06,Positive
-Lucid Dreams,Juice WRLD,3,United states,2019-12-06,2019-12-13,Positive
-Adore You,Harry Styles,5,United states,2019-12-06,2019-12-13,Positive
-Robbery,Juice WRLD,8,United states,2019-12-06,2019-12-13,Positive
-All Girls Are The Same,Juice WRLD,17,United states,2019-12-06,2019-12-13,could not determine analysis
-Legends,Juice WRLD,19,United states,2019-12-06,2019-12-13,Negative
-Futsal Shuffle 2020,Lil Uzi Vert,1,United states,2019-12-13,2019-12-20,Negative
-Watermelon Sugar,Harry Styles,5,United states,2019-12-13,2019-12-20,Positive
-The Box,Roddy Ricch,7,United states,2019-12-13,2019-12-20,Negative
-Lights Up,Harry Styles,14,United states,2019-12-13,2019-12-20,Positive
-Cherry,Harry Styles,20,United states,2019-12-13,2019-12-20,Positive
-It's the Most Wonderful Time of the Year,Andy Williams,8,United states,2019-12-20,2019-12-27,Positive
-Last Christmas,Wham!,12,United states,2019-12-20,2019-12-27,could not determine analysis
-The Christmas Song (Merry Christmas To You),Nat King Cole,14,United states,2019-12-20,2019-12-27,Positive
-A Holly Jolly Christmas - Single Version,Burl Ives,15,United states,2019-12-20,2019-12-27,Positive
-It's Beginning to Look a Lot like Christmas,Michael Bublé,18,United states,2019-12-20,2019-12-27,Positive
-Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Frank Sinatra,20,United states,2019-12-20,2019-12-27,could not determine analysis
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Heartless,The Weeknd,1,United states,2019-11-29,2019-12-06,Negative,https://genius.com/The-weeknd-heartless-lyrics
+ROXANNE,Arizona Zervas,2,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Blinding Lights,The Weeknd,3,United states,2019-11-29,2019-12-06,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Circles,Post Malone,4,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Post-malone-circles-lyrics
+everything i wanted,Billie Eilish,5,United states,2019-11-29,2019-12-06,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Falling,Trevor Daniel,6,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+HIGHEST IN THE ROOM,Travis Scott,7,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Travis-scott-highest-in-the-room-lyrics
+BOP,DaBaby,8,United states,2019-11-29,2019-12-06,Negative,https://genius.com/Dababy-bop-lyrics
+All I Want for Christmas Is You,Mariah Carey,9,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Bandit (with YoungBoy Never Broke Again),Juice WRLD,10,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Spotify-new-music-friday-10-04-19-annotated
+Dance Monkey,Tones And I,11,United states,2019-11-29,2019-12-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+hot girl bummer,blackbear,12,United states,2019-11-29,2019-12-06,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+Someone You Loved,Lewis Capaldi,13,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Lose You To Love Me,Selena Gomez,14,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+Rockin' Around The Christmas Tree,Brenda Lee,15,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-lyrics
+Memories,Maroon 5,16,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Maroon-5-memories-lyrics
+Jingle Bell Rock,BobHelms,17,United states,2019-11-29,2019-12-06,could not determine analysis,
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,18,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Jorja-smith-virtual-reality-revolutionizes-concerts-next-up-is-post-malone-annotated
+Santa Tell Me,Ariana Grande,19,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Ariana-grande-santa-tell-me-lyrics
+Ballin' (with Roddy Ricch),Mustard,20,United states,2019-11-29,2019-12-06,Positive,https://genius.com/Womp-womp-womp-womp-she-give-me-what-i-wanna-my-trash-favorite-songs-of-2019-annotated
+ROXANNE,Arizona Zervas,1,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Bandit (with YoungBoy Never Broke Again),Juice WRLD,2,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Spotify-new-music-friday-10-04-19-annotated
+Lucid Dreams,Juice WRLD,3,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Juice-wrld-lucid-dreams-lyrics
+Circles,Post Malone,4,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Post-malone-circles-lyrics
+Adore You,Harry Styles,5,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+Heartless,The Weeknd,6,United states,2019-12-06,2019-12-13,Negative,https://genius.com/The-weeknd-heartless-lyrics
+Falling,Trevor Daniel,7,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Robbery,Juice WRLD,8,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Juice-wrld-robbery-lyrics
+BOP,DaBaby,9,United states,2019-12-06,2019-12-13,Negative,https://genius.com/Dababy-bop-lyrics
+HIGHEST IN THE ROOM,Travis Scott,10,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Travis-scott-highest-in-the-room-lyrics
+Blinding Lights,The Weeknd,11,United states,2019-12-06,2019-12-13,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+everything i wanted,Billie Eilish,12,United states,2019-12-06,2019-12-13,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+All I Want for Christmas Is You,Mariah Carey,13,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,14,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Jorja-smith-virtual-reality-revolutionizes-concerts-next-up-is-post-malone-annotated
+Dance Monkey,Tones And I,15,United states,2019-12-06,2019-12-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Someone You Loved,Lewis Capaldi,16,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+All Girls Are The Same,Juice WRLD,17,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Juice-wrld-all-girls-are-the-same-lyrics
+Rockin' Around The Christmas Tree,Brenda Lee,18,United states,2019-12-06,2019-12-13,Positive,https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-lyrics
+Legends,Juice WRLD,19,United states,2019-12-06,2019-12-13,Negative,https://genius.com/Juice-wrld-legends-lyrics
+Jingle Bell Rock,BobHelms,20,United states,2019-12-06,2019-12-13,could not determine analysis,
+Futsal Shuffle 2020,Lil Uzi Vert,1,United states,2019-12-13,2019-12-20,Negative,https://genius.com/Lil-uzi-vert-futsal-shuffle-2020-lyrics
+ROXANNE,Arizona Zervas,2,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Adore You,Harry Styles,3,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+Circles,Post Malone,4,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Post-malone-circles-lyrics
+Watermelon Sugar,Harry Styles,5,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Harry-styles-watermelon-sugar-lyrics
+Bandit (with YoungBoy Never Broke Again),Juice WRLD,6,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Spotify-new-music-friday-10-04-19-annotated
+The Box,Roddy Ricch,7,United states,2019-12-13,2019-12-20,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Falling,Trevor Daniel,8,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+BOP,DaBaby,9,United states,2019-12-13,2019-12-20,Negative,https://genius.com/Dababy-bop-lyrics
+All I Want for Christmas Is You,Mariah Carey,10,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Falling,Harry Styles,11,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+HIGHEST IN THE ROOM,Travis Scott,12,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Travis-scott-highest-in-the-room-lyrics
+Lucid Dreams,Juice WRLD,13,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Juice-wrld-lucid-dreams-lyrics
+Lights Up,Harry Styles,14,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Harry-styles-lights-up-lyrics
+Dance Monkey,Tones And I,15,United states,2019-12-13,2019-12-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+everything i wanted,Billie Eilish,16,United states,2019-12-13,2019-12-20,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Heartless,The Weeknd,17,United states,2019-12-13,2019-12-20,Negative,https://genius.com/The-weeknd-heartless-lyrics
+Blinding Lights,The Weeknd,18,United states,2019-12-13,2019-12-20,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Rockin' Around The Christmas Tree,Brenda Lee,19,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-lyrics
+Cherry,Harry Styles,20,United states,2019-12-13,2019-12-20,Positive,https://genius.com/Harry-styles-cherry-lyrics
+The Box,Roddy Ricch,1,United states,2019-12-20,2019-12-27,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+All I Want for Christmas Is You,Mariah Carey,2,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+ROXANNE,Arizona Zervas,3,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Rockin' Around The Christmas Tree,Brenda Lee,4,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-lyrics
+Jingle Bell Rock,BobHelms,5,United states,2019-12-20,2019-12-27,could not determine analysis,
+Futsal Shuffle 2020,Lil Uzi Vert,6,United states,2019-12-20,2019-12-27,Negative,https://genius.com/Lil-uzi-vert-futsal-shuffle-2020-lyrics
+Circles,Post Malone,7,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Post-malone-circles-lyrics
+It's the Most Wonderful Time of the Year,Andy Williams,8,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Andy-williams-its-the-most-wonderful-time-of-the-year-lyrics
+Falling,Trevor Daniel,9,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Bandit (with YoungBoy Never Broke Again),Juice WRLD,10,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Spotify-new-music-friday-10-04-19-annotated
+BOP,DaBaby,11,United states,2019-12-20,2019-12-27,Negative,https://genius.com/Dababy-bop-lyrics
+Last Christmas,Wham!,12,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Wham-last-christmas-lyrics
+Santa Tell Me,Ariana Grande,13,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Ariana-grande-santa-tell-me-lyrics
+The Christmas Song (Merry Christmas To You),Nat King Cole,14,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Nat-king-cole-the-christmas-song-merry-christmas-to-you-lyrics
+A Holly Jolly Christmas - Single Version,Burl Ives,15,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Burl-ives-a-holly-jolly-christmas-single-version-lyrics
+Adore You,Harry Styles,16,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+HIGHEST IN THE ROOM,Travis Scott,17,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Travis-scott-highest-in-the-room-lyrics
+It's Beginning to Look a Lot like Christmas,Michael Bublé,18,United states,2019-12-20,2019-12-27,Positive,https://genius.com/Michael-buble-its-beginning-to-look-a-lot-like-christmas-lyrics
+Dance Monkey,Tones And I,19,United states,2019-12-20,2019-12-27,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Frank Sinatra,20,United states,2019-12-20,2019-12-27,could not determine analysis,

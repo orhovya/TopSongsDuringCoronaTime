@@ -1,27 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Safaera,Bad Bunny,1,Mexico,2020-04-17,2020-04-24,Negative
-Favorito,Camilo,2,Mexico,2020-04-17,2020-04-24,Negative
-Yo Perreo Sola,Bad Bunny,3,Mexico,2020-04-17,2020-04-24,Negative
-Rojo,J Balvin,4,Mexico,2020-04-17,2020-04-24,Neutral
-Blinding Lights,The Weeknd,5,Mexico,2020-04-17,2020-04-24,Negative
-Si Veo a Tu Mamá,Bad Bunny,6,Mexico,2020-04-17,2020-04-24,Negative
-Tusa,KAROL G,7,Mexico,2020-04-17,2020-04-24,Negative
-Tattoo,Rauw Alejandro,8,Mexico,2020-04-17,2020-04-24,Negative
-Morado,J Balvin,9,Mexico,2020-04-17,2020-04-24,Negative
-La Difícil,Bad Bunny,10,Mexico,2020-04-17,2020-04-24,Negative
-Ignorantes,Bad Bunny,11,Mexico,2020-04-17,2020-04-24,Negative
-Jangueo,Alex Rose,12,Mexico,2020-04-17,2020-04-24,Negative
-Se Me Olvidó,Christian Nodal,13,Mexico,2020-04-17,2020-04-24,Negative
-Don't Start Now,Dua Lipa,14,Mexico,2020-04-17,2020-04-24,Negative
-AYAYAY!,Christian Nodal,15,Mexico,2020-04-17,2020-04-24,Negative
-Amarillo,J Balvin,16,Mexico,2020-04-17,2020-04-24,Negative
-Sigues Con El,Dímelo Flow,17,Mexico,2020-04-17,2020-04-24,Negative
-Diosa,Myke Towers,18,Mexico,2020-04-17,2020-04-24,Negative
-Break My Heart,Dua Lipa,19,Mexico,2020-04-17,2020-04-24,Positive
-Dance Monkey,Tones And I,20,Mexico,2020-04-17,2020-04-24,Neutral
-Azul,J Balvin,19,Mexico,2020-04-24,2020-05-01,Negative
-Qué Maldición,Banda MS de Sergio Lizárraga,1,Mexico,2020-05-01,2020-05-08,Positive
-BYE ME FUI,Bad Bunny,7,Mexico,2020-05-08,2020-05-15,Positive
-PA' ROMPERLA,Bad Bunny,10,Mexico,2020-05-08,2020-05-15,Negative
-CANCIÓN CON YANDEL,Yandel,12,Mexico,2020-05-08,2020-05-15,Negative
-MÁS DE UNA CITA,Bad Bunny,20,Mexico,2020-05-08,2020-05-15,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Safaera,Bad Bunny,1,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Favorito,Camilo,2,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Camilo-favorito-lyrics
+Yo Perreo Sola,Bad Bunny,3,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Rojo,J Balvin,4,Mexico,2020-04-17,2020-04-24,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Blinding Lights,The Weeknd,5,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Si Veo a Tu Mamá,Bad Bunny,6,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Tusa,KAROL G,7,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Tattoo,Rauw Alejandro,8,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Morado,J Balvin,9,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/J-balvin-morado-lyrics
+La Difícil,Bad Bunny,10,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Ignorantes,Bad Bunny,11,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Jangueo,Alex Rose,12,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Alex-rose-and-rafa-pabon-jangueo-lyrics
+Se Me Olvidó,Christian Nodal,13,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Christian-nodal-se-me-olvido-lyrics
+Don't Start Now,Dua Lipa,14,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+AYAYAY!,Christian Nodal,15,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Christian-nodal-ayayay-lyrics
+Amarillo,J Balvin,16,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/J-balvin-amarillo-lyrics
+Sigues Con El,Dímelo Flow,17,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Diosa,Myke Towers,18,Mexico,2020-04-17,2020-04-24,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Break My Heart,Dua Lipa,19,Mexico,2020-04-17,2020-04-24,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Dance Monkey,Tones And I,20,Mexico,2020-04-17,2020-04-24,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Safaera,Bad Bunny,1,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Favorito,Camilo,2,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Camilo-favorito-lyrics
+Yo Perreo Sola,Bad Bunny,3,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Rojo,J Balvin,4,Mexico,2020-04-24,2020-05-01,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Blinding Lights,The Weeknd,5,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Si Veo a Tu Mamá,Bad Bunny,6,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Tusa,KAROL G,7,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Jangueo,Alex Rose,8,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Alex-rose-and-rafa-pabon-jangueo-lyrics
+Tattoo,Rauw Alejandro,9,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Morado,J Balvin,10,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/J-balvin-morado-lyrics
+La Difícil,Bad Bunny,11,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Ignorantes,Bad Bunny,12,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Don't Start Now,Dua Lipa,13,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Sigues Con El,Dímelo Flow,14,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Amarillo,J Balvin,15,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/J-balvin-amarillo-lyrics
+Diosa,Myke Towers,16,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Se Me Olvidó,Christian Nodal,17,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/Christian-nodal-se-me-olvido-lyrics
+Break My Heart,Dua Lipa,18,Mexico,2020-04-24,2020-05-01,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Azul,J Balvin,19,Mexico,2020-04-24,2020-05-01,Negative,https://genius.com/J-balvin-azul-lyrics
+Dance Monkey,Tones And I,20,Mexico,2020-04-24,2020-05-01,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Qué Maldición,Banda MS de Sergio Lizárraga,1,Mexico,2020-05-01,2020-05-08,Positive,https://genius.com/Banda-sinaloense-ms-de-sergio-lizarraga-and-snoop-dogg-que-maldicion-lyrics
+Safaera,Bad Bunny,2,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Yo Perreo Sola,Bad Bunny,3,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Favorito,Camilo,4,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Camilo-favorito-lyrics
+Rojo,J Balvin,5,Mexico,2020-05-01,2020-05-08,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Blinding Lights,The Weeknd,6,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Si Veo a Tu Mamá,Bad Bunny,7,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Jangueo,Alex Rose,8,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Alex-rose-and-rafa-pabon-jangueo-lyrics
+Morado,J Balvin,9,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/J-balvin-morado-lyrics
+Tattoo,Rauw Alejandro,10,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Tusa,KAROL G,11,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+La Difícil,Bad Bunny,12,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Ignorantes,Bad Bunny,13,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Don't Start Now,Dua Lipa,14,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Sigues Con El,Dímelo Flow,15,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Amarillo,J Balvin,16,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/J-balvin-amarillo-lyrics
+Se Me Olvidó,Christian Nodal,17,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Christian-nodal-se-me-olvido-lyrics
+Diosa,Myke Towers,18,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Azul,J Balvin,19,Mexico,2020-05-01,2020-05-08,Negative,https://genius.com/J-balvin-azul-lyrics
+Break My Heart,Dua Lipa,20,Mexico,2020-05-01,2020-05-08,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Yo Perreo Sola,Bad Bunny,1,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Safaera,Bad Bunny,2,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Qué Maldición,Banda MS de Sergio Lizárraga,3,Mexico,2020-05-08,2020-05-15,Positive,https://genius.com/Banda-sinaloense-ms-de-sergio-lizarraga-and-snoop-dogg-que-maldicion-lyrics
+Blinding Lights,The Weeknd,4,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Rojo,J Balvin,5,Mexico,2020-05-08,2020-05-15,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Favorito,Camilo,6,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Camilo-favorito-lyrics
+BYE ME FUI,Bad Bunny,7,Mexico,2020-05-08,2020-05-15,Positive,https://genius.com/Bad-bunny-bye-me-fui-lyrics
+Si Veo a Tu Mamá,Bad Bunny,8,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Jangueo,Alex Rose,9,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Alex-rose-and-rafa-pabon-jangueo-lyrics
+PA' ROMPERLA,Bad Bunny,10,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-and-don-omar-pa-romperla-lyrics
+Morado,J Balvin,11,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/J-balvin-morado-lyrics
+CANCIÓN CON YANDEL,Yandel,12,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-and-yandel-cancion-con-yandel-lyrics
+Tattoo,Rauw Alejandro,13,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Tusa,KAROL G,14,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+La Difícil,Bad Bunny,15,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Azul,J Balvin,16,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/J-balvin-azul-lyrics
+Ignorantes,Bad Bunny,17,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Don't Start Now,Dua Lipa,18,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Sigues Con El,Dímelo Flow,19,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+MÁS DE UNA CITA,Bad Bunny,20,Mexico,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-and-zion-and-lennox-mas-de-una-cita-lyrics

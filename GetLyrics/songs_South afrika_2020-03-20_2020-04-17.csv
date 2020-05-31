@@ -1,28 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Blinding Lights,The Weeknd,1,South afrika,2020-03-20,2020-03-27,Negative
-The Box,Roddy Ricch,2,South afrika,2020-03-20,2020-03-27,Negative
-Roses - Imanbek Remix,SAINt JHN,3,South afrika,2020-03-20,2020-03-27,Negative
-Dance Monkey,Tones And I,4,South afrika,2020-03-20,2020-03-27,Neutral
-Don't Start Now,Dua Lipa,5,South afrika,2020-03-20,2020-03-27,Negative
-In Your Eyes,The Weeknd,6,South afrika,2020-03-20,2020-03-27,Negative
-Intentions (feat. Quavo),Justin Bieber,7,South afrika,2020-03-20,2020-03-27,Positive
-eMcimbini - Live,Kabza De Small,8,South afrika,2020-03-20,2020-03-27,could not determine analysis
-Life Is Good (feat. Drake),Future,9,South afrika,2020-03-20,2020-03-27,Positive
-Godzilla (feat. Juice WRLD),Eminem,10,South afrika,2020-03-20,2020-03-27,Neutral
-Circles,Post Malone,11,South afrika,2020-03-20,2020-03-27,Positive
-After Hours,The Weeknd,12,South afrika,2020-03-20,2020-03-27,Negative
-Falling,Trevor Daniel,13,South afrika,2020-03-20,2020-03-27,Positive
-Memories,Maroon 5,14,South afrika,2020-03-20,2020-03-27,Positive
-Heartless,The Weeknd,15,South afrika,2020-03-20,2020-03-27,Negative
-ROXANNE,Arizona Zervas,16,South afrika,2020-03-20,2020-03-27,Positive
-Say So,Doja Cat,17,South afrika,2020-03-20,2020-03-27,Positive
-Sunday Best,Surfaces,18,South afrika,2020-03-20,2020-03-27,Positive
-everything i wanted,Billie Eilish,19,South afrika,2020-03-20,2020-03-27,Negative
-Someone You Loved,Lewis Capaldi,20,South afrika,2020-03-20,2020-03-27,Positive
-BELIEVE IT,PARTYNEXTDOOR,7,South afrika,2020-03-27,2020-04-03,Positive
-Blueberry Faygo,Lil Mosey,8,South afrika,2020-03-27,2020-04-03,Negative
-death bed (coffee for your head) (feat. beabadoobee),Powfu,12,South afrika,2020-03-27,2020-04-03,Positive
-Beautiful People (feat. Khalid),Ed Sheeran,20,South afrika,2020-03-27,2020-04-03,Positive
-Toosie Slide,Drake,1,South afrika,2020-04-03,2020-04-10,Positive
-Savage,Megan Thee Stallion,18,South afrika,2020-04-03,2020-04-10,Negative
-WHATS POPPIN,Jack Harlow,17,South afrika,2020-04-10,2020-04-17,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Blinding Lights,The Weeknd,1,South afrika,2020-03-20,2020-03-27,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+The Box,Roddy Ricch,2,South afrika,2020-03-20,2020-03-27,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Roses - Imanbek Remix,SAINt JHN,3,South afrika,2020-03-20,2020-03-27,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Dance Monkey,Tones And I,4,South afrika,2020-03-20,2020-03-27,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Don't Start Now,Dua Lipa,5,South afrika,2020-03-20,2020-03-27,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+In Your Eyes,The Weeknd,6,South afrika,2020-03-20,2020-03-27,Negative,https://genius.com/The-weeknd-in-your-eyes-lyrics
+Intentions (feat. Quavo),Justin Bieber,7,South afrika,2020-03-20,2020-03-27,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+eMcimbini - Live,Kabza De Small,8,South afrika,2020-03-20,2020-03-27,could not determine analysis,
+Life Is Good (feat. Drake),Future,9,South afrika,2020-03-20,2020-03-27,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Godzilla (feat. Juice WRLD),Eminem,10,South afrika,2020-03-20,2020-03-27,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Circles,Post Malone,11,South afrika,2020-03-20,2020-03-27,Positive,https://genius.com/Post-malone-circles-lyrics
+After Hours,The Weeknd,12,South afrika,2020-03-20,2020-03-27,Negative,https://genius.com/The-weeknd-after-hours-lyrics
+Falling,Trevor Daniel,13,South afrika,2020-03-20,2020-03-27,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Memories,Maroon 5,14,South afrika,2020-03-20,2020-03-27,Positive,https://genius.com/Maroon-5-memories-lyrics
+Heartless,The Weeknd,15,South afrika,2020-03-20,2020-03-27,Negative,https://genius.com/The-weeknd-heartless-lyrics
+ROXANNE,Arizona Zervas,16,South afrika,2020-03-20,2020-03-27,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Say So,Doja Cat,17,South afrika,2020-03-20,2020-03-27,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Sunday Best,Surfaces,18,South afrika,2020-03-20,2020-03-27,could not determine analysis,
+everything i wanted,Billie Eilish,19,South afrika,2020-03-20,2020-03-27,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Someone You Loved,Lewis Capaldi,20,South afrika,2020-03-20,2020-03-27,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Blinding Lights,The Weeknd,1,South afrika,2020-03-27,2020-04-03,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+The Box,Roddy Ricch,2,South afrika,2020-03-27,2020-04-03,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Roses - Imanbek Remix,SAINt JHN,3,South afrika,2020-03-27,2020-04-03,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Don't Start Now,Dua Lipa,4,South afrika,2020-03-27,2020-04-03,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Dance Monkey,Tones And I,5,South afrika,2020-03-27,2020-04-03,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Intentions (feat. Quavo),Justin Bieber,6,South afrika,2020-03-27,2020-04-03,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+BELIEVE IT,PARTYNEXTDOOR,7,South afrika,2020-03-27,2020-04-03,Positive,https://genius.com/Partynextdoor-and-rihanna-believe-it-lyrics
+Blueberry Faygo,Lil Mosey,8,South afrika,2020-03-27,2020-04-03,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Life Is Good (feat. Drake),Future,9,South afrika,2020-03-27,2020-04-03,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Circles,Post Malone,10,South afrika,2020-03-27,2020-04-03,Positive,https://genius.com/Post-malone-circles-lyrics
+Falling,Trevor Daniel,11,South afrika,2020-03-27,2020-04-03,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,12,South afrika,2020-03-27,2020-04-03,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Say So,Doja Cat,13,South afrika,2020-03-27,2020-04-03,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Memories,Maroon 5,14,South afrika,2020-03-27,2020-04-03,Positive,https://genius.com/Maroon-5-memories-lyrics
+ROXANNE,Arizona Zervas,15,South afrika,2020-03-27,2020-04-03,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Godzilla (feat. Juice WRLD),Eminem,16,South afrika,2020-03-27,2020-04-03,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+In Your Eyes,The Weeknd,17,South afrika,2020-03-27,2020-04-03,Negative,https://genius.com/The-weeknd-in-your-eyes-lyrics
+Sunday Best,Surfaces,18,South afrika,2020-03-27,2020-04-03,could not determine analysis,
+everything i wanted,Billie Eilish,19,South afrika,2020-03-27,2020-04-03,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Beautiful People (feat. Khalid),Ed Sheeran,20,South afrika,2020-03-27,2020-04-03,could not determine analysis,
+Toosie Slide,Drake,1,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Drake-toosie-slide-lyrics
+Blinding Lights,The Weeknd,2,South afrika,2020-04-03,2020-04-10,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Roses - Imanbek Remix,SAINt JHN,3,South afrika,2020-04-03,2020-04-10,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+The Box,Roddy Ricch,4,South afrika,2020-04-03,2020-04-10,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Don't Start Now,Dua Lipa,5,South afrika,2020-04-03,2020-04-10,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Blueberry Faygo,Lil Mosey,6,South afrika,2020-04-03,2020-04-10,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Dance Monkey,Tones And I,7,South afrika,2020-04-03,2020-04-10,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Intentions (feat. Quavo),Justin Bieber,8,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Life Is Good (feat. Drake),Future,9,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Circles,Post Malone,10,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Post-malone-circles-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,11,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Falling,Trevor Daniel,12,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Memories,Maroon 5,13,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Maroon-5-memories-lyrics
+BELIEVE IT,PARTYNEXTDOOR,14,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Partynextdoor-and-rihanna-believe-it-lyrics
+Say So,Doja Cat,15,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Godzilla (feat. Juice WRLD),Eminem,16,South afrika,2020-04-03,2020-04-10,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+ROXANNE,Arizona Zervas,17,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Savage,Megan Thee Stallion,18,South afrika,2020-04-03,2020-04-10,Negative,https://genius.com/Megan-thee-stallion-savage-lyrics
+Sunday Best,Surfaces,19,South afrika,2020-04-03,2020-04-10,could not determine analysis,
+Someone You Loved,Lewis Capaldi,20,South afrika,2020-04-03,2020-04-10,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Toosie Slide,Drake,1,South afrika,2020-04-10,2020-04-17,Positive,https://genius.com/Drake-toosie-slide-lyrics
+Blinding Lights,The Weeknd,2,South afrika,2020-04-10,2020-04-17,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Roses - Imanbek Remix,SAINt JHN,3,South afrika,2020-04-10,2020-04-17,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+The Box,Roddy Ricch,4,South afrika,2020-04-10,2020-04-17,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Blueberry Faygo,Lil Mosey,5,South afrika,2020-04-10,2020-04-17,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Don't Start Now,Dua Lipa,6,South afrika,2020-04-10,2020-04-17,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Dance Monkey,Tones And I,7,South afrika,2020-04-10,2020-04-17,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Intentions (feat. Quavo),Justin Bieber,8,South afrika,2020-04-10,2020-04-17,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Life Is Good (feat. Drake),Future,9,South afrika,2020-04-10,2020-04-17,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,10,South afrika,2020-04-10,2020-04-17,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Circles,Post Malone,11,South afrika,2020-04-10,2020-04-17,Positive,https://genius.com/Post-malone-circles-lyrics
+Falling,Trevor Daniel,12,South afrika,2020-04-10,2020-04-17,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Memories,Maroon 5,13,South afrika,2020-04-10,2020-04-17,Positive,https://genius.com/Maroon-5-memories-lyrics
+Say So,Doja Cat,14,South afrika,2020-04-10,2020-04-17,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Godzilla (feat. Juice WRLD),Eminem,15,South afrika,2020-04-10,2020-04-17,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+ROXANNE,Arizona Zervas,16,South afrika,2020-04-10,2020-04-17,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+WHATS POPPIN,Jack Harlow,17,South afrika,2020-04-10,2020-04-17,Negative,https://genius.com/Jack-harlow-whats-poppin-lyrics
+Someone You Loved,Lewis Capaldi,18,South afrika,2020-04-10,2020-04-17,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Sunday Best,Surfaces,19,South afrika,2020-04-10,2020-04-17,could not determine analysis,
+Savage,Megan Thee Stallion,20,South afrika,2020-04-10,2020-04-17,Negative,https://genius.com/Megan-thee-stallion-savage-lyrics

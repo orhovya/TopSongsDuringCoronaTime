@@ -1,25 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Blinding Lights,The Weeknd,1,United kingdom,2020-02-21,2020-02-28,Negative
-No Time To Die,Billie Eilish,2,United kingdom,2020-02-21,2020-02-28,Negative
-The Box,Roddy Ricch,3,United kingdom,2020-02-21,2020-02-28,Negative
-Roses - Imanbek Remix,SAINt JHN,4,United kingdom,2020-02-21,2020-02-28,Negative
-Before You Go,Lewis Capaldi,5,United kingdom,2020-02-21,2020-02-28,Negative
-Don't Start Now,Dua Lipa,6,United kingdom,2020-02-21,2020-02-28,Negative
-Own It (feat. Ed Sheeran &amp; Burna Boy),Stormzy,7,United kingdom,2020-02-21,2020-02-28,could not determine analysis
-Intentions (feat. Quavo),Justin Bieber,8,United kingdom,2020-02-21,2020-02-28,Positive
-Dance Monkey,Tones And I,9,United kingdom,2020-02-21,2020-02-28,Neutral
-Someone You Loved,Lewis Capaldi,10,United kingdom,2020-02-21,2020-02-28,Positive
-Life Is Good (feat. Drake),Future,11,United kingdom,2020-02-21,2020-02-28,Positive
-Adore You,Harry Styles,12,United kingdom,2020-02-21,2020-02-28,Positive
-Godzilla (feat. Juice WRLD),Eminem,13,United kingdom,2020-02-21,2020-02-28,Neutral
-everything i wanted,Billie Eilish,14,United kingdom,2020-02-21,2020-02-28,Negative
-After Hours,The Weeknd,15,United kingdom,2020-02-21,2020-02-28,Negative
-Lonely,Joel Corry,16,United kingdom,2020-02-21,2020-02-28,Negative
-You should be sad,Halsey,17,United kingdom,2020-02-21,2020-02-28,Negative
-ROXANNE,Arizona Zervas,18,United kingdom,2020-02-21,2020-02-28,Positive
-Say So,Doja Cat,19,United kingdom,2020-02-21,2020-02-28,Positive
-My Oh My (feat. DaBaby),Camila Cabello,20,United kingdom,2020-02-21,2020-02-28,Neutral
-Stupid Love,Lady Gaga,11,United kingdom,2020-02-28,2020-03-06,Positive
-Physical,Dua Lipa,19,United kingdom,2020-02-28,2020-03-06,Positive
-Rain,Aitch,2,United kingdom,2020-03-06,2020-03-13,Negative
-Blueberry Faygo,Lil Mosey,14,United kingdom,2020-03-13,2020-03-20,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Blinding Lights,The Weeknd,1,United kingdom,2020-02-21,2020-02-28,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+No Time To Die,Billie Eilish,2,United kingdom,2020-02-21,2020-02-28,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+The Box,Roddy Ricch,3,United kingdom,2020-02-21,2020-02-28,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Roses - Imanbek Remix,SAINt JHN,4,United kingdom,2020-02-21,2020-02-28,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Before You Go,Lewis Capaldi,5,United kingdom,2020-02-21,2020-02-28,Negative,https://genius.com/Lewis-capaldi-before-you-go-lyrics
+Don't Start Now,Dua Lipa,6,United kingdom,2020-02-21,2020-02-28,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Own It (feat. Ed Sheeran &amp; Burna Boy),Stormzy,7,United kingdom,2020-02-21,2020-02-28,could not determine analysis,
+Intentions (feat. Quavo),Justin Bieber,8,United kingdom,2020-02-21,2020-02-28,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Dance Monkey,Tones And I,9,United kingdom,2020-02-21,2020-02-28,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Someone You Loved,Lewis Capaldi,10,United kingdom,2020-02-21,2020-02-28,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Life Is Good (feat. Drake),Future,11,United kingdom,2020-02-21,2020-02-28,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Adore You,Harry Styles,12,United kingdom,2020-02-21,2020-02-28,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+Godzilla (feat. Juice WRLD),Eminem,13,United kingdom,2020-02-21,2020-02-28,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+everything i wanted,Billie Eilish,14,United kingdom,2020-02-21,2020-02-28,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+After Hours,The Weeknd,15,United kingdom,2020-02-21,2020-02-28,Negative,https://genius.com/The-weeknd-after-hours-lyrics
+Lonely,Joel Corry,16,United kingdom,2020-02-21,2020-02-28,Negative,https://genius.com/Joel-corry-lonely-lyrics
+You should be sad,Halsey,17,United kingdom,2020-02-21,2020-02-28,Negative,https://genius.com/Halsey-you-should-be-sad-lyrics
+ROXANNE,Arizona Zervas,18,United kingdom,2020-02-21,2020-02-28,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Say So,Doja Cat,19,United kingdom,2020-02-21,2020-02-28,Positive,https://genius.com/Doja-cat-say-so-lyrics
+My Oh My (feat. DaBaby),Camila Cabello,20,United kingdom,2020-02-21,2020-02-28,Neutral,https://genius.com/Camila-cabello-my-oh-my-ft-dababy-and-selena-gomez-lyrics
+Blinding Lights,The Weeknd,1,United kingdom,2020-02-28,2020-03-06,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+The Box,Roddy Ricch,2,United kingdom,2020-02-28,2020-03-06,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Roses - Imanbek Remix,SAINt JHN,3,United kingdom,2020-02-28,2020-03-06,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+No Time To Die,Billie Eilish,4,United kingdom,2020-02-28,2020-03-06,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+Don't Start Now,Dua Lipa,5,United kingdom,2020-02-28,2020-03-06,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Intentions (feat. Quavo),Justin Bieber,6,United kingdom,2020-02-28,2020-03-06,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Before You Go,Lewis Capaldi,7,United kingdom,2020-02-28,2020-03-06,Negative,https://genius.com/Lewis-capaldi-before-you-go-lyrics
+Dance Monkey,Tones And I,8,United kingdom,2020-02-28,2020-03-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Say So,Doja Cat,9,United kingdom,2020-02-28,2020-03-06,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Own It (feat. Ed Sheeran &amp; Burna Boy),Stormzy,10,United kingdom,2020-02-28,2020-03-06,could not determine analysis,
+Stupid Love,Lady Gaga,11,United kingdom,2020-02-28,2020-03-06,Positive,https://genius.com/Lady-gaga-stupid-love-lyrics
+Lonely,Joel Corry,12,United kingdom,2020-02-28,2020-03-06,Negative,https://genius.com/Joel-corry-lonely-lyrics
+Life Is Good (feat. Drake),Future,13,United kingdom,2020-02-28,2020-03-06,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Someone You Loved,Lewis Capaldi,14,United kingdom,2020-02-28,2020-03-06,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Adore You,Harry Styles,15,United kingdom,2020-02-28,2020-03-06,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+Godzilla (feat. Juice WRLD),Eminem,16,United kingdom,2020-02-28,2020-03-06,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+You should be sad,Halsey,17,United kingdom,2020-02-28,2020-03-06,Negative,https://genius.com/Halsey-you-should-be-sad-lyrics
+ROXANNE,Arizona Zervas,18,United kingdom,2020-02-28,2020-03-06,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Physical,Dua Lipa,19,United kingdom,2020-02-28,2020-03-06,Positive,https://genius.com/Dua-lipa-physical-lyrics
+everything i wanted,Billie Eilish,20,United kingdom,2020-02-28,2020-03-06,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Blinding Lights,The Weeknd,1,United kingdom,2020-03-06,2020-03-13,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Rain,Aitch,2,United kingdom,2020-03-06,2020-03-13,Negative,https://genius.com/Aitch-and-aj-tracey-rain-lyrics
+The Box,Roddy Ricch,3,United kingdom,2020-03-06,2020-03-13,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Roses - Imanbek Remix,SAINt JHN,4,United kingdom,2020-03-06,2020-03-13,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Say So,Doja Cat,5,United kingdom,2020-03-06,2020-03-13,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Dance Monkey,Tones And I,6,United kingdom,2020-03-06,2020-03-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Don't Start Now,Dua Lipa,7,United kingdom,2020-03-06,2020-03-13,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Intentions (feat. Quavo),Justin Bieber,8,United kingdom,2020-03-06,2020-03-13,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Before You Go,Lewis Capaldi,9,United kingdom,2020-03-06,2020-03-13,Negative,https://genius.com/Lewis-capaldi-before-you-go-lyrics
+No Time To Die,Billie Eilish,10,United kingdom,2020-03-06,2020-03-13,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+Own It (feat. Ed Sheeran &amp; Burna Boy),Stormzy,11,United kingdom,2020-03-06,2020-03-13,could not determine analysis,
+Lonely,Joel Corry,12,United kingdom,2020-03-06,2020-03-13,Negative,https://genius.com/Joel-corry-lonely-lyrics
+Someone You Loved,Lewis Capaldi,13,United kingdom,2020-03-06,2020-03-13,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Godzilla (feat. Juice WRLD),Eminem,14,United kingdom,2020-03-06,2020-03-13,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Physical,Dua Lipa,15,United kingdom,2020-03-06,2020-03-13,Positive,https://genius.com/Dua-lipa-physical-lyrics
+Life Is Good (feat. Drake),Future,16,United kingdom,2020-03-06,2020-03-13,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Adore You,Harry Styles,17,United kingdom,2020-03-06,2020-03-13,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+You should be sad,Halsey,18,United kingdom,2020-03-06,2020-03-13,Negative,https://genius.com/Halsey-you-should-be-sad-lyrics
+ROXANNE,Arizona Zervas,19,United kingdom,2020-03-06,2020-03-13,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Stupid Love,Lady Gaga,20,United kingdom,2020-03-06,2020-03-13,Positive,https://genius.com/Lady-gaga-stupid-love-lyrics
+Blinding Lights,The Weeknd,1,United kingdom,2020-03-13,2020-03-20,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Roses - Imanbek Remix,SAINt JHN,2,United kingdom,2020-03-13,2020-03-20,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+The Box,Roddy Ricch,3,United kingdom,2020-03-13,2020-03-20,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Rain,Aitch,4,United kingdom,2020-03-13,2020-03-20,Negative,https://genius.com/Aitch-and-aj-tracey-rain-lyrics
+Say So,Doja Cat,5,United kingdom,2020-03-13,2020-03-20,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Dance Monkey,Tones And I,6,United kingdom,2020-03-13,2020-03-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Intentions (feat. Quavo),Justin Bieber,7,United kingdom,2020-03-13,2020-03-20,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Don't Start Now,Dua Lipa,8,United kingdom,2020-03-13,2020-03-20,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Godzilla (feat. Juice WRLD),Eminem,9,United kingdom,2020-03-13,2020-03-20,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Before You Go,Lewis Capaldi,10,United kingdom,2020-03-13,2020-03-20,Negative,https://genius.com/Lewis-capaldi-before-you-go-lyrics
+Lonely,Joel Corry,11,United kingdom,2020-03-13,2020-03-20,Negative,https://genius.com/Joel-corry-lonely-lyrics
+Physical,Dua Lipa,12,United kingdom,2020-03-13,2020-03-20,Positive,https://genius.com/Dua-lipa-physical-lyrics
+Own It (feat. Ed Sheeran &amp; Burna Boy),Stormzy,13,United kingdom,2020-03-13,2020-03-20,could not determine analysis,
+Blueberry Faygo,Lil Mosey,14,United kingdom,2020-03-13,2020-03-20,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Adore You,Harry Styles,15,United kingdom,2020-03-13,2020-03-20,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+Someone You Loved,Lewis Capaldi,16,United kingdom,2020-03-13,2020-03-20,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Life Is Good (feat. Drake),Future,17,United kingdom,2020-03-13,2020-03-20,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+No Time To Die,Billie Eilish,18,United kingdom,2020-03-13,2020-03-20,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+You should be sad,Halsey,19,United kingdom,2020-03-13,2020-03-20,Negative,https://genius.com/Halsey-you-should-be-sad-lyrics
+ROXANNE,Arizona Zervas,20,United kingdom,2020-03-13,2020-03-20,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics

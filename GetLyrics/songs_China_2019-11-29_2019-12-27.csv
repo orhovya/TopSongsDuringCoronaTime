@@ -1,32 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Memories,Maroon 5,1,China,2019-11-29,2019-12-06,Positive
-Señorita,Shawn Mendes,2,China,2019-11-29,2019-12-06,Positive
-everything i wanted,Billie Eilish,3,China,2019-11-29,2019-12-06,Negative
-ROXANNE,Arizona Zervas,4,China,2019-11-29,2019-12-06,Positive
-Circles,Post Malone,5,China,2019-11-29,2019-12-06,Positive
-Dance Monkey,Tones And I,6,China,2019-11-29,2019-12-06,Neutral
-Don't Start Now,Dua Lipa,7,China,2019-11-29,2019-12-06,Negative
-說好不哭,Jay Chou,8,China,2019-11-29,2019-12-06,Neutral
-Heartless,The Weeknd,9,China,2019-11-29,2019-12-06,Negative
-Into the Unknown,Idina Menzel,10,China,2019-11-29,2019-12-06,Negative
-Lose You To Love Me,Selena Gomez,11,China,2019-11-29,2019-12-06,Positive
-Blinding Lights,The Weeknd,12,China,2019-11-29,2019-12-06,Negative
-bad guy,Billie Eilish,13,China,2019-11-29,2019-12-06,Negative
-願榮光歸香港,湯瑪仕與眾香港人,14,China,2019-11-29,2019-12-06,could not determine analysis
-Someone You Loved,Lewis Capaldi,15,China,2019-11-29,2019-12-06,Positive
-Mean It,Lauv,16,China,2019-11-29,2019-12-06,Negative
-hot girl bummer,blackbear,17,China,2019-11-29,2019-12-06,Negative
-句號,G.E.M.,18,China,2019-11-29,2019-12-06,Neutral
-"10,000 Hours (with Justin Bieber)",Dan + Shay,19,China,2019-11-29,2019-12-06,Positive
-Beautiful People (feat. Khalid),Ed Sheeran,20,China,2019-11-29,2019-12-06,Positive
-All I Want for Christmas Is You,Mariah Carey,14,China,2019-12-06,2019-12-13,Positive
-人話,Charmaine Fong,17,China,2019-12-06,2019-12-13,Neutral
-Last Christmas,Wham!,19,China,2019-12-06,2019-12-13,Positive
-Adore You,Harry Styles,20,China,2019-12-06,2019-12-13,Positive
-"讓愛高飛 - 劇集 ""多功能老婆"" 片尾曲",Pakho Chau,10,China,2019-12-13,2019-12-20,could not determine analysis
-Watermelon Sugar,Harry Styles,16,China,2019-12-13,2019-12-20,Positive
-Falling,Trevor Daniel,18,China,2019-12-13,2019-12-20,Positive
-My Oh My (feat. DaBaby),Camila Cabello,20,China,2019-12-13,2019-12-20,Neutral
-Santa Tell Me,Ariana Grande,9,China,2019-12-20,2019-12-27,Positive
-Psycho,Red Velvet,16,China,2019-12-20,2019-12-27,Positive
-Mistletoe,Justin Bieber,18,China,2019-12-20,2019-12-27,could not determine analysis
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Memories,Maroon 5,1,China,2019-11-29,2019-12-06,Positive,https://genius.com/Maroon-5-memories-lyrics
+Señorita,Shawn Mendes,2,China,2019-11-29,2019-12-06,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+everything i wanted,Billie Eilish,3,China,2019-11-29,2019-12-06,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+ROXANNE,Arizona Zervas,4,China,2019-11-29,2019-12-06,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Circles,Post Malone,5,China,2019-11-29,2019-12-06,Positive,https://genius.com/Post-malone-circles-lyrics
+Dance Monkey,Tones And I,6,China,2019-11-29,2019-12-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Don't Start Now,Dua Lipa,7,China,2019-11-29,2019-12-06,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+說好不哭,Jay Chou,8,China,2019-11-29,2019-12-06,Neutral,https://genius.com/Jay-chou-wont-cry-lyrics
+Heartless,The Weeknd,9,China,2019-11-29,2019-12-06,Negative,https://genius.com/The-weeknd-heartless-lyrics
+Into the Unknown,Idina Menzel,10,China,2019-11-29,2019-12-06,Negative,https://genius.com/Idina-menzel-and-aurora-into-the-unknown-lyrics
+Lose You To Love Me,Selena Gomez,11,China,2019-11-29,2019-12-06,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+Blinding Lights,The Weeknd,12,China,2019-11-29,2019-12-06,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+bad guy,Billie Eilish,13,China,2019-11-29,2019-12-06,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+願榮光歸香港,湯瑪仕與眾香港人,14,China,2019-11-29,2019-12-06,could not determine analysis,
+Someone You Loved,Lewis Capaldi,15,China,2019-11-29,2019-12-06,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Mean It,Lauv,16,China,2019-11-29,2019-12-06,Negative,https://genius.com/Lauv-and-lany-mean-it-lyrics
+hot girl bummer,blackbear,17,China,2019-11-29,2019-12-06,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+句號,G.E.M.,18,China,2019-11-29,2019-12-06,Neutral,https://genius.com/Gem-full-stop-traditional-characters-lyrics
+"10,000 Hours (with Justin Bieber)",Dan + Shay,19,China,2019-11-29,2019-12-06,Positive,https://genius.com/Spotify-new-music-friday-10-04-19-annotated
+Beautiful People (feat. Khalid),Ed Sheeran,20,China,2019-11-29,2019-12-06,Positive,https://genius.com/Genius-farsi-translations-ed-sheeran-ft-khalid-beautiful-people-lyrics
+Señorita,Shawn Mendes,1,China,2019-12-06,2019-12-13,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Memories,Maroon 5,2,China,2019-12-06,2019-12-13,Positive,https://genius.com/Maroon-5-memories-lyrics
+everything i wanted,Billie Eilish,3,China,2019-12-06,2019-12-13,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Circles,Post Malone,4,China,2019-12-06,2019-12-13,Positive,https://genius.com/Post-malone-circles-lyrics
+Dance Monkey,Tones And I,5,China,2019-12-06,2019-12-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+ROXANNE,Arizona Zervas,6,China,2019-12-06,2019-12-13,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+說好不哭,Jay Chou,7,China,2019-12-06,2019-12-13,Neutral,https://genius.com/Jay-chou-wont-cry-lyrics
+bad guy,Billie Eilish,8,China,2019-12-06,2019-12-13,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Don't Start Now,Dua Lipa,9,China,2019-12-06,2019-12-13,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Into the Unknown,Idina Menzel,10,China,2019-12-06,2019-12-13,Negative,https://genius.com/Idina-menzel-and-aurora-into-the-unknown-lyrics
+Someone You Loved,Lewis Capaldi,11,China,2019-12-06,2019-12-13,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Beautiful People (feat. Khalid),Ed Sheeran,12,China,2019-12-06,2019-12-13,Positive,https://genius.com/Genius-farsi-translations-ed-sheeran-ft-khalid-beautiful-people-lyrics
+Blinding Lights,The Weeknd,13,China,2019-12-06,2019-12-13,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+All I Want for Christmas Is You,Mariah Carey,14,China,2019-12-06,2019-12-13,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Heartless,The Weeknd,15,China,2019-12-06,2019-12-13,Negative,https://genius.com/The-weeknd-heartless-lyrics
+Lose You To Love Me,Selena Gomez,16,China,2019-12-06,2019-12-13,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+人話,Charmaine Fong,17,China,2019-12-06,2019-12-13,Neutral,https://genius.com/Charmaine-fong-talk2me-lyrics
+願榮光歸香港,湯瑪仕與眾香港人,18,China,2019-12-06,2019-12-13,could not determine analysis,
+Last Christmas,Wham!,19,China,2019-12-06,2019-12-13,Positive,https://genius.com/Wham-last-christmas-lyrics
+Adore You,Harry Styles,20,China,2019-12-06,2019-12-13,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+Señorita,Shawn Mendes,1,China,2019-12-13,2019-12-20,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Memories,Maroon 5,2,China,2019-12-13,2019-12-20,Positive,https://genius.com/Maroon-5-memories-lyrics
+Dance Monkey,Tones And I,3,China,2019-12-13,2019-12-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Circles,Post Malone,4,China,2019-12-13,2019-12-20,Positive,https://genius.com/Post-malone-circles-lyrics
+everything i wanted,Billie Eilish,5,China,2019-12-13,2019-12-20,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+ROXANNE,Arizona Zervas,6,China,2019-12-13,2019-12-20,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+說好不哭,Jay Chou,7,China,2019-12-13,2019-12-20,Neutral,https://genius.com/Jay-chou-wont-cry-lyrics
+Don't Start Now,Dua Lipa,8,China,2019-12-13,2019-12-20,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Adore You,Harry Styles,9,China,2019-12-13,2019-12-20,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+"讓愛高飛 - 劇集 ""多功能老婆"" 片尾曲",Pakho Chau,10,China,2019-12-13,2019-12-20,could not determine analysis,
+All I Want for Christmas Is You,Mariah Carey,11,China,2019-12-13,2019-12-20,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Into the Unknown,Idina Menzel,12,China,2019-12-13,2019-12-20,Negative,https://genius.com/Idina-menzel-and-aurora-into-the-unknown-lyrics
+bad guy,Billie Eilish,13,China,2019-12-13,2019-12-20,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Blinding Lights,The Weeknd,14,China,2019-12-13,2019-12-20,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Someone You Loved,Lewis Capaldi,15,China,2019-12-13,2019-12-20,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Watermelon Sugar,Harry Styles,16,China,2019-12-13,2019-12-20,Positive,https://genius.com/Harry-styles-watermelon-sugar-lyrics
+Last Christmas,Wham!,17,China,2019-12-13,2019-12-20,Positive,https://genius.com/Wham-last-christmas-lyrics
+Falling,Trevor Daniel,18,China,2019-12-13,2019-12-20,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Lose You To Love Me,Selena Gomez,19,China,2019-12-13,2019-12-20,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+My Oh My (feat. DaBaby),Camila Cabello,20,China,2019-12-13,2019-12-20,Neutral,https://genius.com/Camila-cabello-my-oh-my-ft-dababy-and-selena-gomez-lyrics
+All I Want for Christmas Is You,Mariah Carey,1,China,2019-12-20,2019-12-27,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Señorita,Shawn Mendes,2,China,2019-12-20,2019-12-27,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Last Christmas,Wham!,3,China,2019-12-20,2019-12-27,Positive,https://genius.com/Wham-last-christmas-lyrics
+Memories,Maroon 5,4,China,2019-12-20,2019-12-27,Positive,https://genius.com/Maroon-5-memories-lyrics
+Dance Monkey,Tones And I,5,China,2019-12-20,2019-12-27,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+everything i wanted,Billie Eilish,6,China,2019-12-20,2019-12-27,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+ROXANNE,Arizona Zervas,7,China,2019-12-20,2019-12-27,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Circles,Post Malone,8,China,2019-12-20,2019-12-27,Positive,https://genius.com/Post-malone-circles-lyrics
+Santa Tell Me,Ariana Grande,9,China,2019-12-20,2019-12-27,Positive,https://genius.com/Ariana-grande-santa-tell-me-lyrics
+"讓愛高飛 - 劇集 ""多功能老婆"" 片尾曲",Pakho Chau,10,China,2019-12-20,2019-12-27,could not determine analysis,
+說好不哭,Jay Chou,11,China,2019-12-20,2019-12-27,Neutral,https://genius.com/Jay-chou-wont-cry-lyrics
+Don't Start Now,Dua Lipa,12,China,2019-12-20,2019-12-27,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+bad guy,Billie Eilish,13,China,2019-12-20,2019-12-27,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Into the Unknown,Idina Menzel,14,China,2019-12-20,2019-12-27,Negative,https://genius.com/Idina-menzel-and-aurora-into-the-unknown-lyrics
+Adore You,Harry Styles,15,China,2019-12-20,2019-12-27,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+Psycho,Red Velvet,16,China,2019-12-20,2019-12-27,Positive,https://genius.com/Red-velvet-psycho-lyrics
+Falling,Trevor Daniel,17,China,2019-12-20,2019-12-27,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Mistletoe,Justin Bieber,18,China,2019-12-20,2019-12-27,Positive,https://genius.com/Justin-bieber-mistletoe-lyrics
+Blinding Lights,The Weeknd,19,China,2019-12-20,2019-12-27,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Someone You Loved,Lewis Capaldi,20,China,2019-12-20,2019-12-27,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics

@@ -1,33 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Blinding Lights,The Weeknd,1,Estonia,2020-02-21,2020-02-28,Negative
-Paaristõuked,5MIINUST,2,Estonia,2020-02-21,2020-02-28,Negative
-The Box,Roddy Ricch,3,Estonia,2020-02-21,2020-02-28,Negative
-After Hours,The Weeknd,4,Estonia,2020-02-21,2020-02-28,Negative
-No Time To Die,Billie Eilish,5,Estonia,2020-02-21,2020-02-28,Negative
-everything i wanted,Billie Eilish,6,Estonia,2020-02-21,2020-02-28,Negative
-Falling,Trevor Daniel,7,Estonia,2020-02-21,2020-02-28,Positive
-Roses - Imanbek Remix,SAINt JHN,8,Estonia,2020-02-21,2020-02-28,Negative
-Don't Start Now,Dua Lipa,9,Estonia,2020-02-21,2020-02-28,Negative
-Aluspükse,5MIINUST,10,Estonia,2020-02-21,2020-02-28,Negative
-ROXANNE,Arizona Zervas,11,Estonia,2020-02-21,2020-02-28,Positive
-Say So,Doja Cat,12,Estonia,2020-02-21,2020-02-28,Positive
-für Oksana,Nublu,13,Estonia,2020-02-21,2020-02-28,Neutral
-Dance Monkey,Tones And I,14,Estonia,2020-02-21,2020-02-28,Neutral
-Intentions (feat. Quavo),Justin Bieber,15,Estonia,2020-02-21,2020-02-28,Positive
-Life Is Good (feat. Drake),Future,16,Estonia,2020-02-21,2020-02-28,Positive
-Godzilla (feat. Juice WRLD),Eminem,17,Estonia,2020-02-21,2020-02-28,Neutral
-Adore You,Harry Styles,18,Estonia,2020-02-21,2020-02-28,Positive
-ON,BTS,19,Estonia,2020-02-21,2020-02-28,Negative
-Circles,Post Malone,20,Estonia,2020-02-21,2020-02-28,Positive
-Ooh Aah,Púr Múdd,3,Estonia,2020-02-28,2020-03-06,Negative
-Stupid Love,Lady Gaga,14,Estonia,2020-02-28,2020-03-06,Positive
-What Love Is,Uku Suviste,15,Estonia,2020-02-28,2020-03-06,could not determine analysis
-Moral of the Story,Ashe,17,Estonia,2020-02-28,2020-03-06,Positive
-Boss Bitch,Doja Cat,11,Estonia,2020-03-06,2020-03-13,Negative
-Physical,Dua Lipa,14,Estonia,2020-03-06,2020-03-13,Positive
-Blueberry Faygo,Lil Mosey,20,Estonia,2020-03-06,2020-03-13,Negative
-Kuule,Karl-Erik Taukar,8,Estonia,2020-03-13,2020-03-20,could not determine analysis
-death bed (coffee for your head) (feat. beabadoobee),Powfu,12,Estonia,2020-03-13,2020-03-20,Positive
-Supalonely,BENEE,15,Estonia,2020-03-13,2020-03-20,Negative
-UNO,Little Big,16,Estonia,2020-03-13,2020-03-20,Positive
-Sunday Best,Surfaces,20,Estonia,2020-03-13,2020-03-20,Positive
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Blinding Lights,The Weeknd,1,Estonia,2020-02-21,2020-02-28,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Paaristõuked,5MIINUST,2,Estonia,2020-02-21,2020-02-28,Negative,https://genius.com/5miinust-paaristouked-lyrics
+The Box,Roddy Ricch,3,Estonia,2020-02-21,2020-02-28,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+After Hours,The Weeknd,4,Estonia,2020-02-21,2020-02-28,Negative,https://genius.com/The-weeknd-after-hours-lyrics
+No Time To Die,Billie Eilish,5,Estonia,2020-02-21,2020-02-28,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+everything i wanted,Billie Eilish,6,Estonia,2020-02-21,2020-02-28,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Falling,Trevor Daniel,7,Estonia,2020-02-21,2020-02-28,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Roses - Imanbek Remix,SAINt JHN,8,Estonia,2020-02-21,2020-02-28,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Don't Start Now,Dua Lipa,9,Estonia,2020-02-21,2020-02-28,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Aluspükse,5MIINUST,10,Estonia,2020-02-21,2020-02-28,Negative,https://genius.com/5miinust-aluspukse-lyrics
+ROXANNE,Arizona Zervas,11,Estonia,2020-02-21,2020-02-28,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Say So,Doja Cat,12,Estonia,2020-02-21,2020-02-28,Positive,https://genius.com/Doja-cat-say-so-lyrics
+für Oksana,Nublu,13,Estonia,2020-02-21,2020-02-28,Neutral,https://genius.com/Nublu-fur-oksana-lyrics
+Dance Monkey,Tones And I,14,Estonia,2020-02-21,2020-02-28,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Intentions (feat. Quavo),Justin Bieber,15,Estonia,2020-02-21,2020-02-28,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Life Is Good (feat. Drake),Future,16,Estonia,2020-02-21,2020-02-28,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Godzilla (feat. Juice WRLD),Eminem,17,Estonia,2020-02-21,2020-02-28,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Adore You,Harry Styles,18,Estonia,2020-02-21,2020-02-28,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+ON,BTS,19,Estonia,2020-02-21,2020-02-28,Negative,https://genius.com/Bts-on-lyrics
+Circles,Post Malone,20,Estonia,2020-02-21,2020-02-28,Positive,https://genius.com/Post-malone-circles-lyrics
+Blinding Lights,The Weeknd,1,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Paaristõuked,5MIINUST,2,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/5miinust-paaristouked-lyrics
+Ooh Aah,Púr Múdd,3,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/Pur-mudd-ooh-aah-lyrics
+The Box,Roddy Ricch,4,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Roses - Imanbek Remix,SAINt JHN,5,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+everything i wanted,Billie Eilish,6,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Falling,Trevor Daniel,7,Estonia,2020-02-28,2020-03-06,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Say So,Doja Cat,8,Estonia,2020-02-28,2020-03-06,Positive,https://genius.com/Doja-cat-say-so-lyrics
+No Time To Die,Billie Eilish,9,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+Don't Start Now,Dua Lipa,10,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+After Hours,The Weeknd,11,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/The-weeknd-after-hours-lyrics
+Aluspükse,5MIINUST,12,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/5miinust-aluspukse-lyrics
+ROXANNE,Arizona Zervas,13,Estonia,2020-02-28,2020-03-06,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Stupid Love,Lady Gaga,14,Estonia,2020-02-28,2020-03-06,Positive,https://genius.com/Lady-gaga-stupid-love-lyrics
+What Love Is,Uku Suviste,15,Estonia,2020-02-28,2020-03-06,Negative,https://genius.com/Uku-suviste-what-love-is-lyrics
+für Oksana,Nublu,16,Estonia,2020-02-28,2020-03-06,Neutral,https://genius.com/Nublu-fur-oksana-lyrics
+Moral of the Story,Ashe,17,Estonia,2020-02-28,2020-03-06,Positive,https://genius.com/Ashe-moral-of-the-story-lyrics
+Intentions (feat. Quavo),Justin Bieber,18,Estonia,2020-02-28,2020-03-06,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Dance Monkey,Tones And I,19,Estonia,2020-02-28,2020-03-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Adore You,Harry Styles,20,Estonia,2020-02-28,2020-03-06,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+Blinding Lights,The Weeknd,1,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Paaristõuked,5MIINUST,2,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/5miinust-paaristouked-lyrics
+The Box,Roddy Ricch,3,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Roses - Imanbek Remix,SAINt JHN,4,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Ooh Aah,Púr Múdd,5,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/Pur-mudd-ooh-aah-lyrics
+Falling,Trevor Daniel,6,Estonia,2020-03-06,2020-03-13,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Say So,Doja Cat,7,Estonia,2020-03-06,2020-03-13,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Don't Start Now,Dua Lipa,8,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+everything i wanted,Billie Eilish,9,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+No Time To Die,Billie Eilish,10,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+Boss Bitch,Doja Cat,11,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/Doja-cat-boss-bitch-lyrics
+Godzilla (feat. Juice WRLD),Eminem,12,Estonia,2020-03-06,2020-03-13,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Aluspükse,5MIINUST,13,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/5miinust-aluspukse-lyrics
+Physical,Dua Lipa,14,Estonia,2020-03-06,2020-03-13,Positive,https://genius.com/Dua-lipa-physical-lyrics
+Intentions (feat. Quavo),Justin Bieber,15,Estonia,2020-03-06,2020-03-13,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+ROXANNE,Arizona Zervas,16,Estonia,2020-03-06,2020-03-13,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Circles,Post Malone,17,Estonia,2020-03-06,2020-03-13,Positive,https://genius.com/Post-malone-circles-lyrics
+Dance Monkey,Tones And I,18,Estonia,2020-03-06,2020-03-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+für Oksana,Nublu,19,Estonia,2020-03-06,2020-03-13,Neutral,https://genius.com/Nublu-fur-oksana-lyrics
+Blueberry Faygo,Lil Mosey,20,Estonia,2020-03-06,2020-03-13,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Blinding Lights,The Weeknd,1,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+The Box,Roddy Ricch,2,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Paaristõuked,5MIINUST,3,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/5miinust-paaristouked-lyrics
+Roses - Imanbek Remix,SAINt JHN,4,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Say So,Doja Cat,5,Estonia,2020-03-13,2020-03-20,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Falling,Trevor Daniel,6,Estonia,2020-03-13,2020-03-20,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Godzilla (feat. Juice WRLD),Eminem,7,Estonia,2020-03-13,2020-03-20,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Kuule,Karl-Erik Taukar,8,Estonia,2020-03-13,2020-03-20,could not determine analysis,
+Don't Start Now,Dua Lipa,9,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Boss Bitch,Doja Cat,10,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/Doja-cat-boss-bitch-lyrics
+everything i wanted,Billie Eilish,11,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,12,Estonia,2020-03-13,2020-03-20,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+ROXANNE,Arizona Zervas,13,Estonia,2020-03-13,2020-03-20,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Ooh Aah,Púr Múdd,14,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/Pur-mudd-ooh-aah-lyrics
+Supalonely,BENEE,15,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/Benee-supalonely-lyrics
+UNO,Little Big,16,Estonia,2020-03-13,2020-03-20,Positive,https://genius.com/Little-big-uno-lyrics
+Blueberry Faygo,Lil Mosey,17,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Aluspükse,5MIINUST,18,Estonia,2020-03-13,2020-03-20,Negative,https://genius.com/5miinust-aluspukse-lyrics
+Dance Monkey,Tones And I,19,Estonia,2020-03-13,2020-03-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Sunday Best,Surfaces,20,Estonia,2020-03-13,2020-03-20,could not determine analysis,

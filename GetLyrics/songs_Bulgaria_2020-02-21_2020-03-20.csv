@@ -1,29 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-After Hours,The Weeknd,1,Bulgaria,2020-02-21,2020-02-28,Negative
-The Box,Roddy Ricch,2,Bulgaria,2020-02-21,2020-02-28,Negative
-Blinding Lights,The Weeknd,3,Bulgaria,2020-02-21,2020-02-28,Negative
-No Time To Die,Billie Eilish,4,Bulgaria,2020-02-21,2020-02-28,Negative
-Life Is Good (feat. Drake),Future,5,Bulgaria,2020-02-21,2020-02-28,Positive
-Roses - Imanbek Remix,SAINt JHN,6,Bulgaria,2020-02-21,2020-02-28,Negative
-Godzilla (feat. Juice WRLD),Eminem,7,Bulgaria,2020-02-21,2020-02-28,Neutral
-everything i wanted,Billie Eilish,8,Bulgaria,2020-02-21,2020-02-28,Negative
-Dance Monkey,Tones And I,9,Bulgaria,2020-02-21,2020-02-28,Neutral
-Don't Start Now,Dua Lipa,10,Bulgaria,2020-02-21,2020-02-28,Negative
-Falling,Trevor Daniel,11,Bulgaria,2020-02-21,2020-02-28,Positive
-ON,BTS,12,Bulgaria,2020-02-21,2020-02-28,Negative
-Cash,Marso,13,Bulgaria,2020-02-21,2020-02-28,Negative
-bad guy,Billie Eilish,14,Bulgaria,2020-02-21,2020-02-28,Negative
-Physical,Dua Lipa,15,Bulgaria,2020-02-21,2020-02-28,Positive
-ROXANNE,Arizona Zervas,16,Bulgaria,2020-02-21,2020-02-28,Positive
-Intentions (feat. Quavo),Justin Bieber,17,Bulgaria,2020-02-21,2020-02-28,Positive
-Feel Me,Selena Gomez,18,Bulgaria,2020-02-21,2020-02-28,could not determine analysis
-Filter,BTS,19,Bulgaria,2020-02-21,2020-02-28,Positive
-Heartless,The Weeknd,20,Bulgaria,2020-02-21,2020-02-28,Negative
-Stupid Love,Lady Gaga,11,Bulgaria,2020-02-28,2020-03-06,Positive
-Say So,Doja Cat,13,Bulgaria,2020-02-28,2020-03-06,Positive
-HIGHEST IN THE ROOM,Travis Scott,19,Bulgaria,2020-02-28,2020-03-06,Positive
-Майната ти Св. Валентин,Konstantin,20,Bulgaria,2020-02-28,2020-03-06,could not determine analysis
-P2,Lil Uzi Vert,16,Bulgaria,2020-03-06,2020-03-13,Positive
-Blueberry Faygo,Lil Mosey,18,Bulgaria,2020-03-06,2020-03-13,Negative
-Boss Bitch,Doja Cat,19,Bulgaria,2020-03-06,2020-03-13,Negative
-Lalala,Y2K,20,Bulgaria,2020-03-13,2020-03-20,Positive
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+After Hours,The Weeknd,1,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/The-weeknd-after-hours-lyrics
+The Box,Roddy Ricch,2,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Blinding Lights,The Weeknd,3,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+No Time To Die,Billie Eilish,4,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+Life Is Good (feat. Drake),Future,5,Bulgaria,2020-02-21,2020-02-28,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Roses - Imanbek Remix,SAINt JHN,6,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Godzilla (feat. Juice WRLD),Eminem,7,Bulgaria,2020-02-21,2020-02-28,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+everything i wanted,Billie Eilish,8,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Dance Monkey,Tones And I,9,Bulgaria,2020-02-21,2020-02-28,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Don't Start Now,Dua Lipa,10,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Falling,Trevor Daniel,11,Bulgaria,2020-02-21,2020-02-28,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+ON,BTS,12,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/Bts-on-lyrics
+Cash,Marso,13,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/Future-maison-margiela-lyrics
+bad guy,Billie Eilish,14,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Physical,Dua Lipa,15,Bulgaria,2020-02-21,2020-02-28,Positive,https://genius.com/Dua-lipa-physical-lyrics
+ROXANNE,Arizona Zervas,16,Bulgaria,2020-02-21,2020-02-28,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Intentions (feat. Quavo),Justin Bieber,17,Bulgaria,2020-02-21,2020-02-28,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Feel Me,Selena Gomez,18,Bulgaria,2020-02-21,2020-02-28,Positive,https://genius.com/Selena-gomez-feel-me-lyrics
+Filter,BTS,19,Bulgaria,2020-02-21,2020-02-28,Positive,https://genius.com/Bts-filter-lyrics
+Heartless,The Weeknd,20,Bulgaria,2020-02-21,2020-02-28,Negative,https://genius.com/The-weeknd-heartless-lyrics
+The Box,Roddy Ricch,1,Bulgaria,2020-02-28,2020-03-06,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Blinding Lights,The Weeknd,2,Bulgaria,2020-02-28,2020-03-06,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+After Hours,The Weeknd,3,Bulgaria,2020-02-28,2020-03-06,Negative,https://genius.com/The-weeknd-after-hours-lyrics
+Roses - Imanbek Remix,SAINt JHN,4,Bulgaria,2020-02-28,2020-03-06,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Life Is Good (feat. Drake),Future,5,Bulgaria,2020-02-28,2020-03-06,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Godzilla (feat. Juice WRLD),Eminem,6,Bulgaria,2020-02-28,2020-03-06,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+No Time To Die,Billie Eilish,7,Bulgaria,2020-02-28,2020-03-06,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+Dance Monkey,Tones And I,8,Bulgaria,2020-02-28,2020-03-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Don't Start Now,Dua Lipa,9,Bulgaria,2020-02-28,2020-03-06,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Falling,Trevor Daniel,10,Bulgaria,2020-02-28,2020-03-06,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Stupid Love,Lady Gaga,11,Bulgaria,2020-02-28,2020-03-06,Positive,https://genius.com/Lady-gaga-stupid-love-lyrics
+everything i wanted,Billie Eilish,12,Bulgaria,2020-02-28,2020-03-06,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Say So,Doja Cat,13,Bulgaria,2020-02-28,2020-03-06,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Physical,Dua Lipa,14,Bulgaria,2020-02-28,2020-03-06,Positive,https://genius.com/Dua-lipa-physical-lyrics
+bad guy,Billie Eilish,15,Bulgaria,2020-02-28,2020-03-06,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+ROXANNE,Arizona Zervas,16,Bulgaria,2020-02-28,2020-03-06,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Intentions (feat. Quavo),Justin Bieber,17,Bulgaria,2020-02-28,2020-03-06,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Cash,Marso,18,Bulgaria,2020-02-28,2020-03-06,Negative,https://genius.com/Future-maison-margiela-lyrics
+HIGHEST IN THE ROOM,Travis Scott,19,Bulgaria,2020-02-28,2020-03-06,Positive,https://genius.com/Travis-scott-highest-in-the-room-lyrics
+Майната ти Св. Валентин,Konstantin,20,Bulgaria,2020-02-28,2020-03-06,could not determine analysis,
+The Box,Roddy Ricch,1,Bulgaria,2020-03-06,2020-03-13,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Blinding Lights,The Weeknd,2,Bulgaria,2020-03-06,2020-03-13,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Godzilla (feat. Juice WRLD),Eminem,3,Bulgaria,2020-03-06,2020-03-13,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Roses - Imanbek Remix,SAINt JHN,4,Bulgaria,2020-03-06,2020-03-13,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Don't Start Now,Dua Lipa,5,Bulgaria,2020-03-06,2020-03-13,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Dance Monkey,Tones And I,6,Bulgaria,2020-03-06,2020-03-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+After Hours,The Weeknd,7,Bulgaria,2020-03-06,2020-03-13,Negative,https://genius.com/The-weeknd-after-hours-lyrics
+Falling,Trevor Daniel,8,Bulgaria,2020-03-06,2020-03-13,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Life Is Good (feat. Drake),Future,9,Bulgaria,2020-03-06,2020-03-13,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Physical,Dua Lipa,10,Bulgaria,2020-03-06,2020-03-13,Positive,https://genius.com/Dua-lipa-physical-lyrics
+Say So,Doja Cat,11,Bulgaria,2020-03-06,2020-03-13,Positive,https://genius.com/Doja-cat-say-so-lyrics
+ROXANNE,Arizona Zervas,12,Bulgaria,2020-03-06,2020-03-13,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+No Time To Die,Billie Eilish,13,Bulgaria,2020-03-06,2020-03-13,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+bad guy,Billie Eilish,14,Bulgaria,2020-03-06,2020-03-13,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+everything i wanted,Billie Eilish,15,Bulgaria,2020-03-06,2020-03-13,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+P2,Lil Uzi Vert,16,Bulgaria,2020-03-06,2020-03-13,Positive,https://genius.com/Lil-uzi-vert-p2-lyrics
+Intentions (feat. Quavo),Justin Bieber,17,Bulgaria,2020-03-06,2020-03-13,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Blueberry Faygo,Lil Mosey,18,Bulgaria,2020-03-06,2020-03-13,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Boss Bitch,Doja Cat,19,Bulgaria,2020-03-06,2020-03-13,Negative,https://genius.com/Doja-cat-boss-bitch-lyrics
+HIGHEST IN THE ROOM,Travis Scott,20,Bulgaria,2020-03-06,2020-03-13,Positive,https://genius.com/Travis-scott-highest-in-the-room-lyrics
+The Box,Roddy Ricch,1,Bulgaria,2020-03-13,2020-03-20,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Blinding Lights,The Weeknd,2,Bulgaria,2020-03-13,2020-03-20,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Godzilla (feat. Juice WRLD),Eminem,3,Bulgaria,2020-03-13,2020-03-20,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Roses - Imanbek Remix,SAINt JHN,4,Bulgaria,2020-03-13,2020-03-20,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Don't Start Now,Dua Lipa,5,Bulgaria,2020-03-13,2020-03-20,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Say So,Doja Cat,6,Bulgaria,2020-03-13,2020-03-20,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Dance Monkey,Tones And I,7,Bulgaria,2020-03-13,2020-03-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Falling,Trevor Daniel,8,Bulgaria,2020-03-13,2020-03-20,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Life Is Good (feat. Drake),Future,9,Bulgaria,2020-03-13,2020-03-20,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Physical,Dua Lipa,10,Bulgaria,2020-03-13,2020-03-20,Positive,https://genius.com/Dua-lipa-physical-lyrics
+ROXANNE,Arizona Zervas,11,Bulgaria,2020-03-13,2020-03-20,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+After Hours,The Weeknd,12,Bulgaria,2020-03-13,2020-03-20,Negative,https://genius.com/The-weeknd-after-hours-lyrics
+bad guy,Billie Eilish,13,Bulgaria,2020-03-13,2020-03-20,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Boss Bitch,Doja Cat,14,Bulgaria,2020-03-13,2020-03-20,Negative,https://genius.com/Doja-cat-boss-bitch-lyrics
+everything i wanted,Billie Eilish,15,Bulgaria,2020-03-13,2020-03-20,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+No Time To Die,Billie Eilish,16,Bulgaria,2020-03-13,2020-03-20,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+Blueberry Faygo,Lil Mosey,17,Bulgaria,2020-03-13,2020-03-20,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+HIGHEST IN THE ROOM,Travis Scott,18,Bulgaria,2020-03-13,2020-03-20,Positive,https://genius.com/Travis-scott-highest-in-the-room-lyrics
+Intentions (feat. Quavo),Justin Bieber,19,Bulgaria,2020-03-13,2020-03-20,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Lalala,Y2K,20,Bulgaria,2020-03-13,2020-03-20,Positive,https://genius.com/Y2k-and-bbno-lalala-lyrics

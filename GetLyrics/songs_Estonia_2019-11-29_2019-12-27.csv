@@ -1,35 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-everything i wanted,Billie Eilish,1,Estonia,2019-11-29,2019-12-06,Negative
-ROXANNE,Arizona Zervas,2,Estonia,2019-11-29,2019-12-06,Positive
-Dance Monkey,Tones And I,3,Estonia,2019-11-29,2019-12-06,Neutral
-Falling,Trevor Daniel,4,Estonia,2019-11-29,2019-12-06,Positive
-Blinding Lights,The Weeknd,5,Estonia,2019-11-29,2019-12-06,Negative
-Heartless,The Weeknd,6,Estonia,2019-11-29,2019-12-06,Negative
-Ride It,Regard,7,Estonia,2019-11-29,2019-12-06,Negative
-hot girl bummer,blackbear,8,Estonia,2019-11-29,2019-12-06,Negative
-für Oksana,Nublu,9,Estonia,2019-11-29,2019-12-06,Neutral
-Don't Start Now,Dua Lipa,10,Estonia,2019-11-29,2019-12-06,Negative
-All I Want for Christmas Is You,Mariah Carey,11,Estonia,2019-11-29,2019-12-06,Positive
-Circles,Post Malone,12,Estonia,2019-11-29,2019-12-06,Positive
-Memories,Maroon 5,13,Estonia,2019-11-29,2019-12-06,Positive
-Lose You To Love Me,Selena Gomez,14,Estonia,2019-11-29,2019-12-06,Positive
-Aluspükse,5MIINUST,15,Estonia,2019-11-29,2019-12-06,Negative
-Last Christmas,Wham!,16,Estonia,2019-11-29,2019-12-06,Positive
-Vöörad,372kaspar &amp; Lone Betro,17,Estonia,2019-11-29,2019-12-06,could not determine analysis
-bad guy,Billie Eilish,18,Estonia,2019-11-29,2019-12-06,Negative
-3 Nights,Dominic Fike,19,Estonia,2019-11-29,2019-12-06,Positive
-SOS,Pluuto,20,Estonia,2019-11-29,2019-12-06,Negative
-Lucid Dreams,Juice WRLD,5,Estonia,2019-12-06,2019-12-13,Positive
-Adore You,Harry Styles,14,Estonia,2019-12-06,2019-12-13,Positive
-Señorita,Shawn Mendes,20,Estonia,2019-12-06,2019-12-13,Positive
-Watermelon Sugar,Harry Styles,7,Estonia,2019-12-13,2019-12-20,Positive
-Futsal Shuffle 2020,Lil Uzi Vert,17,Estonia,2019-12-13,2019-12-20,Negative
-Lights Up,Harry Styles,18,Estonia,2019-12-13,2019-12-20,Positive
-Rockin' Around The Christmas Tree,Brenda Lee,8,Estonia,2019-12-20,2019-12-27,Positive
-It's the Most Wonderful Time of the Year,Andy Williams,9,Estonia,2019-12-20,2019-12-27,Positive
-It's Beginning to Look a Lot like Christmas,Michael Bublé,10,Estonia,2019-12-20,2019-12-27,Positive
-Jingle Bell Rock,BobHelms,11,Estonia,2019-12-20,2019-12-27,could not determine analysis
-Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Frank Sinatra,12,Estonia,2019-12-20,2019-12-27,could not determine analysis
-Santa Tell Me,Ariana Grande,13,Estonia,2019-12-20,2019-12-27,Positive
-Holly Jolly Christmas,Michael Bublé,15,Estonia,2019-12-20,2019-12-27,Positive
-Feliz Navidad,José Feliciano,18,Estonia,2019-12-20,2019-12-27,Positive
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+everything i wanted,Billie Eilish,1,Estonia,2019-11-29,2019-12-06,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+ROXANNE,Arizona Zervas,2,Estonia,2019-11-29,2019-12-06,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Dance Monkey,Tones And I,3,Estonia,2019-11-29,2019-12-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Falling,Trevor Daniel,4,Estonia,2019-11-29,2019-12-06,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Blinding Lights,The Weeknd,5,Estonia,2019-11-29,2019-12-06,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Heartless,The Weeknd,6,Estonia,2019-11-29,2019-12-06,Negative,https://genius.com/The-weeknd-heartless-lyrics
+Ride It,Regard,7,Estonia,2019-11-29,2019-12-06,Negative,https://genius.com/Regard-ride-it-lyrics
+hot girl bummer,blackbear,8,Estonia,2019-11-29,2019-12-06,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+für Oksana,Nublu,9,Estonia,2019-11-29,2019-12-06,Neutral,https://genius.com/Nublu-fur-oksana-lyrics
+Don't Start Now,Dua Lipa,10,Estonia,2019-11-29,2019-12-06,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+All I Want for Christmas Is You,Mariah Carey,11,Estonia,2019-11-29,2019-12-06,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Circles,Post Malone,12,Estonia,2019-11-29,2019-12-06,Positive,https://genius.com/Post-malone-circles-lyrics
+Memories,Maroon 5,13,Estonia,2019-11-29,2019-12-06,Positive,https://genius.com/Maroon-5-memories-lyrics
+Lose You To Love Me,Selena Gomez,14,Estonia,2019-11-29,2019-12-06,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+Aluspükse,5MIINUST,15,Estonia,2019-11-29,2019-12-06,Negative,https://genius.com/5miinust-aluspukse-lyrics
+Last Christmas,Wham!,16,Estonia,2019-11-29,2019-12-06,Positive,https://genius.com/Wham-last-christmas-lyrics
+Vöörad,372kaspar &amp; Lone Betro,17,Estonia,2019-11-29,2019-12-06,could not determine analysis,
+bad guy,Billie Eilish,18,Estonia,2019-11-29,2019-12-06,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+3 Nights,Dominic Fike,19,Estonia,2019-11-29,2019-12-06,Positive,https://genius.com/Dominic-fike-3-nights-lyrics
+SOS,Pluuto,20,Estonia,2019-11-29,2019-12-06,Negative,https://genius.com/Pluuto-sos-lyrics
+everything i wanted,Billie Eilish,1,Estonia,2019-12-06,2019-12-13,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Falling,Trevor Daniel,2,Estonia,2019-12-06,2019-12-13,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Dance Monkey,Tones And I,3,Estonia,2019-12-06,2019-12-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+ROXANNE,Arizona Zervas,4,Estonia,2019-12-06,2019-12-13,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Lucid Dreams,Juice WRLD,5,Estonia,2019-12-06,2019-12-13,Positive,https://genius.com/Juice-wrld-lucid-dreams-lyrics
+Blinding Lights,The Weeknd,6,Estonia,2019-12-06,2019-12-13,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+für Oksana,Nublu,7,Estonia,2019-12-06,2019-12-13,Neutral,https://genius.com/Nublu-fur-oksana-lyrics
+hot girl bummer,blackbear,8,Estonia,2019-12-06,2019-12-13,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+Don't Start Now,Dua Lipa,9,Estonia,2019-12-06,2019-12-13,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Circles,Post Malone,10,Estonia,2019-12-06,2019-12-13,Positive,https://genius.com/Post-malone-circles-lyrics
+bad guy,Billie Eilish,11,Estonia,2019-12-06,2019-12-13,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Ride It,Regard,12,Estonia,2019-12-06,2019-12-13,Negative,https://genius.com/Regard-ride-it-lyrics
+Aluspükse,5MIINUST,13,Estonia,2019-12-06,2019-12-13,Negative,https://genius.com/5miinust-aluspukse-lyrics
+Adore You,Harry Styles,14,Estonia,2019-12-06,2019-12-13,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+All I Want for Christmas Is You,Mariah Carey,15,Estonia,2019-12-06,2019-12-13,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Heartless,The Weeknd,16,Estonia,2019-12-06,2019-12-13,Negative,https://genius.com/The-weeknd-heartless-lyrics
+Last Christmas,Wham!,17,Estonia,2019-12-06,2019-12-13,Positive,https://genius.com/Wham-last-christmas-lyrics
+Memories,Maroon 5,18,Estonia,2019-12-06,2019-12-13,Positive,https://genius.com/Maroon-5-memories-lyrics
+3 Nights,Dominic Fike,19,Estonia,2019-12-06,2019-12-13,Positive,https://genius.com/Dominic-fike-3-nights-lyrics
+Señorita,Shawn Mendes,20,Estonia,2019-12-06,2019-12-13,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+everything i wanted,Billie Eilish,1,Estonia,2019-12-13,2019-12-20,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Falling,Trevor Daniel,2,Estonia,2019-12-13,2019-12-20,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+ROXANNE,Arizona Zervas,3,Estonia,2019-12-13,2019-12-20,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Blinding Lights,The Weeknd,4,Estonia,2019-12-13,2019-12-20,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Dance Monkey,Tones And I,5,Estonia,2019-12-13,2019-12-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Adore You,Harry Styles,6,Estonia,2019-12-13,2019-12-20,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+Watermelon Sugar,Harry Styles,7,Estonia,2019-12-13,2019-12-20,Positive,https://genius.com/Harry-styles-watermelon-sugar-lyrics
+Don't Start Now,Dua Lipa,8,Estonia,2019-12-13,2019-12-20,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+für Oksana,Nublu,9,Estonia,2019-12-13,2019-12-20,Neutral,https://genius.com/Nublu-fur-oksana-lyrics
+All I Want for Christmas Is You,Mariah Carey,10,Estonia,2019-12-13,2019-12-20,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+hot girl bummer,blackbear,11,Estonia,2019-12-13,2019-12-20,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+Circles,Post Malone,12,Estonia,2019-12-13,2019-12-20,Positive,https://genius.com/Post-malone-circles-lyrics
+Lucid Dreams,Juice WRLD,13,Estonia,2019-12-13,2019-12-20,Positive,https://genius.com/Juice-wrld-lucid-dreams-lyrics
+Ride It,Regard,14,Estonia,2019-12-13,2019-12-20,Negative,https://genius.com/Regard-ride-it-lyrics
+Last Christmas,Wham!,15,Estonia,2019-12-13,2019-12-20,Positive,https://genius.com/Wham-last-christmas-lyrics
+Aluspükse,5MIINUST,16,Estonia,2019-12-13,2019-12-20,Negative,https://genius.com/5miinust-aluspukse-lyrics
+Futsal Shuffle 2020,Lil Uzi Vert,17,Estonia,2019-12-13,2019-12-20,Negative,https://genius.com/Lil-uzi-vert-futsal-shuffle-2020-lyrics
+Lights Up,Harry Styles,18,Estonia,2019-12-13,2019-12-20,Positive,https://genius.com/Harry-styles-lights-up-lyrics
+Memories,Maroon 5,19,Estonia,2019-12-13,2019-12-20,Positive,https://genius.com/Maroon-5-memories-lyrics
+bad guy,Billie Eilish,20,Estonia,2019-12-13,2019-12-20,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+everything i wanted,Billie Eilish,1,Estonia,2019-12-20,2019-12-27,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+All I Want for Christmas Is You,Mariah Carey,2,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Falling,Trevor Daniel,3,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Last Christmas,Wham!,4,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Wham-last-christmas-lyrics
+ROXANNE,Arizona Zervas,5,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Blinding Lights,The Weeknd,6,Estonia,2019-12-20,2019-12-27,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Dance Monkey,Tones And I,7,Estonia,2019-12-20,2019-12-27,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Rockin' Around The Christmas Tree,Brenda Lee,8,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-lyrics
+It's the Most Wonderful Time of the Year,Andy Williams,9,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Andy-williams-its-the-most-wonderful-time-of-the-year-lyrics
+It's Beginning to Look a Lot like Christmas,Michael Bublé,10,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Michael-buble-its-beginning-to-look-a-lot-like-christmas-lyrics
+Jingle Bell Rock,BobHelms,11,Estonia,2019-12-20,2019-12-27,could not determine analysis,
+Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Frank Sinatra,12,Estonia,2019-12-20,2019-12-27,could not determine analysis,
+Santa Tell Me,Ariana Grande,13,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Ariana-grande-santa-tell-me-lyrics
+für Oksana,Nublu,14,Estonia,2019-12-20,2019-12-27,Neutral,https://genius.com/Nublu-fur-oksana-lyrics
+Holly Jolly Christmas,Michael Bublé,15,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Michael-buble-holly-jolly-christmas-lyrics
+hot girl bummer,blackbear,16,Estonia,2019-12-20,2019-12-27,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+Don't Start Now,Dua Lipa,17,Estonia,2019-12-20,2019-12-27,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Feliz Navidad,José Feliciano,18,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Jose-feliciano-feliz-navidad-lyrics
+Aluspükse,5MIINUST,19,Estonia,2019-12-20,2019-12-27,Negative,https://genius.com/5miinust-aluspukse-lyrics
+Circles,Post Malone,20,Estonia,2019-12-20,2019-12-27,Positive,https://genius.com/Post-malone-circles-lyrics

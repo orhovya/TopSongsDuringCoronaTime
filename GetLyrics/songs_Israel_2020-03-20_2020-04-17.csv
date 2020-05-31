@@ -1,28 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Dance Monkey,Tones And I,1,Israel,2020-03-20,2020-03-27,Neutral
-Blinding Lights,The Weeknd,2,Israel,2020-03-20,2020-03-27,Negative
-The Box,Roddy Ricch,3,Israel,2020-03-20,2020-03-27,Negative
-את חסרה לי,Eden Hason,4,Israel,2020-03-20,2020-03-27,Neutral
-Don't Start Now,Dua Lipa,5,Israel,2020-03-20,2020-03-27,Negative
-Godzilla (feat. Juice WRLD),Eminem,6,Israel,2020-03-20,2020-03-27,Neutral
-אלוף העולם,Hanan Ben Ari,7,Israel,2020-03-20,2020-03-27,could not determine analysis
-נחכה לך,Nathan Goshen,8,Israel,2020-03-20,2020-03-27,Neutral
-Roses - Imanbek Remix,SAINt JHN,9,Israel,2020-03-20,2020-03-27,Negative
-מסע,Eliad,10,Israel,2020-03-20,2020-03-27,Neutral
-אם תרצי,Hanan Ben Ari,11,Israel,2020-03-20,2020-03-27,Neutral
-Falling,Trevor Daniel,12,Israel,2020-03-20,2020-03-27,Positive
-Señorita,Shawn Mendes,13,Israel,2020-03-20,2020-03-27,Positive
-לשוב הביתה,Ishay Ribo,14,Israel,2020-03-20,2020-03-27,Neutral
-ROXANNE,Arizona Zervas,15,Israel,2020-03-20,2020-03-27,Positive
-עברו חודשיים,Agam Buhbut,16,Israel,2020-03-20,2020-03-27,Neutral
-הולכת יחפה,Itay Levi,17,Israel,2020-03-20,2020-03-27,Neutral
-Someone You Loved,Lewis Capaldi,18,Israel,2020-03-20,2020-03-27,Positive
-Feker Libi,Eden,19,Israel,2020-03-20,2020-03-27,Positive
-bad guy,Billie Eilish,20,Israel,2020-03-20,2020-03-27,Negative
-Break My Heart,Dua Lipa,12,Israel,2020-03-27,2020-04-03,Positive
-Blueberry Faygo,Lil Mosey,15,Israel,2020-03-27,2020-04-03,Negative
-Physical,Dua Lipa,18,Israel,2020-03-27,2020-04-03,Positive
-Toosie Slide,Drake,1,Israel,2020-04-03,2020-04-10,Positive
-death bed (coffee for your head) (feat. beabadoobee),Powfu,16,Israel,2020-04-03,2020-04-10,Positive
-הלב שלי,Ishay Ribo,20,Israel,2020-04-03,2020-04-10,Neutral
-Say So,Doja Cat,18,Israel,2020-04-10,2020-04-17,Positive
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Dance Monkey,Tones And I,1,Israel,2020-03-20,2020-03-27,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Blinding Lights,The Weeknd,2,Israel,2020-03-20,2020-03-27,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+The Box,Roddy Ricch,3,Israel,2020-03-20,2020-03-27,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+את חסרה לי,Eden Hason,4,Israel,2020-03-20,2020-03-27,Neutral,https://genius.com/Eden-hason-at-hasera-li-lyrics
+Don't Start Now,Dua Lipa,5,Israel,2020-03-20,2020-03-27,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Godzilla (feat. Juice WRLD),Eminem,6,Israel,2020-03-20,2020-03-27,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+אלוף העולם,Hanan Ben Ari,7,Israel,2020-03-20,2020-03-27,Neutral,https://genius.com/Hanan-ben-ari-aluf-haolam-lyrics
+נחכה לך,Nathan Goshen,8,Israel,2020-03-20,2020-03-27,Neutral,https://genius.com/Nathan-goshen-ishay-ribo-nechake-lecha-lyrics
+Roses - Imanbek Remix,SAINt JHN,9,Israel,2020-03-20,2020-03-27,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+מסע,Eliad,10,Israel,2020-03-20,2020-03-27,Neutral,https://genius.com/Eliad-masa-lyrics
+אם תרצי,Hanan Ben Ari,11,Israel,2020-03-20,2020-03-27,Neutral,https://genius.com/Hanan-ben-ari-im-tirtzi-lyrics
+Falling,Trevor Daniel,12,Israel,2020-03-20,2020-03-27,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Señorita,Shawn Mendes,13,Israel,2020-03-20,2020-03-27,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+לשוב הביתה,Ishay Ribo,14,Israel,2020-03-20,2020-03-27,Neutral,https://genius.com/Ishay-ribo-lashuv-habaita-lyrics
+ROXANNE,Arizona Zervas,15,Israel,2020-03-20,2020-03-27,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+עברו חודשיים,Agam Buhbut,16,Israel,2020-03-20,2020-03-27,Neutral,https://genius.com/Agam-buhbut-gal-adam-avru-hodshayim-lyrics
+הולכת יחפה,Itay Levi,17,Israel,2020-03-20,2020-03-27,Neutral,https://genius.com/Itay-levi-holechet-yehefa-lyrics
+Someone You Loved,Lewis Capaldi,18,Israel,2020-03-20,2020-03-27,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Feker Libi,Eden,19,Israel,2020-03-20,2020-03-27,Positive,https://genius.com/Eden-il-feker-libi-lyrics
+bad guy,Billie Eilish,20,Israel,2020-03-20,2020-03-27,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Dance Monkey,Tones And I,1,Israel,2020-03-27,2020-04-03,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Don't Start Now,Dua Lipa,2,Israel,2020-03-27,2020-04-03,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Blinding Lights,The Weeknd,3,Israel,2020-03-27,2020-04-03,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+The Box,Roddy Ricch,4,Israel,2020-03-27,2020-04-03,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+את חסרה לי,Eden Hason,5,Israel,2020-03-27,2020-04-03,Neutral,https://genius.com/Eden-hason-at-hasera-li-lyrics
+Roses - Imanbek Remix,SAINt JHN,6,Israel,2020-03-27,2020-04-03,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+אלוף העולם,Hanan Ben Ari,7,Israel,2020-03-27,2020-04-03,Neutral,https://genius.com/Hanan-ben-ari-aluf-haolam-lyrics
+נחכה לך,Nathan Goshen,8,Israel,2020-03-27,2020-04-03,Neutral,https://genius.com/Nathan-goshen-ishay-ribo-nechake-lecha-lyrics
+Falling,Trevor Daniel,9,Israel,2020-03-27,2020-04-03,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+מסע,Eliad,10,Israel,2020-03-27,2020-04-03,Neutral,https://genius.com/Eliad-masa-lyrics
+אם תרצי,Hanan Ben Ari,11,Israel,2020-03-27,2020-04-03,Neutral,https://genius.com/Hanan-ben-ari-im-tirtzi-lyrics
+Break My Heart,Dua Lipa,12,Israel,2020-03-27,2020-04-03,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Godzilla (feat. Juice WRLD),Eminem,13,Israel,2020-03-27,2020-04-03,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Señorita,Shawn Mendes,14,Israel,2020-03-27,2020-04-03,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Blueberry Faygo,Lil Mosey,15,Israel,2020-03-27,2020-04-03,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+לשוב הביתה,Ishay Ribo,16,Israel,2020-03-27,2020-04-03,Neutral,https://genius.com/Ishay-ribo-lashuv-habaita-lyrics
+ROXANNE,Arizona Zervas,17,Israel,2020-03-27,2020-04-03,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Physical,Dua Lipa,18,Israel,2020-03-27,2020-04-03,Positive,https://genius.com/Dua-lipa-physical-lyrics
+Someone You Loved,Lewis Capaldi,19,Israel,2020-03-27,2020-04-03,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+bad guy,Billie Eilish,20,Israel,2020-03-27,2020-04-03,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Toosie Slide,Drake,1,Israel,2020-04-03,2020-04-10,Positive,https://genius.com/Drake-toosie-slide-lyrics
+Dance Monkey,Tones And I,2,Israel,2020-04-03,2020-04-10,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Blinding Lights,The Weeknd,3,Israel,2020-04-03,2020-04-10,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Don't Start Now,Dua Lipa,4,Israel,2020-04-03,2020-04-10,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+The Box,Roddy Ricch,5,Israel,2020-04-03,2020-04-10,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Roses - Imanbek Remix,SAINt JHN,6,Israel,2020-04-03,2020-04-10,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+את חסרה לי,Eden Hason,7,Israel,2020-04-03,2020-04-10,Neutral,https://genius.com/Eden-hason-at-hasera-li-lyrics
+אלוף העולם,Hanan Ben Ari,8,Israel,2020-04-03,2020-04-10,Neutral,https://genius.com/Hanan-ben-ari-aluf-haolam-lyrics
+נחכה לך,Nathan Goshen,9,Israel,2020-04-03,2020-04-10,Neutral,https://genius.com/Nathan-goshen-ishay-ribo-nechake-lecha-lyrics
+מסע,Eliad,10,Israel,2020-04-03,2020-04-10,Neutral,https://genius.com/Eliad-masa-lyrics
+אם תרצי,Hanan Ben Ari,11,Israel,2020-04-03,2020-04-10,Neutral,https://genius.com/Hanan-ben-ari-im-tirtzi-lyrics
+Blueberry Faygo,Lil Mosey,12,Israel,2020-04-03,2020-04-10,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Falling,Trevor Daniel,13,Israel,2020-04-03,2020-04-10,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+לשוב הביתה,Ishay Ribo,14,Israel,2020-04-03,2020-04-10,Neutral,https://genius.com/Ishay-ribo-lashuv-habaita-lyrics
+Señorita,Shawn Mendes,15,Israel,2020-04-03,2020-04-10,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,16,Israel,2020-04-03,2020-04-10,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Godzilla (feat. Juice WRLD),Eminem,17,Israel,2020-04-03,2020-04-10,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+ROXANNE,Arizona Zervas,18,Israel,2020-04-03,2020-04-10,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Someone You Loved,Lewis Capaldi,19,Israel,2020-04-03,2020-04-10,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+הלב שלי,Ishay Ribo,20,Israel,2020-04-03,2020-04-10,could not determine analysis,
+Toosie Slide,Drake,1,Israel,2020-04-10,2020-04-17,Positive,https://genius.com/Drake-toosie-slide-lyrics
+Blinding Lights,The Weeknd,2,Israel,2020-04-10,2020-04-17,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Dance Monkey,Tones And I,3,Israel,2020-04-10,2020-04-17,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Roses - Imanbek Remix,SAINt JHN,4,Israel,2020-04-10,2020-04-17,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Don't Start Now,Dua Lipa,5,Israel,2020-04-10,2020-04-17,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+The Box,Roddy Ricch,6,Israel,2020-04-10,2020-04-17,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+את חסרה לי,Eden Hason,7,Israel,2020-04-10,2020-04-17,Neutral,https://genius.com/Eden-hason-at-hasera-li-lyrics
+Blueberry Faygo,Lil Mosey,8,Israel,2020-04-10,2020-04-17,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+נחכה לך,Nathan Goshen,9,Israel,2020-04-10,2020-04-17,Neutral,https://genius.com/Nathan-goshen-ishay-ribo-nechake-lecha-lyrics
+אלוף העולם,Hanan Ben Ari,10,Israel,2020-04-10,2020-04-17,Neutral,https://genius.com/Hanan-ben-ari-aluf-haolam-lyrics
+Falling,Trevor Daniel,11,Israel,2020-04-10,2020-04-17,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+מסע,Eliad,12,Israel,2020-04-10,2020-04-17,Neutral,https://genius.com/Eliad-masa-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,13,Israel,2020-04-10,2020-04-17,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+אם תרצי,Hanan Ben Ari,14,Israel,2020-04-10,2020-04-17,Neutral,https://genius.com/Hanan-ben-ari-im-tirtzi-lyrics
+Señorita,Shawn Mendes,15,Israel,2020-04-10,2020-04-17,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Godzilla (feat. Juice WRLD),Eminem,16,Israel,2020-04-10,2020-04-17,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Break My Heart,Dua Lipa,17,Israel,2020-04-10,2020-04-17,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Say So,Doja Cat,18,Israel,2020-04-10,2020-04-17,Positive,https://genius.com/Doja-cat-say-so-lyrics
+לשוב הביתה,Ishay Ribo,19,Israel,2020-04-10,2020-04-17,Neutral,https://genius.com/Ishay-ribo-lashuv-habaita-lyrics
+ROXANNE,Arizona Zervas,20,Israel,2020-04-10,2020-04-17,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics

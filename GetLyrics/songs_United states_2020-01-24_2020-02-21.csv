@@ -1,31 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-The Box,Roddy Ricch,1,United states,2020-01-24,2020-01-31,Negative
-Life Is Good (feat. Drake),Future,2,United states,2020-01-24,2020-01-31,Positive
-Godzilla (feat. Juice WRLD),Eminem,3,United states,2020-01-24,2020-01-31,Neutral
-ROXANNE,Arizona Zervas,4,United states,2020-01-24,2020-01-31,Positive
-BOP,DaBaby,5,United states,2020-01-24,2020-01-31,Negative
-Suicidal,YNW Melly,6,United states,2020-01-24,2020-01-31,Negative
-Falling,Trevor Daniel,7,United states,2020-01-24,2020-01-31,Positive
-Blinding Lights,The Weeknd,8,United states,2020-01-24,2020-01-31,Negative
-everything i wanted,Billie Eilish,9,United states,2020-01-24,2020-01-31,Negative
-Circles,Post Malone,10,United states,2020-01-24,2020-01-31,Positive
-High Fashion (feat. Mustard),Roddy Ricch,11,United states,2020-01-24,2020-01-31,Negative
-Dance Monkey,Tones And I,12,United states,2020-01-24,2020-01-31,Neutral
-Good News,Mac Miller,13,United states,2020-01-24,2020-01-31,Negative
-Bandit (with YoungBoy Never Broke Again),Juice WRLD,14,United states,2020-01-24,2020-01-31,Positive
-Ballin' (with Roddy Ricch),Mustard,15,United states,2020-01-24,2020-01-31,Positive
-You should be sad,Halsey,16,United states,2020-01-24,2020-01-31,Negative
-Yummy,Justin Bieber,17,United states,2020-01-24,2020-01-31,Positive
-bad guy,Billie Eilish,18,United states,2020-01-24,2020-01-31,Negative
-TOES (feat. Lil Baby &amp; Moneybagg Yo),DaBaby,19,United states,2020-01-24,2020-01-31,could not determine analysis
-Don't Start Now,Dua Lipa,20,United states,2020-01-24,2020-01-31,Negative
-"I Do It (ft. Big Sean, Lil Baby)",Lil Wayne,16,United states,2020-01-31,2020-02-07,Positive
-Say So,Doja Cat,19,United states,2020-01-31,2020-02-07,Positive
-Intentions,Justin Bieber,3,United states,2020-02-07,2020-02-14,Positive
-Blueberry Faygo,Lil Mosey,15,United states,2020-02-07,2020-02-14,Negative
-Run,Joji,16,United states,2020-02-07,2020-02-14,could not determine analysis
-Intentions (feat. Quavo),Justin Bieber,2,United states,2020-02-14,2020-02-21,Positive
-No Time To Die,Billie Eilish,4,United states,2020-02-14,2020-02-21,Negative
-Forever (feat. Post Malone &amp; Clever),Justin Bieber,7,United states,2020-02-14,2020-02-21,could not determine analysis
-"Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",A Boogie Wit da Hoodie,13,United states,2020-02-14,2020-02-21,Negative
-WHATS POPPIN,Jack Harlow,20,United states,2020-02-14,2020-02-21,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+The Box,Roddy Ricch,1,United states,2020-01-24,2020-01-31,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Life Is Good (feat. Drake),Future,2,United states,2020-01-24,2020-01-31,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Godzilla (feat. Juice WRLD),Eminem,3,United states,2020-01-24,2020-01-31,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+ROXANNE,Arizona Zervas,4,United states,2020-01-24,2020-01-31,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+BOP,DaBaby,5,United states,2020-01-24,2020-01-31,Negative,https://genius.com/Dababy-bop-lyrics
+Suicidal,YNW Melly,6,United states,2020-01-24,2020-01-31,Negative,https://genius.com/Ynw-melly-suicidal-lyrics
+Falling,Trevor Daniel,7,United states,2020-01-24,2020-01-31,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Blinding Lights,The Weeknd,8,United states,2020-01-24,2020-01-31,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+everything i wanted,Billie Eilish,9,United states,2020-01-24,2020-01-31,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Circles,Post Malone,10,United states,2020-01-24,2020-01-31,Positive,https://genius.com/Post-malone-circles-lyrics
+High Fashion (feat. Mustard),Roddy Ricch,11,United states,2020-01-24,2020-01-31,Negative,https://genius.com/Genius-traductions-francaises-roddy-ricch-high-fashion-ft-mustard-traduction-francaise-lyrics
+Dance Monkey,Tones And I,12,United states,2020-01-24,2020-01-31,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Good News,Mac Miller,13,United states,2020-01-24,2020-01-31,Negative,https://genius.com/Mac-miller-good-news-lyrics
+Bandit (with YoungBoy Never Broke Again),Juice WRLD,14,United states,2020-01-24,2020-01-31,Positive,https://genius.com/Spotify-new-music-friday-10-04-19-annotated
+Ballin' (with Roddy Ricch),Mustard,15,United states,2020-01-24,2020-01-31,Positive,https://genius.com/Womp-womp-womp-womp-she-give-me-what-i-wanna-my-trash-favorite-songs-of-2019-annotated
+You should be sad,Halsey,16,United states,2020-01-24,2020-01-31,Negative,https://genius.com/Halsey-you-should-be-sad-lyrics
+Yummy,Justin Bieber,17,United states,2020-01-24,2020-01-31,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+bad guy,Billie Eilish,18,United states,2020-01-24,2020-01-31,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+TOES (feat. Lil Baby &amp; Moneybagg Yo),DaBaby,19,United states,2020-01-24,2020-01-31,could not determine analysis,
+Don't Start Now,Dua Lipa,20,United states,2020-01-24,2020-01-31,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+The Box,Roddy Ricch,1,United states,2020-01-31,2020-02-07,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Life Is Good (feat. Drake),Future,2,United states,2020-01-31,2020-02-07,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Godzilla (feat. Juice WRLD),Eminem,3,United states,2020-01-31,2020-02-07,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+ROXANNE,Arizona Zervas,4,United states,2020-01-31,2020-02-07,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Blinding Lights,The Weeknd,5,United states,2020-01-31,2020-02-07,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Falling,Trevor Daniel,6,United states,2020-01-31,2020-02-07,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Circles,Post Malone,7,United states,2020-01-31,2020-02-07,Positive,https://genius.com/Post-malone-circles-lyrics
+everything i wanted,Billie Eilish,8,United states,2020-01-31,2020-02-07,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Suicidal,YNW Melly,9,United states,2020-01-31,2020-02-07,Negative,https://genius.com/Ynw-melly-suicidal-lyrics
+High Fashion (feat. Mustard),Roddy Ricch,10,United states,2020-01-31,2020-02-07,Negative,https://genius.com/Genius-traductions-francaises-roddy-ricch-high-fashion-ft-mustard-traduction-francaise-lyrics
+BOP,DaBaby,11,United states,2020-01-31,2020-02-07,Negative,https://genius.com/Dababy-bop-lyrics
+Dance Monkey,Tones And I,12,United states,2020-01-31,2020-02-07,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Don't Start Now,Dua Lipa,13,United states,2020-01-31,2020-02-07,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Ballin' (with Roddy Ricch),Mustard,14,United states,2020-01-31,2020-02-07,Positive,https://genius.com/Womp-womp-womp-womp-she-give-me-what-i-wanna-my-trash-favorite-songs-of-2019-annotated
+Bandit (with YoungBoy Never Broke Again),Juice WRLD,15,United states,2020-01-31,2020-02-07,Positive,https://genius.com/Spotify-new-music-friday-10-04-19-annotated
+"I Do It (ft. Big Sean, Lil Baby)",Lil Wayne,16,United states,2020-01-31,2020-02-07,Positive,https://genius.com/Lil-wayne-i-do-it-lyrics
+Yummy,Justin Bieber,17,United states,2020-01-31,2020-02-07,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+TOES (feat. Lil Baby &amp; Moneybagg Yo),DaBaby,18,United states,2020-01-31,2020-02-07,could not determine analysis,
+Say So,Doja Cat,19,United states,2020-01-31,2020-02-07,Positive,https://genius.com/Doja-cat-say-so-lyrics
+You should be sad,Halsey,20,United states,2020-01-31,2020-02-07,Negative,https://genius.com/Halsey-you-should-be-sad-lyrics
+The Box,Roddy Ricch,1,United states,2020-02-07,2020-02-14,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Life Is Good (feat. Drake),Future,2,United states,2020-02-07,2020-02-14,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Intentions,Justin Bieber,3,United states,2020-02-07,2020-02-14,Positive,https://genius.com/Justin-bieber-intentions-lyrics
+ROXANNE,Arizona Zervas,4,United states,2020-02-07,2020-02-14,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+High Fashion (feat. Mustard),Roddy Ricch,5,United states,2020-02-07,2020-02-14,Negative,https://genius.com/Genius-traductions-francaises-roddy-ricch-high-fashion-ft-mustard-traduction-francaise-lyrics
+Blinding Lights,The Weeknd,6,United states,2020-02-07,2020-02-14,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Godzilla (feat. Juice WRLD),Eminem,7,United states,2020-02-07,2020-02-14,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Falling,Trevor Daniel,8,United states,2020-02-07,2020-02-14,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Don't Start Now,Dua Lipa,9,United states,2020-02-07,2020-02-14,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Circles,Post Malone,10,United states,2020-02-07,2020-02-14,Positive,https://genius.com/Post-malone-circles-lyrics
+everything i wanted,Billie Eilish,11,United states,2020-02-07,2020-02-14,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+BOP,DaBaby,12,United states,2020-02-07,2020-02-14,Negative,https://genius.com/Dababy-bop-lyrics
+Dance Monkey,Tones And I,13,United states,2020-02-07,2020-02-14,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Suicidal,YNW Melly,14,United states,2020-02-07,2020-02-14,Negative,https://genius.com/Ynw-melly-suicidal-lyrics
+Blueberry Faygo,Lil Mosey,15,United states,2020-02-07,2020-02-14,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Run,Joji,16,United states,2020-02-07,2020-02-14,Negative,https://genius.com/Joji-run-lyrics
+Ballin' (with Roddy Ricch),Mustard,17,United states,2020-02-07,2020-02-14,Positive,https://genius.com/Womp-womp-womp-womp-she-give-me-what-i-wanna-my-trash-favorite-songs-of-2019-annotated
+Say So,Doja Cat,18,United states,2020-02-07,2020-02-14,Positive,https://genius.com/Doja-cat-say-so-lyrics
+TOES (feat. Lil Baby &amp; Moneybagg Yo),DaBaby,19,United states,2020-02-07,2020-02-14,could not determine analysis,
+Bandit (with YoungBoy Never Broke Again),Juice WRLD,20,United states,2020-02-07,2020-02-14,Positive,https://genius.com/Spotify-new-music-friday-10-04-19-annotated
+The Box,Roddy Ricch,1,United states,2020-02-14,2020-02-21,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Intentions (feat. Quavo),Justin Bieber,2,United states,2020-02-14,2020-02-21,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Life Is Good (feat. Drake),Future,3,United states,2020-02-14,2020-02-21,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+No Time To Die,Billie Eilish,4,United states,2020-02-14,2020-02-21,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+Blinding Lights,The Weeknd,5,United states,2020-02-14,2020-02-21,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+ROXANNE,Arizona Zervas,6,United states,2020-02-14,2020-02-21,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Forever (feat. Post Malone &amp; Clever),Justin Bieber,7,United states,2020-02-14,2020-02-21,could not determine analysis,
+Blueberry Faygo,Lil Mosey,8,United states,2020-02-14,2020-02-21,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+High Fashion (feat. Mustard),Roddy Ricch,9,United states,2020-02-14,2020-02-21,Negative,https://genius.com/Genius-traductions-francaises-roddy-ricch-high-fashion-ft-mustard-traduction-francaise-lyrics
+Falling,Trevor Daniel,10,United states,2020-02-14,2020-02-21,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Circles,Post Malone,11,United states,2020-02-14,2020-02-21,Positive,https://genius.com/Post-malone-circles-lyrics
+Don't Start Now,Dua Lipa,12,United states,2020-02-14,2020-02-21,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+"Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",A Boogie Wit da Hoodie,13,United states,2020-02-14,2020-02-21,Negative,https://genius.com/A-boogie-wit-da-hoodie-numbers-lyrics
+everything i wanted,Billie Eilish,14,United states,2020-02-14,2020-02-21,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Yummy,Justin Bieber,15,United states,2020-02-14,2020-02-21,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Godzilla (feat. Juice WRLD),Eminem,16,United states,2020-02-14,2020-02-21,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Dance Monkey,Tones And I,17,United states,2020-02-14,2020-02-21,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+BOP,DaBaby,18,United states,2020-02-14,2020-02-21,Negative,https://genius.com/Dababy-bop-lyrics
+Suicidal,YNW Melly,19,United states,2020-02-14,2020-02-21,Negative,https://genius.com/Ynw-melly-suicidal-lyrics
+WHATS POPPIN,Jack Harlow,20,United states,2020-02-14,2020-02-21,Negative,https://genius.com/Jack-harlow-whats-poppin-lyrics

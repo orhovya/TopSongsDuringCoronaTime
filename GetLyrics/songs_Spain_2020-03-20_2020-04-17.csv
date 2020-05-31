@@ -1,31 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Amarillo,J Balvin,1,Spain,2020-03-20,2020-03-27,Negative
-Rojo,J Balvin,2,Spain,2020-03-20,2020-03-27,Neutral
-Tusa,KAROL G,3,Spain,2020-03-20,2020-03-27,Negative
-Morado,J Balvin,4,Spain,2020-03-20,2020-03-27,could not determine analysis
-Safaera,Bad Bunny,5,Spain,2020-03-20,2020-03-27,Negative
-La Difícil,Bad Bunny,6,Spain,2020-03-20,2020-03-27,Negative
-Tattoo,Rauw Alejandro,7,Spain,2020-03-20,2020-03-27,Negative
-Gris,J Balvin,8,Spain,2020-03-20,2020-03-27,Negative
-Diosa,Myke Towers,9,Spain,2020-03-20,2020-03-27,Negative
-Azul,J Balvin,10,Spain,2020-03-20,2020-03-27,Negative
-Keii,Anuel AA,11,Spain,2020-03-20,2020-03-27,Positive
-Medusa,Jhay Cortez,12,Spain,2020-03-20,2020-03-27,Negative
-Rosa,J Balvin,13,Spain,2020-03-20,2020-03-27,Negative
-Ignorantes,Bad Bunny,14,Spain,2020-03-20,2020-03-27,Negative
-Blanco,J Balvin,15,Spain,2020-03-20,2020-03-27,Negative
-Se iluminaba,Fred De Palma,16,Spain,2020-03-20,2020-03-27,Negative
-Fantasias - Remix,Rauw Alejandro,17,Spain,2020-03-20,2020-03-27,Negative
-Negro,J Balvin,18,Spain,2020-03-20,2020-03-27,Negative
-Si Veo a Tu Mamá,Bad Bunny,19,Spain,2020-03-20,2020-03-27,Negative
-Una Mala (Remix),El Completo Rd,20,Spain,2020-03-20,2020-03-27,Negative
-Yo Perreo Sola,Bad Bunny,6,Spain,2020-03-27,2020-04-03,Negative
-4 besos,Lola Indigo,9,Spain,2020-03-27,2020-04-03,Negative
-Dolerme,ROSALÍA,19,Spain,2020-03-27,2020-04-03,Negative
-Don't Start Now,Dua Lipa,20,Spain,2020-03-27,2020-04-03,Negative
-Follow,KAROL G,12,Spain,2020-04-03,2020-04-10,Negative
-La Cama - Remix,Lunay,14,Spain,2020-04-03,2020-04-10,Negative
-Dime Bbsita,Robledo,3,Spain,2020-04-10,2020-04-17,Negative
-Mil Tequilas,Chema Rivas,13,Spain,2020-04-10,2020-04-17,Negative
-Tu Eres Un Bom Bom - Remix,Kafu Banton,15,Spain,2020-04-10,2020-04-17,Negative
-PORFA,Feid,16,Spain,2020-04-10,2020-04-17,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Amarillo,J Balvin,1,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/J-balvin-amarillo-lyrics
+Rojo,J Balvin,2,Spain,2020-03-20,2020-03-27,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Tusa,KAROL G,3,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Morado,J Balvin,4,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/J-balvin-morado-lyrics
+Safaera,Bad Bunny,5,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+La Difícil,Bad Bunny,6,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Tattoo,Rauw Alejandro,7,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Gris,J Balvin,8,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/J-balvin-gris-lyrics
+Diosa,Myke Towers,9,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Azul,J Balvin,10,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/J-balvin-azul-lyrics
+Keii,Anuel AA,11,Spain,2020-03-20,2020-03-27,Positive,https://genius.com/Anuel-aa-keii-lyrics
+Medusa,Jhay Cortez,12,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/Jhay-cortez-anuel-aa-and-j-balvin-medusa-lyrics
+Rosa,J Balvin,13,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/J-balvin-rosa-lyrics
+Ignorantes,Bad Bunny,14,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Blanco,J Balvin,15,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/J-balvin-blanco-lyrics
+Se iluminaba,Fred De Palma,16,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/Fred-de-palma-se-iluminaba-lyrics
+Fantasias - Remix,Rauw Alejandro,17,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/Rauw-alejandro-anuel-aa-and-natti-natasha-fantasias-remix-lyrics
+Negro,J Balvin,18,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/J-balvin-negro-lyrics
+Si Veo a Tu Mamá,Bad Bunny,19,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Una Mala (Remix),El Completo Rd,20,Spain,2020-03-20,2020-03-27,Negative,https://genius.com/El-completo-rd-una-mala-remix-annotated
+Safaera,Bad Bunny,1,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Amarillo,J Balvin,2,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/J-balvin-amarillo-lyrics
+Tusa,KAROL G,3,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Rojo,J Balvin,4,Spain,2020-03-27,2020-04-03,Neutral,https://genius.com/J-balvin-rojo-lyrics
+La Difícil,Bad Bunny,5,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Yo Perreo Sola,Bad Bunny,6,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Tattoo,Rauw Alejandro,7,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Morado,J Balvin,8,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/J-balvin-morado-lyrics
+4 besos,Lola Indigo,9,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Lola-indigo-rauw-alejandro-and-lalo-ebratt-4-besos-lyrics
+Diosa,Myke Towers,10,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Una Mala (Remix),El Completo Rd,11,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/El-completo-rd-una-mala-remix-annotated
+Keii,Anuel AA,12,Spain,2020-03-27,2020-04-03,Positive,https://genius.com/Anuel-aa-keii-lyrics
+Gris,J Balvin,13,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/J-balvin-gris-lyrics
+Ignorantes,Bad Bunny,14,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Medusa,Jhay Cortez,15,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Jhay-cortez-anuel-aa-and-j-balvin-medusa-lyrics
+Se iluminaba,Fred De Palma,16,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Fred-de-palma-se-iluminaba-lyrics
+Azul,J Balvin,17,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/J-balvin-azul-lyrics
+Si Veo a Tu Mamá,Bad Bunny,18,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Dolerme,ROSALÍA,19,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Rosalia-dolerme-lyrics
+Don't Start Now,Dua Lipa,20,Spain,2020-03-27,2020-04-03,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Safaera,Bad Bunny,1,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Amarillo,J Balvin,2,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/J-balvin-amarillo-lyrics
+Yo Perreo Sola,Bad Bunny,3,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Tusa,KAROL G,4,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Rojo,J Balvin,5,Spain,2020-04-03,2020-04-10,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Tattoo,Rauw Alejandro,6,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+La Difícil,Bad Bunny,7,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+4 besos,Lola Indigo,8,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Lola-indigo-rauw-alejandro-and-lalo-ebratt-4-besos-lyrics
+Morado,J Balvin,9,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/J-balvin-morado-lyrics
+Una Mala (Remix),El Completo Rd,10,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/El-completo-rd-una-mala-remix-annotated
+Diosa,Myke Towers,11,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Follow,KAROL G,12,Spain,2020-04-03,2020-04-10,could not determine analysis,
+Keii,Anuel AA,13,Spain,2020-04-03,2020-04-10,Positive,https://genius.com/Anuel-aa-keii-lyrics
+La Cama - Remix,Lunay,14,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Lunay-myke-towers-and-ozuna-la-cama-remix-lyrics
+Ignorantes,Bad Bunny,15,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Se iluminaba,Fred De Palma,16,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Fred-de-palma-se-iluminaba-lyrics
+Gris,J Balvin,17,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/J-balvin-gris-lyrics
+Medusa,Jhay Cortez,18,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Jhay-cortez-anuel-aa-and-j-balvin-medusa-lyrics
+Azul,J Balvin,19,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/J-balvin-azul-lyrics
+Fantasias - Remix,Rauw Alejandro,20,Spain,2020-04-03,2020-04-10,Negative,https://genius.com/Rauw-alejandro-anuel-aa-and-natti-natasha-fantasias-remix-lyrics
+Safaera,Bad Bunny,1,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Amarillo,J Balvin,2,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/J-balvin-amarillo-lyrics
+Dime Bbsita,Robledo,3,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Robledo-and-alex-martini-dime-bbsita-lyrics
+Yo Perreo Sola,Bad Bunny,4,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Tusa,KAROL G,5,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Rojo,J Balvin,6,Spain,2020-04-10,2020-04-17,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Tattoo,Rauw Alejandro,7,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+4 besos,Lola Indigo,8,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Lola-indigo-rauw-alejandro-and-lalo-ebratt-4-besos-lyrics
+La Difícil,Bad Bunny,9,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Una Mala (Remix),El Completo Rd,10,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/El-completo-rd-una-mala-remix-annotated
+Morado,J Balvin,11,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/J-balvin-morado-lyrics
+Follow,KAROL G,12,Spain,2020-04-10,2020-04-17,could not determine analysis,
+Mil Tequilas,Chema Rivas,13,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Chema-rivas-esp-mil-tequilas-lyrics
+Diosa,Myke Towers,14,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Tu Eres Un Bom Bom - Remix,Kafu Banton,15,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Kafu-banton-and-bad-gyal-tu-eres-un-bom-bom-remix-lyrics
+PORFA,Feid,16,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Feid-and-justin-quiles-porfa-lyrics
+La Cama - Remix,Lunay,17,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Lunay-myke-towers-and-ozuna-la-cama-remix-lyrics
+Se iluminaba,Fred De Palma,18,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/Fred-de-palma-se-iluminaba-lyrics
+Keii,Anuel AA,19,Spain,2020-04-10,2020-04-17,Positive,https://genius.com/Anuel-aa-keii-lyrics
+Gris,J Balvin,20,Spain,2020-04-10,2020-04-17,Negative,https://genius.com/J-balvin-gris-lyrics

@@ -1,27 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Tusa,KAROL G,1,Argentina,2020-01-24,2020-01-31,Negative
-Hola - Remix,Dalex,2,Argentina,2020-01-24,2020-01-31,Negative
-Dance Monkey,Tones And I,3,Argentina,2020-01-24,2020-01-31,Neutral
-Sigues Con El,Dímelo Flow,4,Argentina,2020-01-24,2020-01-31,Negative
-Fantasias,Rauw Alejandro,5,Argentina,2020-01-24,2020-01-31,Negative
-RITMO (Bad Boys For Life),Black Eyed Peas,6,Argentina,2020-01-24,2020-01-31,Positive
-Vete,Bad Bunny,7,Argentina,2020-01-24,2020-01-31,Negative
-Muévelo,Nicky Jam,8,Argentina,2020-01-24,2020-01-31,could not determine analysis
-Bellaquita - Remix,Dalex,9,Argentina,2020-01-24,2020-01-31,Negative
-Que Tire Pa Lante,Daddy Yankee,10,Argentina,2020-01-24,2020-01-31,Negative
-Perreo en La Luna,Rich Music LTD,11,Argentina,2020-01-24,2020-01-31,Negative
-Ya No Mas,Fer Palacio,12,Argentina,2020-01-24,2020-01-31,Negative
-China,Anuel AA,13,Argentina,2020-01-24,2020-01-31,Negative
-Recuerdo,TINI,14,Argentina,2020-01-24,2020-01-31,Negative
-Adicto (with Anuel AA &amp; Ozuna),Tainy,15,Argentina,2020-01-24,2020-01-31,could not determine analysis
-Fresa,TINI,16,Argentina,2020-01-24,2020-01-31,Negative
-Morado,J Balvin,17,Argentina,2020-01-24,2020-01-31,could not determine analysis
-Blanco,J Balvin,18,Argentina,2020-01-24,2020-01-31,Negative
-Whine Up,Nicky Jam,19,Argentina,2020-01-24,2020-01-31,Negative
-Quizas,Rich Music LTD,20,Argentina,2020-01-24,2020-01-31,Positive
-Me Gusta,Shakira,20,Argentina,2020-01-31,2020-02-07,Negative
-Don't Start Now,Dua Lipa,19,Argentina,2020-02-07,2020-02-14,Negative
-Par-Tusa,El Dipy,10,Argentina,2020-02-14,2020-02-21,Negative
-Keii,Anuel AA,16,Argentina,2020-02-14,2020-02-21,Positive
-Ignorantes,Bad Bunny,19,Argentina,2020-02-14,2020-02-21,Negative
-Flasheaste Amor,Agapornis,20,Argentina,2020-02-14,2020-02-21,Positive
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Tusa,KAROL G,1,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Hola - Remix,Dalex,2,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Dance Monkey,Tones And I,3,Argentina,2020-01-24,2020-01-31,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Sigues Con El,Dímelo Flow,4,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Fantasias,Rauw Alejandro,5,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,6,Argentina,2020-01-24,2020-01-31,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Vete,Bad Bunny,7,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Muévelo,Nicky Jam,8,Argentina,2020-01-24,2020-01-31,Positive,https://genius.com/Daddy-yankee-and-nicky-jam-muevelo-lyrics
+Bellaquita - Remix,Dalex,9,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Dalex-lenny-tavarez-and-anitta-bellaquita-remix-lyrics
+Que Tire Pa Lante,Daddy Yankee,10,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Perreo en La Luna,Rich Music LTD,11,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Rich-music-ltd-dalex-and-sech-perreo-en-la-luna-lyrics
+Ya No Mas,Fer Palacio,12,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Fer-palacio-ya-no-mas-lyrics
+China,Anuel AA,13,Argentina,2020-01-24,2020-01-31,could not determine analysis,
+Recuerdo,TINI,14,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Tini-and-mau-y-ricky-recuerdo-lyrics
+Adicto (with Anuel AA &amp; Ozuna),Tainy,15,Argentina,2020-01-24,2020-01-31,could not determine analysis,
+Fresa,TINI,16,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Tini-fresa-lyrics
+Morado,J Balvin,17,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/J-balvin-morado-lyrics
+Blanco,J Balvin,18,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/J-balvin-blanco-lyrics
+Whine Up,Nicky Jam,19,Argentina,2020-01-24,2020-01-31,Negative,https://genius.com/Nicky-jam-and-anuel-aa-whine-up-lyrics
+Quizas,Rich Music LTD,20,Argentina,2020-01-24,2020-01-31,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics
+Tusa,KAROL G,1,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Hola - Remix,Dalex,2,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Dance Monkey,Tones And I,3,Argentina,2020-01-31,2020-02-07,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Sigues Con El,Dímelo Flow,4,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Fantasias,Rauw Alejandro,5,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Muévelo,Nicky Jam,6,Argentina,2020-01-31,2020-02-07,Positive,https://genius.com/Daddy-yankee-and-nicky-jam-muevelo-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,7,Argentina,2020-01-31,2020-02-07,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Vete,Bad Bunny,8,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Bellaquita - Remix,Dalex,9,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Dalex-lenny-tavarez-and-anitta-bellaquita-remix-lyrics
+Que Tire Pa Lante,Daddy Yankee,10,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Ya No Mas,Fer Palacio,11,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Fer-palacio-ya-no-mas-lyrics
+Perreo en La Luna,Rich Music LTD,12,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Rich-music-ltd-dalex-and-sech-perreo-en-la-luna-lyrics
+Recuerdo,TINI,13,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Tini-and-mau-y-ricky-recuerdo-lyrics
+Morado,J Balvin,14,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/J-balvin-morado-lyrics
+China,Anuel AA,15,Argentina,2020-01-31,2020-02-07,could not determine analysis,
+Adicto (with Anuel AA &amp; Ozuna),Tainy,16,Argentina,2020-01-31,2020-02-07,could not determine analysis,
+Fresa,TINI,17,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Tini-fresa-lyrics
+Blanco,J Balvin,18,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/J-balvin-blanco-lyrics
+Whine Up,Nicky Jam,19,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Nicky-jam-and-anuel-aa-whine-up-lyrics
+Me Gusta,Shakira,20,Argentina,2020-01-31,2020-02-07,Negative,https://genius.com/Shakira-and-anuel-aa-me-gusta-lyrics
+Tusa,KAROL G,1,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Hola - Remix,Dalex,2,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Dance Monkey,Tones And I,3,Argentina,2020-02-07,2020-02-14,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Sigues Con El,Dímelo Flow,4,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Fantasias,Rauw Alejandro,5,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Muévelo,Nicky Jam,6,Argentina,2020-02-07,2020-02-14,Positive,https://genius.com/Daddy-yankee-and-nicky-jam-muevelo-lyrics
+Vete,Bad Bunny,7,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Bellaquita - Remix,Dalex,8,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Dalex-lenny-tavarez-and-anitta-bellaquita-remix-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,9,Argentina,2020-02-07,2020-02-14,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Ya No Mas,Fer Palacio,10,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Fer-palacio-ya-no-mas-lyrics
+Morado,J Balvin,11,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/J-balvin-morado-lyrics
+Recuerdo,TINI,12,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Tini-and-mau-y-ricky-recuerdo-lyrics
+Perreo en La Luna,Rich Music LTD,13,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Rich-music-ltd-dalex-and-sech-perreo-en-la-luna-lyrics
+Que Tire Pa Lante,Daddy Yankee,14,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+China,Anuel AA,15,Argentina,2020-02-07,2020-02-14,could not determine analysis,
+Fresa,TINI,16,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Tini-fresa-lyrics
+Adicto (with Anuel AA &amp; Ozuna),Tainy,17,Argentina,2020-02-07,2020-02-14,could not determine analysis,
+Me Gusta,Shakira,18,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Shakira-and-anuel-aa-me-gusta-lyrics
+Don't Start Now,Dua Lipa,19,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Blanco,J Balvin,20,Argentina,2020-02-07,2020-02-14,Negative,https://genius.com/J-balvin-blanco-lyrics
+Tusa,KAROL G,1,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Hola - Remix,Dalex,2,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Dance Monkey,Tones And I,3,Argentina,2020-02-14,2020-02-21,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Sigues Con El,Dímelo Flow,4,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Fantasias,Rauw Alejandro,5,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Muévelo,Nicky Jam,6,Argentina,2020-02-14,2020-02-21,Positive,https://genius.com/Daddy-yankee-and-nicky-jam-muevelo-lyrics
+Bellaquita - Remix,Dalex,7,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Dalex-lenny-tavarez-and-anitta-bellaquita-remix-lyrics
+Recuerdo,TINI,8,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Tini-and-mau-y-ricky-recuerdo-lyrics
+Vete,Bad Bunny,9,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Par-Tusa,El Dipy,10,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/El-dipy-par-tusa-lyrics
+Morado,J Balvin,11,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/J-balvin-morado-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,12,Argentina,2020-02-14,2020-02-21,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Ya No Mas,Fer Palacio,13,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Fer-palacio-ya-no-mas-lyrics
+Perreo en La Luna,Rich Music LTD,14,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Rich-music-ltd-dalex-and-sech-perreo-en-la-luna-lyrics
+Que Tire Pa Lante,Daddy Yankee,15,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Keii,Anuel AA,16,Argentina,2020-02-14,2020-02-21,Positive,https://genius.com/Anuel-aa-keii-lyrics
+China,Anuel AA,17,Argentina,2020-02-14,2020-02-21,could not determine analysis,
+Fresa,TINI,18,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Tini-fresa-lyrics
+Ignorantes,Bad Bunny,19,Argentina,2020-02-14,2020-02-21,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Flasheaste Amor,Agapornis,20,Argentina,2020-02-14,2020-02-21,Positive,https://genius.com/Agapornis-hernan-y-la-champions-liga-and-lauro-flasheaste-amor-lyrics

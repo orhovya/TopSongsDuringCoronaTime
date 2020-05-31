@@ -1,31 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Intentions (feat. Quavo),Justin Bieber,1,Vietnam,2020-03-20,2020-03-27,Positive
-Sweet Night,V,2,Vietnam,2020-03-20,2020-03-27,Positive
-Lối Nhỏ,Đen,3,Vietnam,2020-03-20,2020-03-27,Neutral
-ON,BTS,4,Vietnam,2020-03-20,2020-03-27,Negative
-Señorita,Shawn Mendes,5,Vietnam,2020-03-20,2020-03-27,Positive
-Black Swan,BTS,6,Vietnam,2020-03-20,2020-03-27,Positive
-Who (feat. BTS),Lauv,7,Vietnam,2020-03-20,2020-03-27,Neutral
-death bed (coffee for your head) (feat. beabadoobee),Powfu,8,Vietnam,2020-03-20,2020-03-27,Positive
-Memories,Maroon 5,9,Vietnam,2020-03-20,2020-03-27,Positive
-Dance Monkey,Tones And I,10,Vietnam,2020-03-20,2020-03-27,Neutral
-WANNABE,ITZY,11,Vietnam,2020-03-20,2020-03-27,could not determine analysis
-Bài Này Chill Phết,Đen,12,Vietnam,2020-03-20,2020-03-27,Positive
-Cần Gì Hơn,Tien Tien,13,Vietnam,2020-03-20,2020-03-27,Positive
-ON (Feat. Sia),BTS,14,Vietnam,2020-03-20,2020-03-27,Negative
-Mascara,Chillies,15,Vietnam,2020-03-20,2020-03-27,Neutral
-시작,Gaho,16,Vietnam,2020-03-20,2020-03-27,Neutral
-Say So,Doja Cat,17,Vietnam,2020-03-20,2020-03-27,Positive
-Boy With Luv (feat. Halsey),BTS,18,Vietnam,2020-03-20,2020-03-27,Positive
-Psycho,Red Velvet,19,Vietnam,2020-03-20,2020-03-27,Positive
-Filter,BTS,20,Vietnam,2020-03-20,2020-03-27,Positive
-Vùng Ký Ức,Chillies,1,Vietnam,2020-03-27,2020-04-03,Negative
-Break My Heart,Dua Lipa,2,Vietnam,2020-03-27,2020-04-03,Positive
-Don't Start Now,Dua Lipa,3,Vietnam,2020-03-27,2020-04-03,Negative
-"Sau Nay, Hay Gap Lai Nhau Khi Hoa No",Nguyen Ha,9,Vietnam,2020-03-27,2020-04-03,Negative
-Có Em Đời Bỗng Vui,Chillies,19,Vietnam,2020-03-27,2020-04-03,Negative
-Ke Cap Gap Ba Gia (feat. BINZ),Hoang Thuy Linh,2,Vietnam,2020-04-03,2020-04-10,could not determine analysis
-Em Day Chang Phai Thuy Kieu,Hoang Thuy Linh,13,Vietnam,2020-04-03,2020-04-10,Positive
-Duyen Am,Hoang Thuy Linh,16,Vietnam,2020-04-03,2020-04-10,Neutral
-Và Thế Là Hết,Chillies,19,Vietnam,2020-04-10,2020-04-17,Neutral
-Thanh Xuan,Da LAB,20,Vietnam,2020-04-10,2020-04-17,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Intentions (feat. Quavo),Justin Bieber,1,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Sweet Night,V,2,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/V-bts-sweet-night-lyrics
+Lối Nhỏ,Đen,3,Vietnam,2020-03-20,2020-03-27,Neutral,https://genius.com/En-loi-nho-lyrics
+ON,BTS,4,Vietnam,2020-03-20,2020-03-27,Negative,https://genius.com/Bts-on-lyrics
+Señorita,Shawn Mendes,5,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Black Swan,BTS,6,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/Bts-black-swan-lyrics
+Who (feat. BTS),Lauv,7,Vietnam,2020-03-20,2020-03-27,Neutral,https://genius.com/Genius-turkce-ceviri-lauv-ft-bts-who-turkce-ceviri-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,8,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Memories,Maroon 5,9,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/Maroon-5-memories-lyrics
+Dance Monkey,Tones And I,10,Vietnam,2020-03-20,2020-03-27,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+WANNABE,ITZY,11,Vietnam,2020-03-20,2020-03-27,Negative,https://genius.com/Itzy-wannabe-lyrics
+Bài Này Chill Phết,Đen,12,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/En-bai-nay-chill-phet-lyrics
+Cần Gì Hơn,Tien Tien,13,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/Tien-tien-can-gi-hon-lyrics
+ON (Feat. Sia),BTS,14,Vietnam,2020-03-20,2020-03-27,Negative,https://genius.com/Genius-english-translations-bts-on-remix-ft-sia-english-translation-lyrics
+Mascara,Chillies,15,Vietnam,2020-03-20,2020-03-27,Neutral,https://genius.com/Chillies-mascara-lyrics
+시작,Gaho,16,Vietnam,2020-03-20,2020-03-27,Neutral,https://genius.com/Gaho-start-lyrics
+Say So,Doja Cat,17,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Boy With Luv (feat. Halsey),BTS,18,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/Genius-nederlandse-vertalingen-bts-boy-with-luv-ft-halsey-nederlandse-vertalingen-lyrics
+Psycho,Red Velvet,19,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/Red-velvet-psycho-lyrics
+Filter,BTS,20,Vietnam,2020-03-20,2020-03-27,Positive,https://genius.com/Bts-filter-lyrics
+Vùng Ký Ức,Chillies,1,Vietnam,2020-03-27,2020-04-03,Negative,https://genius.com/Chillies-vung-ky-uc-lyrics
+Break My Heart,Dua Lipa,2,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Don't Start Now,Dua Lipa,3,Vietnam,2020-03-27,2020-04-03,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Intentions (feat. Quavo),Justin Bieber,4,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Lối Nhỏ,Đen,5,Vietnam,2020-03-27,2020-04-03,Neutral,https://genius.com/En-loi-nho-lyrics
+Mascara,Chillies,6,Vietnam,2020-03-27,2020-04-03,Neutral,https://genius.com/Chillies-mascara-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,7,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+ON,BTS,8,Vietnam,2020-03-27,2020-04-03,Negative,https://genius.com/Bts-on-lyrics
+"Sau Nay, Hay Gap Lai Nhau Khi Hoa No",Nguyen Ha,9,Vietnam,2020-03-27,2020-04-03,Negative,https://genius.com/Nguyen-ha-sau-nay-hay-gap-lai-nhau-khi-hoa-no-lyrics
+Say So,Doja Cat,10,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Memories,Maroon 5,11,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/Maroon-5-memories-lyrics
+Señorita,Shawn Mendes,12,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Sweet Night,V,13,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/V-bts-sweet-night-lyrics
+Dance Monkey,Tones And I,14,Vietnam,2020-03-27,2020-04-03,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Bài Này Chill Phết,Đen,15,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/En-bai-nay-chill-phet-lyrics
+Black Swan,BTS,16,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/Bts-black-swan-lyrics
+Who (feat. BTS),Lauv,17,Vietnam,2020-03-27,2020-04-03,Neutral,https://genius.com/Genius-turkce-ceviri-lauv-ft-bts-who-turkce-ceviri-lyrics
+Boy With Luv (feat. Halsey),BTS,18,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/Genius-nederlandse-vertalingen-bts-boy-with-luv-ft-halsey-nederlandse-vertalingen-lyrics
+Có Em Đời Bỗng Vui,Chillies,19,Vietnam,2020-03-27,2020-04-03,Negative,https://genius.com/Chillies-co-em-oi-bong-vui-lyrics
+Cần Gì Hơn,Tien Tien,20,Vietnam,2020-03-27,2020-04-03,Positive,https://genius.com/Tien-tien-can-gi-hon-lyrics
+Vùng Ký Ức,Chillies,1,Vietnam,2020-04-03,2020-04-10,Negative,https://genius.com/Chillies-vung-ky-uc-lyrics
+Ke Cap Gap Ba Gia (feat. BINZ),Hoang Thuy Linh,2,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/Hoang-thuy-linh-ke-cap-gap-ba-gia-diamond-cut-diamond-lyrics
+Mascara,Chillies,3,Vietnam,2020-04-03,2020-04-10,Neutral,https://genius.com/Chillies-mascara-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,4,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Lối Nhỏ,Đen,5,Vietnam,2020-04-03,2020-04-10,Neutral,https://genius.com/En-loi-nho-lyrics
+Intentions (feat. Quavo),Justin Bieber,6,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Don't Start Now,Dua Lipa,7,Vietnam,2020-04-03,2020-04-10,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+ON,BTS,8,Vietnam,2020-04-03,2020-04-10,Negative,https://genius.com/Bts-on-lyrics
+Say So,Doja Cat,9,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Memories,Maroon 5,10,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/Maroon-5-memories-lyrics
+Break My Heart,Dua Lipa,11,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Señorita,Shawn Mendes,12,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Em Day Chang Phai Thuy Kieu,Hoang Thuy Linh,13,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/Phuc-du-ruou-phat-lyrics
+"Sau Nay, Hay Gap Lai Nhau Khi Hoa No",Nguyen Ha,14,Vietnam,2020-04-03,2020-04-10,Negative,https://genius.com/Nguyen-ha-sau-nay-hay-gap-lai-nhau-khi-hoa-no-lyrics
+Có Em Đời Bỗng Vui,Chillies,15,Vietnam,2020-04-03,2020-04-10,Negative,https://genius.com/Chillies-co-em-oi-bong-vui-lyrics
+Duyen Am,Hoang Thuy Linh,16,Vietnam,2020-04-03,2020-04-10,Neutral,https://genius.com/Hoang-thuy-linh-duyen-am-love-of-ghosts-lyrics
+Bài Này Chill Phết,Đen,17,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/En-bai-nay-chill-phet-lyrics
+Dance Monkey,Tones And I,18,Vietnam,2020-04-03,2020-04-10,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Black Swan,BTS,19,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/Bts-black-swan-lyrics
+Boy With Luv (feat. Halsey),BTS,20,Vietnam,2020-04-03,2020-04-10,Positive,https://genius.com/Genius-nederlandse-vertalingen-bts-boy-with-luv-ft-halsey-nederlandse-vertalingen-lyrics
+Ke Cap Gap Ba Gia (feat. BINZ),Hoang Thuy Linh,1,Vietnam,2020-04-10,2020-04-17,Positive,https://genius.com/Hoang-thuy-linh-ke-cap-gap-ba-gia-diamond-cut-diamond-lyrics
+Vùng Ký Ức,Chillies,2,Vietnam,2020-04-10,2020-04-17,Negative,https://genius.com/Chillies-vung-ky-uc-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,3,Vietnam,2020-04-10,2020-04-17,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Mascara,Chillies,4,Vietnam,2020-04-10,2020-04-17,Neutral,https://genius.com/Chillies-mascara-lyrics
+Lối Nhỏ,Đen,5,Vietnam,2020-04-10,2020-04-17,Neutral,https://genius.com/En-loi-nho-lyrics
+Intentions (feat. Quavo),Justin Bieber,6,Vietnam,2020-04-10,2020-04-17,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Don't Start Now,Dua Lipa,7,Vietnam,2020-04-10,2020-04-17,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Say So,Doja Cat,8,Vietnam,2020-04-10,2020-04-17,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Señorita,Shawn Mendes,9,Vietnam,2020-04-10,2020-04-17,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Memories,Maroon 5,10,Vietnam,2020-04-10,2020-04-17,Positive,https://genius.com/Maroon-5-memories-lyrics
+ON,BTS,11,Vietnam,2020-04-10,2020-04-17,Negative,https://genius.com/Bts-on-lyrics
+Break My Heart,Dua Lipa,12,Vietnam,2020-04-10,2020-04-17,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Bài Này Chill Phết,Đen,13,Vietnam,2020-04-10,2020-04-17,Positive,https://genius.com/En-bai-nay-chill-phet-lyrics
+Có Em Đời Bỗng Vui,Chillies,14,Vietnam,2020-04-10,2020-04-17,Negative,https://genius.com/Chillies-co-em-oi-bong-vui-lyrics
+Duyen Am,Hoang Thuy Linh,15,Vietnam,2020-04-10,2020-04-17,Neutral,https://genius.com/Hoang-thuy-linh-duyen-am-love-of-ghosts-lyrics
+Dance Monkey,Tones And I,16,Vietnam,2020-04-10,2020-04-17,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Em Day Chang Phai Thuy Kieu,Hoang Thuy Linh,17,Vietnam,2020-04-10,2020-04-17,Positive,https://genius.com/Phuc-du-ruou-phat-lyrics
+Boy With Luv (feat. Halsey),BTS,18,Vietnam,2020-04-10,2020-04-17,Positive,https://genius.com/Genius-nederlandse-vertalingen-bts-boy-with-luv-ft-halsey-nederlandse-vertalingen-lyrics
+Và Thế Là Hết,Chillies,19,Vietnam,2020-04-10,2020-04-17,Neutral,https://genius.com/Chillies-va-the-la-het-lyrics
+Thanh Xuan,Da LAB,20,Vietnam,2020-04-10,2020-04-17,Negative,https://genius.com/Dalab-thanh-xuan-lyrics

@@ -1,34 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Ne reviens pas,Gradur,1,France,2019-11-29,2019-12-06,could not determine analysis
-Mayday (feat. Ninho),SCH,2,France,2019-11-29,2019-12-06,Negative
-Dance Monkey,Tones And I,3,France,2019-11-29,2019-12-06,Neutral
-Popopop,Gambi,4,France,2019-11-29,2019-12-06,Negative
-R.A.C.,SCH,5,France,2019-11-29,2019-12-06,Negative
-Woin Woin,Larry,6,France,2019-11-29,2019-12-06,Negative
-Oui ou non,Angèle,7,France,2019-11-29,2019-12-06,Negative
-Hé oh,Gambi,8,France,2019-11-29,2019-12-06,Positive
-Ça ira,SCH,9,France,2019-11-29,2019-12-06,could not determine analysis
-40%,Aya Nakamura,10,France,2019-11-29,2019-12-06,Negative
-Cervelle,SCH,11,France,2019-11-29,2019-12-06,Negative
-Loin de moi,Naza,12,France,2019-11-29,2019-12-06,Negative
-Côte Ouest,47ter,13,France,2019-11-29,2019-12-06,Negative
-All Eyes On Me,SCH,14,France,2019-11-29,2019-12-06,Negative
-Rari,Gradur,15,France,2019-11-29,2019-12-06,could not determine analysis
-Baden Baden (feat. Maître Gims),SCH,16,France,2019-11-29,2019-12-06,Positive
-Petit coeur,SCH,17,France,2019-11-29,2019-12-06,Negative
-Ma vie,Dadju,18,France,2019-11-29,2019-12-06,Negative
-Mortel,Koba LaD,19,France,2019-11-29,2019-12-06,Negative
-BLH,Gradur,20,France,2019-11-29,2019-12-06,Negative
-Jamais,Mister V,5,France,2019-12-06,2019-12-13,Negative
-Blinding Lights,The Weeknd,12,France,2019-12-06,2019-12-13,Negative
-Bâtiment,Niska,13,France,2019-12-06,2019-12-13,Negative
-La vie qu'on mène,Ninho,16,France,2019-12-06,2019-12-13,Negative
-Memories,Maroon 5,17,France,2019-12-06,2019-12-13,Positive
-Compliqué,Dadju,18,France,2019-12-06,2019-12-13,Neutral
-ROXANNE,Arizona Zervas,20,France,2019-12-06,2019-12-13,Positive
-Moulaga,Heuss L'enfoiré,2,France,2019-12-13,2019-12-20,Negative
-RITMO (Bad Boys For Life),Black Eyed Peas,17,France,2019-12-13,2019-12-20,Positive
-Street,Maes,18,France,2019-12-13,2019-12-20,Negative
-Distant,Maes,4,France,2019-12-20,2019-12-27,could not determine analysis
-God Bless (feat. Damso),Hamza,6,France,2019-12-20,2019-12-27,Positive
-All I Want for Christmas Is You,Mariah Carey,7,France,2019-12-20,2019-12-27,Positive
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Ne reviens pas,Gradur,1,France,2019-11-29,2019-12-06,Negative,https://genius.com/Gradur-ne-reviens-pas-lyrics
+Mayday (feat. Ninho),SCH,2,France,2019-11-29,2019-12-06,Negative,https://genius.com/Sch-mayday-lyrics
+Dance Monkey,Tones And I,3,France,2019-11-29,2019-12-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Popopop,Gambi,4,France,2019-11-29,2019-12-06,Negative,https://genius.com/Gambi-popopop-lyrics
+R.A.C.,SCH,5,France,2019-11-29,2019-12-06,Negative,https://genius.com/Sch-rac-lyrics
+Woin Woin,Larry,6,France,2019-11-29,2019-12-06,Negative,https://genius.com/Larry-woin-woin-lyrics
+Oui ou non,Angèle,7,France,2019-11-29,2019-12-06,Negative,https://genius.com/Angele-oui-ou-non-lyrics
+Hé oh,Gambi,8,France,2019-11-29,2019-12-06,Positive,https://genius.com/Gambi-he-oh-lyrics
+Ça ira,SCH,9,France,2019-11-29,2019-12-06,Negative,https://genius.com/Sch-ca-ira-lyrics
+40%,Aya Nakamura,10,France,2019-11-29,2019-12-06,Negative,https://genius.com/Aya-nakamura-40-lyrics
+Cervelle,SCH,11,France,2019-11-29,2019-12-06,Negative,https://genius.com/Sch-cervelle-lyrics
+Loin de moi,Naza,12,France,2019-11-29,2019-12-06,Negative,https://genius.com/Naza-loin-de-moi-lyrics
+Côte Ouest,47ter,13,France,2019-11-29,2019-12-06,Negative,https://genius.com/47ter-cote-ouest-lyrics
+All Eyes On Me,SCH,14,France,2019-11-29,2019-12-06,Negative,https://genius.com/Sch-all-eyes-on-me-lyrics
+Rari,Gradur,15,France,2019-11-29,2019-12-06,Negative,https://genius.com/Gradur-rari-lyrics
+Baden Baden (feat. Maître Gims),SCH,16,France,2019-11-29,2019-12-06,Positive,https://genius.com/Sch-baden-baden-lyrics
+Petit coeur,SCH,17,France,2019-11-29,2019-12-06,Negative,https://genius.com/Sch-petit-cur-lyrics
+Ma vie,Dadju,18,France,2019-11-29,2019-12-06,Negative,https://genius.com/Dadju-ma-vie-lyrics
+Mortel,Koba LaD,19,France,2019-11-29,2019-12-06,Negative,https://genius.com/Koba-lad-mortel-lyrics
+BLH,Gradur,20,France,2019-11-29,2019-12-06,Negative,https://genius.com/Gradur-blh-lyrics
+Ne reviens pas,Gradur,1,France,2019-12-06,2019-12-13,Negative,https://genius.com/Gradur-ne-reviens-pas-lyrics
+Dance Monkey,Tones And I,2,France,2019-12-06,2019-12-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Popopop,Gambi,3,France,2019-12-06,2019-12-13,Negative,https://genius.com/Gambi-popopop-lyrics
+Mayday (feat. Ninho),SCH,4,France,2019-12-06,2019-12-13,Negative,https://genius.com/Sch-mayday-lyrics
+Jamais,Mister V,5,France,2019-12-06,2019-12-13,Negative,https://genius.com/Mister-v-jamais-lyrics
+Woin Woin,Larry,6,France,2019-12-06,2019-12-13,Negative,https://genius.com/Larry-woin-woin-lyrics
+40%,Aya Nakamura,7,France,2019-12-06,2019-12-13,Negative,https://genius.com/Aya-nakamura-40-lyrics
+Oui ou non,Angèle,8,France,2019-12-06,2019-12-13,Negative,https://genius.com/Angele-oui-ou-non-lyrics
+Hé oh,Gambi,9,France,2019-12-06,2019-12-13,Positive,https://genius.com/Gambi-he-oh-lyrics
+Côte Ouest,47ter,10,France,2019-12-06,2019-12-13,Negative,https://genius.com/47ter-cote-ouest-lyrics
+Loin de moi,Naza,11,France,2019-12-06,2019-12-13,Negative,https://genius.com/Naza-loin-de-moi-lyrics
+Blinding Lights,The Weeknd,12,France,2019-12-06,2019-12-13,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Bâtiment,Niska,13,France,2019-12-06,2019-12-13,Negative,https://genius.com/Niska-batiment-lyrics
+Ma vie,Dadju,14,France,2019-12-06,2019-12-13,Negative,https://genius.com/Dadju-ma-vie-lyrics
+R.A.C.,SCH,15,France,2019-12-06,2019-12-13,Negative,https://genius.com/Sch-rac-lyrics
+La vie qu'on mène,Ninho,16,France,2019-12-06,2019-12-13,Negative,https://genius.com/Ninho-la-vie-quon-mene-lyrics
+Memories,Maroon 5,17,France,2019-12-06,2019-12-13,Positive,https://genius.com/Maroon-5-memories-lyrics
+Compliqué,Dadju,18,France,2019-12-06,2019-12-13,Neutral,https://genius.com/Dadju-complique-lyrics
+Mortel,Koba LaD,19,France,2019-12-06,2019-12-13,Negative,https://genius.com/Koba-lad-mortel-lyrics
+ROXANNE,Arizona Zervas,20,France,2019-12-06,2019-12-13,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Ne reviens pas,Gradur,1,France,2019-12-13,2019-12-20,Negative,https://genius.com/Gradur-ne-reviens-pas-lyrics
+Moulaga,Heuss L'enfoiré,2,France,2019-12-13,2019-12-20,Negative,https://genius.com/Heuss-lenfoire-moulaga-lyrics
+Dance Monkey,Tones And I,3,France,2019-12-13,2019-12-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Popopop,Gambi,4,France,2019-12-13,2019-12-20,Negative,https://genius.com/Gambi-popopop-lyrics
+Blinding Lights,The Weeknd,5,France,2019-12-13,2019-12-20,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Jamais,Mister V,6,France,2019-12-13,2019-12-20,Negative,https://genius.com/Mister-v-jamais-lyrics
+40%,Aya Nakamura,7,France,2019-12-13,2019-12-20,Negative,https://genius.com/Aya-nakamura-40-lyrics
+Woin Woin,Larry,8,France,2019-12-13,2019-12-20,Negative,https://genius.com/Larry-woin-woin-lyrics
+Mayday (feat. Ninho),SCH,9,France,2019-12-13,2019-12-20,Negative,https://genius.com/Sch-mayday-lyrics
+Oui ou non,Angèle,10,France,2019-12-13,2019-12-20,Negative,https://genius.com/Angele-oui-ou-non-lyrics
+Côte Ouest,47ter,11,France,2019-12-13,2019-12-20,Negative,https://genius.com/47ter-cote-ouest-lyrics
+Loin de moi,Naza,12,France,2019-12-13,2019-12-20,Negative,https://genius.com/Naza-loin-de-moi-lyrics
+Hé oh,Gambi,13,France,2019-12-13,2019-12-20,Positive,https://genius.com/Gambi-he-oh-lyrics
+ROXANNE,Arizona Zervas,14,France,2019-12-13,2019-12-20,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Memories,Maroon 5,15,France,2019-12-13,2019-12-20,Positive,https://genius.com/Maroon-5-memories-lyrics
+Ma vie,Dadju,16,France,2019-12-13,2019-12-20,Negative,https://genius.com/Dadju-ma-vie-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,17,France,2019-12-13,2019-12-20,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Street,Maes,18,France,2019-12-13,2019-12-20,Negative,https://genius.com/Maes-street-lyrics
+Bâtiment,Niska,19,France,2019-12-13,2019-12-20,Negative,https://genius.com/Niska-batiment-lyrics
+Compliqué,Dadju,20,France,2019-12-13,2019-12-20,Neutral,https://genius.com/Dadju-complique-lyrics
+Ne reviens pas,Gradur,1,France,2019-12-20,2019-12-27,Negative,https://genius.com/Gradur-ne-reviens-pas-lyrics
+Moulaga,Heuss L'enfoiré,2,France,2019-12-20,2019-12-27,Negative,https://genius.com/Heuss-lenfoire-moulaga-lyrics
+Dance Monkey,Tones And I,3,France,2019-12-20,2019-12-27,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Distant,Maes,4,France,2019-12-20,2019-12-27,Negative,https://genius.com/Maes-distant-lyrics
+Popopop,Gambi,5,France,2019-12-20,2019-12-27,Negative,https://genius.com/Gambi-popopop-lyrics
+God Bless (feat. Damso),Hamza,6,France,2019-12-20,2019-12-27,Positive,https://genius.com/Hamza-god-bless-lyrics
+All I Want for Christmas Is You,Mariah Carey,7,France,2019-12-20,2019-12-27,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Blinding Lights,The Weeknd,8,France,2019-12-20,2019-12-27,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+40%,Aya Nakamura,9,France,2019-12-20,2019-12-27,Negative,https://genius.com/Aya-nakamura-40-lyrics
+Woin Woin,Larry,10,France,2019-12-20,2019-12-27,Negative,https://genius.com/Larry-woin-woin-lyrics
+Oui ou non,Angèle,11,France,2019-12-20,2019-12-27,Negative,https://genius.com/Angele-oui-ou-non-lyrics
+Côte Ouest,47ter,12,France,2019-12-20,2019-12-27,Negative,https://genius.com/47ter-cote-ouest-lyrics
+Loin de moi,Naza,13,France,2019-12-20,2019-12-27,Negative,https://genius.com/Naza-loin-de-moi-lyrics
+Jamais,Mister V,14,France,2019-12-20,2019-12-27,Negative,https://genius.com/Mister-v-jamais-lyrics
+Hé oh,Gambi,15,France,2019-12-20,2019-12-27,Positive,https://genius.com/Gambi-he-oh-lyrics
+ROXANNE,Arizona Zervas,16,France,2019-12-20,2019-12-27,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Mayday (feat. Ninho),SCH,17,France,2019-12-20,2019-12-27,Negative,https://genius.com/Sch-mayday-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,18,France,2019-12-20,2019-12-27,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Compliqué,Dadju,19,France,2019-12-20,2019-12-27,Neutral,https://genius.com/Dadju-complique-lyrics
+Memories,Maroon 5,20,France,2019-12-20,2019-12-27,Positive,https://genius.com/Maroon-5-memories-lyrics

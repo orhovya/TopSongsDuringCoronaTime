@@ -1,27 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Shayad,Pritam,1,India,2020-03-20,2020-03-27,Neutral
-Falling,Trevor Daniel,2,India,2020-03-20,2020-03-27,Positive
-Intentions (feat. Quavo),Justin Bieber,3,India,2020-03-20,2020-03-27,Positive
-Blinding Lights,The Weeknd,4,India,2020-03-20,2020-03-27,Negative
-Illegal Weapon 2.0,Jasmine Sandlas,5,India,2020-03-20,2020-03-27,Neutral
-"Ghungroo (From ""War"")",Arijit Singh,6,India,2020-03-20,2020-03-27,could not determine analysis
-"Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",Badshah,7,India,2020-03-20,2020-03-27,Negative
-"Malang (Title Track) [From ""Malang - Unleash The Madness""]",Ved Sharma,8,India,2020-03-20,2020-03-27,could not determine analysis
-"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")",Rochak,9,India,2020-03-20,2020-03-27,could not determine analysis
-"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,10,India,2020-03-20,2020-03-27,Neutral
-Haan Main Galat,Pritam,11,India,2020-03-20,2020-03-27,Neutral
-"Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")",Ayushmann Khurrana,12,India,2020-03-20,2020-03-27,Neutral
-Makhna,Tanishk Bagchi,13,India,2020-03-20,2020-03-27,Neutral
-Skechers,DripReport,14,India,2020-03-20,2020-03-27,Positive
-Yummy,Justin Bieber,15,India,2020-03-20,2020-03-27,Positive
-death bed (coffee for your head) (feat. beabadoobee),Powfu,16,India,2020-03-20,2020-03-27,Positive
-Pal Pal Dil Ke Paas- Title Track,Arijit Singh,17,India,2020-03-20,2020-03-27,could not determine analysis
-Memories,Maroon 5,18,India,2020-03-20,2020-03-27,Positive
-Liggi,Ritviz,19,India,2020-03-20,2020-03-27,Negative
-Señorita,Shawn Mendes,20,India,2020-03-20,2020-03-27,Positive
-Genda Phool (feat. Payal Dev),Badshah,1,India,2020-03-27,2020-04-03,Negative
-Bhula Dunga,Darshan Raval,18,India,2020-03-27,2020-04-03,Neutral
-Toosie Slide,Drake,12,India,2020-04-03,2020-04-10,Positive
-Roses - Imanbek Remix,SAINt JHN,19,India,2020-04-03,2020-04-10,Negative
-Don't Start Now,Dua Lipa,20,India,2020-04-03,2020-04-10,Negative
-The Box,Roddy Ricch,20,India,2020-04-10,2020-04-17,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Shayad,Pritam,1,India,2020-03-20,2020-03-27,Neutral,https://genius.com/Pritam-shayad-lyrics
+Falling,Trevor Daniel,2,India,2020-03-20,2020-03-27,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Intentions (feat. Quavo),Justin Bieber,3,India,2020-03-20,2020-03-27,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Blinding Lights,The Weeknd,4,India,2020-03-20,2020-03-27,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Illegal Weapon 2.0,Jasmine Sandlas,5,India,2020-03-20,2020-03-27,Neutral,https://genius.com/Jasmine-sandlas-illegal-weapon-20-lyrics
+"Ghungroo (From ""War"")",Arijit Singh,6,India,2020-03-20,2020-03-27,could not determine analysis,
+"Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",Badshah,7,India,2020-03-20,2020-03-27,Negative,https://genius.com/Badshah-and-neha-kakkar-garmi-from-street-dancer-3d-lyrics
+"Malang (Title Track) [From ""Malang - Unleash The Madness""]",Ved Sharma,8,India,2020-03-20,2020-03-27,could not determine analysis,
+"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")",Rochak,9,India,2020-03-20,2020-03-27,could not determine analysis,
+"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,10,India,2020-03-20,2020-03-27,Neutral,https://genius.com/Arijit-singh-tujhe-kitna-chahne-lage-from-kabir-singh-lyrics
+Haan Main Galat,Pritam,11,India,2020-03-20,2020-03-27,Neutral,https://genius.com/Pritam-haan-main-galat-lyrics
+"Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")",Ayushmann Khurrana,12,India,2020-03-20,2020-03-27,Neutral,https://genius.com/Ayushmann-khurrana-tanishk-bagchi-and-vayu-mere-liye-tum-kaafi-ho-from-shubh-mangal-zyada-saavdhan-lyrics
+Makhna,Tanishk Bagchi,13,India,2020-03-20,2020-03-27,could not determine analysis,
+Skechers,DripReport,14,India,2020-03-20,2020-03-27,Positive,https://genius.com/Dripreport-skechers-lyrics
+Yummy,Justin Bieber,15,India,2020-03-20,2020-03-27,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,16,India,2020-03-20,2020-03-27,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Pal Pal Dil Ke Paas- Title Track,Arijit Singh,17,India,2020-03-20,2020-03-27,could not determine analysis,
+Memories,Maroon 5,18,India,2020-03-20,2020-03-27,Positive,https://genius.com/Maroon-5-memories-lyrics
+Liggi,Ritviz,19,India,2020-03-20,2020-03-27,Negative,https://genius.com/Ritviz-liggi-lyrics
+Señorita,Shawn Mendes,20,India,2020-03-20,2020-03-27,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Genda Phool (feat. Payal Dev),Badshah,1,India,2020-03-27,2020-04-03,could not determine analysis,
+Shayad,Pritam,2,India,2020-03-27,2020-04-03,Neutral,https://genius.com/Pritam-shayad-lyrics
+Intentions (feat. Quavo),Justin Bieber,3,India,2020-03-27,2020-04-03,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Falling,Trevor Daniel,4,India,2020-03-27,2020-04-03,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Blinding Lights,The Weeknd,5,India,2020-03-27,2020-04-03,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Illegal Weapon 2.0,Jasmine Sandlas,6,India,2020-03-27,2020-04-03,Neutral,https://genius.com/Jasmine-sandlas-illegal-weapon-20-lyrics
+"Ghungroo (From ""War"")",Arijit Singh,7,India,2020-03-27,2020-04-03,could not determine analysis,
+"Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",Badshah,8,India,2020-03-27,2020-04-03,Negative,https://genius.com/Badshah-and-neha-kakkar-garmi-from-street-dancer-3d-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,9,India,2020-03-27,2020-04-03,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")",Rochak,10,India,2020-03-27,2020-04-03,could not determine analysis,
+"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,11,India,2020-03-27,2020-04-03,Neutral,https://genius.com/Arijit-singh-tujhe-kitna-chahne-lage-from-kabir-singh-lyrics
+Haan Main Galat,Pritam,12,India,2020-03-27,2020-04-03,Neutral,https://genius.com/Pritam-haan-main-galat-lyrics
+"Malang (Title Track) [From ""Malang - Unleash The Madness""]",Ved Sharma,13,India,2020-03-27,2020-04-03,could not determine analysis,
+"Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")",Ayushmann Khurrana,14,India,2020-03-27,2020-04-03,Neutral,https://genius.com/Ayushmann-khurrana-tanishk-bagchi-and-vayu-mere-liye-tum-kaafi-ho-from-shubh-mangal-zyada-saavdhan-lyrics
+Makhna,Tanishk Bagchi,15,India,2020-03-27,2020-04-03,could not determine analysis,
+Skechers,DripReport,16,India,2020-03-27,2020-04-03,Positive,https://genius.com/Dripreport-skechers-lyrics
+Pal Pal Dil Ke Paas- Title Track,Arijit Singh,17,India,2020-03-27,2020-04-03,could not determine analysis,
+Bhula Dunga,Darshan Raval,18,India,2020-03-27,2020-04-03,Neutral,https://genius.com/Darshan-raval-bhula-dunga-lyrics
+Yummy,Justin Bieber,19,India,2020-03-27,2020-04-03,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Memories,Maroon 5,20,India,2020-03-27,2020-04-03,Positive,https://genius.com/Maroon-5-memories-lyrics
+Genda Phool (feat. Payal Dev),Badshah,1,India,2020-04-03,2020-04-10,could not determine analysis,
+Shayad,Pritam,2,India,2020-04-03,2020-04-10,Neutral,https://genius.com/Pritam-shayad-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,3,India,2020-04-03,2020-04-10,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Falling,Trevor Daniel,4,India,2020-04-03,2020-04-10,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Blinding Lights,The Weeknd,5,India,2020-04-03,2020-04-10,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Illegal Weapon 2.0,Jasmine Sandlas,6,India,2020-04-03,2020-04-10,Neutral,https://genius.com/Jasmine-sandlas-illegal-weapon-20-lyrics
+"Ghungroo (From ""War"")",Arijit Singh,7,India,2020-04-03,2020-04-10,could not determine analysis,
+Skechers,DripReport,8,India,2020-04-03,2020-04-10,Positive,https://genius.com/Dripreport-skechers-lyrics
+"Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",Badshah,9,India,2020-04-03,2020-04-10,Negative,https://genius.com/Badshah-and-neha-kakkar-garmi-from-street-dancer-3d-lyrics
+Intentions (feat. Quavo),Justin Bieber,10,India,2020-04-03,2020-04-10,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")",Rochak,11,India,2020-04-03,2020-04-10,could not determine analysis,
+Toosie Slide,Drake,12,India,2020-04-03,2020-04-10,Positive,https://genius.com/Drake-toosie-slide-lyrics
+"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,13,India,2020-04-03,2020-04-10,Neutral,https://genius.com/Arijit-singh-tujhe-kitna-chahne-lage-from-kabir-singh-lyrics
+Haan Main Galat,Pritam,14,India,2020-04-03,2020-04-10,Neutral,https://genius.com/Pritam-haan-main-galat-lyrics
+"Malang (Title Track) [From ""Malang - Unleash The Madness""]",Ved Sharma,15,India,2020-04-03,2020-04-10,could not determine analysis,
+Makhna,Tanishk Bagchi,16,India,2020-04-03,2020-04-10,could not determine analysis,
+"Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")",Ayushmann Khurrana,17,India,2020-04-03,2020-04-10,Neutral,https://genius.com/Ayushmann-khurrana-tanishk-bagchi-and-vayu-mere-liye-tum-kaafi-ho-from-shubh-mangal-zyada-saavdhan-lyrics
+Pal Pal Dil Ke Paas- Title Track,Arijit Singh,18,India,2020-04-03,2020-04-10,could not determine analysis,
+Roses - Imanbek Remix,SAINt JHN,19,India,2020-04-03,2020-04-10,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Don't Start Now,Dua Lipa,20,India,2020-04-03,2020-04-10,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Genda Phool (feat. Payal Dev),Badshah,1,India,2020-04-10,2020-04-17,could not determine analysis,
+death bed (coffee for your head) (feat. beabadoobee),Powfu,2,India,2020-04-10,2020-04-17,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Shayad,Pritam,3,India,2020-04-10,2020-04-17,Neutral,https://genius.com/Pritam-shayad-lyrics
+Skechers,DripReport,4,India,2020-04-10,2020-04-17,Positive,https://genius.com/Dripreport-skechers-lyrics
+Falling,Trevor Daniel,5,India,2020-04-10,2020-04-17,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Blinding Lights,The Weeknd,6,India,2020-04-10,2020-04-17,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+"Ghungroo (From ""War"")",Arijit Singh,7,India,2020-04-10,2020-04-17,could not determine analysis,
+Toosie Slide,Drake,8,India,2020-04-10,2020-04-17,Positive,https://genius.com/Drake-toosie-slide-lyrics
+Illegal Weapon 2.0,Jasmine Sandlas,9,India,2020-04-10,2020-04-17,Neutral,https://genius.com/Jasmine-sandlas-illegal-weapon-20-lyrics
+"Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",Badshah,10,India,2020-04-10,2020-04-17,Negative,https://genius.com/Badshah-and-neha-kakkar-garmi-from-street-dancer-3d-lyrics
+"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")",Rochak,11,India,2020-04-10,2020-04-17,could not determine analysis,
+"Malang (Title Track) [From ""Malang - Unleash The Madness""]",Ved Sharma,12,India,2020-04-10,2020-04-17,could not determine analysis,
+"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,13,India,2020-04-10,2020-04-17,Neutral,https://genius.com/Arijit-singh-tujhe-kitna-chahne-lage-from-kabir-singh-lyrics
+Haan Main Galat,Pritam,14,India,2020-04-10,2020-04-17,Neutral,https://genius.com/Pritam-haan-main-galat-lyrics
+Intentions (feat. Quavo),Justin Bieber,15,India,2020-04-10,2020-04-17,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Makhna,Tanishk Bagchi,16,India,2020-04-10,2020-04-17,could not determine analysis,
+"Mere Liye Tum Kaafi Ho (From ""Shubh Mangal Zyada Saavdhan"")",Ayushmann Khurrana,17,India,2020-04-10,2020-04-17,Neutral,https://genius.com/Ayushmann-khurrana-tanishk-bagchi-and-vayu-mere-liye-tum-kaafi-ho-from-shubh-mangal-zyada-saavdhan-lyrics
+Roses - Imanbek Remix,SAINt JHN,18,India,2020-04-10,2020-04-17,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Pal Pal Dil Ke Paas- Title Track,Arijit Singh,19,India,2020-04-10,2020-04-17,could not determine analysis,
+The Box,Roddy Ricch,20,India,2020-04-10,2020-04-17,Negative,https://genius.com/Roddy-ricch-the-box-lyrics

@@ -1,33 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Roller,Apache 207,1,Germany,2019-12-27,2020-01-03,Negative
-Dance Monkey,Tones And I,2,Germany,2019-12-27,2020-01-03,Neutral
-Vor der Tür,Gzuz,3,Germany,2019-12-27,2020-01-03,Negative
-Blinding Lights,The Weeknd,4,Germany,2019-12-27,2020-01-03,Negative
-KEIN SCHLAF,Nimo,5,Germany,2019-12-27,2020-01-03,Negative
-Skifahren (feat. Joshi Mizu),The Cratez,6,Germany,2019-12-27,2020-01-03,Negative
-200 km/h,Apache 207,7,Germany,2019-12-27,2020-01-03,Negative
-Wieso tust Du dir das an?,Apache 207,8,Germany,2019-12-27,2020-01-03,Positive
-Ayy Macarena,Tyga,9,Germany,2019-12-27,2020-01-03,Negative
-COLT,Samra,10,Germany,2019-12-27,2020-01-03,Negative
-Falling,Trevor Daniel,11,Germany,2019-12-27,2020-01-03,Positive
-Keine Liebe,RIN,12,Germany,2019-12-27,2020-01-03,Negative
-Alien,RIN,13,Germany,2019-12-27,2020-01-03,Negative
-110,Capital Bra,14,Germany,2019-12-27,2020-01-03,Negative
-Nur zur Info,Ufo361,15,Germany,2019-12-27,2020-01-03,Negative
-Mit Dir,Loredana,16,Germany,2019-12-27,2020-01-03,Negative
-Ride It,Regard,17,Germany,2019-12-27,2020-01-03,Negative
-ROXANNE,Arizona Zervas,18,Germany,2019-12-27,2020-01-03,Positive
-Don't Start Now,Dua Lipa,19,Germany,2019-12-27,2020-01-03,Negative
-Doch in der Nacht,Apache 207,20,Germany,2019-12-27,2020-01-03,Negative
-Maschine,RAF Camora,9,Germany,2020-01-03,2020-01-10,Negative
-Yummy,Justin Bieber,20,Germany,2020-01-03,2020-01-10,Positive
-Ich hol dich ab,Jamule,3,Germany,2020-01-10,2020-01-17,Negative
-6AM.........,Dardan,4,Germany,2020-01-10,2020-01-17,Negative
-Benzo,Elias,9,Germany,2020-01-10,2020-01-17,Negative
-Life Is Good (feat. Drake),Future,13,Germany,2020-01-10,2020-01-17,Positive
-The Box,Roddy Ricch,15,Germany,2020-01-10,2020-01-17,Negative
-Es geht voran,RAF Camora,16,Germany,2020-01-10,2020-01-17,Negative
-Kein Wort,Juju,1,Germany,2020-01-17,2020-01-24,Positive
-Big Drip,Ufo361,2,Germany,2020-01-17,2020-01-24,Negative
-Godzilla (feat. Juice WRLD),Eminem,8,Germany,2020-01-17,2020-01-24,Neutral
-Breaking Me,Topic,18,Germany,2020-01-17,2020-01-24,Positive
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Roller,Apache 207,1,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Apache-207-roller-lyrics
+Dance Monkey,Tones And I,2,Germany,2019-12-27,2020-01-03,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Vor der Tür,Gzuz,3,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Gzuz-vor-der-tur-lyrics
+Blinding Lights,The Weeknd,4,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+KEIN SCHLAF,Nimo,5,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Nimo-and-hava-kein-schlaf-lyrics
+Skifahren (feat. Joshi Mizu),The Cratez,6,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/The-cratez-bausa-and-maxwell-skifahren-lyrics
+200 km/h,Apache 207,7,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Apache-207-200-km-h-lyrics
+Wieso tust Du dir das an?,Apache 207,8,Germany,2019-12-27,2020-01-03,Positive,https://genius.com/Apache-207-wieso-tust-du-dir-das-an-lyrics
+Ayy Macarena,Tyga,9,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Tyga-ayy-macarena-lyrics
+COLT,Samra,10,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Samra-colt-lyrics
+Falling,Trevor Daniel,11,Germany,2019-12-27,2020-01-03,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Keine Liebe,RIN,12,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Rin-and-bausa-keine-liebe-lyrics
+Alien,RIN,13,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Rin-alien-lyrics
+110,Capital Bra,14,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Capital-bra-samra-and-lea-110-lyrics
+Nur zur Info,Ufo361,15,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Ufo361-nur-zur-info-lyrics
+Mit Dir,Loredana,16,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Loredana-mit-dir-lyrics
+Ride It,Regard,17,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Regard-ride-it-lyrics
+ROXANNE,Arizona Zervas,18,Germany,2019-12-27,2020-01-03,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Don't Start Now,Dua Lipa,19,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Doch in der Nacht,Apache 207,20,Germany,2019-12-27,2020-01-03,Negative,https://genius.com/Apache-207-doch-in-der-nacht-lyrics
+Roller,Apache 207,1,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Apache-207-roller-lyrics
+Blinding Lights,The Weeknd,2,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Dance Monkey,Tones And I,3,Germany,2020-01-03,2020-01-10,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Vor der Tür,Gzuz,4,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Gzuz-vor-der-tur-lyrics
+Skifahren (feat. Joshi Mizu),The Cratez,5,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/The-cratez-bausa-and-maxwell-skifahren-lyrics
+KEIN SCHLAF,Nimo,6,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Nimo-and-hava-kein-schlaf-lyrics
+Alien,RIN,7,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Rin-alien-lyrics
+Falling,Trevor Daniel,8,Germany,2020-01-03,2020-01-10,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Maschine,RAF Camora,9,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/The-cratez-and-raf-camora-maschine-lyrics
+200 km/h,Apache 207,10,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Apache-207-200-km-h-lyrics
+Wieso tust Du dir das an?,Apache 207,11,Germany,2020-01-03,2020-01-10,Positive,https://genius.com/Apache-207-wieso-tust-du-dir-das-an-lyrics
+COLT,Samra,12,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Samra-colt-lyrics
+Keine Liebe,RIN,13,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Rin-and-bausa-keine-liebe-lyrics
+Ayy Macarena,Tyga,14,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Tyga-ayy-macarena-lyrics
+110,Capital Bra,15,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Capital-bra-samra-and-lea-110-lyrics
+Nur zur Info,Ufo361,16,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Ufo361-nur-zur-info-lyrics
+Ride It,Regard,17,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Regard-ride-it-lyrics
+Mit Dir,Loredana,18,Germany,2020-01-03,2020-01-10,Negative,https://genius.com/Loredana-mit-dir-lyrics
+ROXANNE,Arizona Zervas,19,Germany,2020-01-03,2020-01-10,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Yummy,Justin Bieber,20,Germany,2020-01-03,2020-01-10,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Roller,Apache 207,1,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Apache-207-roller-lyrics
+Blinding Lights,The Weeknd,2,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Ich hol dich ab,Jamule,3,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Jamule-ich-hol-dich-ab-lyrics
+6AM.........,Dardan,4,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Dardan-6am-lyrics
+Dance Monkey,Tones And I,5,Germany,2020-01-10,2020-01-17,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Skifahren (feat. Joshi Mizu),The Cratez,6,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/The-cratez-bausa-and-maxwell-skifahren-lyrics
+KEIN SCHLAF,Nimo,7,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Nimo-and-hava-kein-schlaf-lyrics
+200 km/h,Apache 207,8,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Apache-207-200-km-h-lyrics
+Benzo,Elias,9,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Elias-benzo-lyrics
+Falling,Trevor Daniel,10,Germany,2020-01-10,2020-01-17,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Alien,RIN,11,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Rin-alien-lyrics
+Vor der Tür,Gzuz,12,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Gzuz-vor-der-tur-lyrics
+Life Is Good (feat. Drake),Future,13,Germany,2020-01-10,2020-01-17,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Wieso tust Du dir das an?,Apache 207,14,Germany,2020-01-10,2020-01-17,Positive,https://genius.com/Apache-207-wieso-tust-du-dir-das-an-lyrics
+The Box,Roddy Ricch,15,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Es geht voran,RAF Camora,16,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Raf-camora-and-bonez-mc-es-geht-voran-lyrics
+Ayy Macarena,Tyga,17,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Tyga-ayy-macarena-lyrics
+Keine Liebe,RIN,18,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Rin-and-bausa-keine-liebe-lyrics
+Maschine,RAF Camora,19,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/The-cratez-and-raf-camora-maschine-lyrics
+110,Capital Bra,20,Germany,2020-01-10,2020-01-17,Negative,https://genius.com/Capital-bra-samra-and-lea-110-lyrics
+Kein Wort,Juju,1,Germany,2020-01-17,2020-01-24,Positive,https://genius.com/Juju-and-loredana-kein-wort-lyrics
+Big Drip,Ufo361,2,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/Ufo361-big-drip-lyrics
+Roller,Apache 207,3,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/Apache-207-roller-lyrics
+Blinding Lights,The Weeknd,4,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+6AM.........,Dardan,5,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/Dardan-6am-lyrics
+Ich hol dich ab,Jamule,6,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/Jamule-ich-hol-dich-ab-lyrics
+Dance Monkey,Tones And I,7,Germany,2020-01-17,2020-01-24,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Godzilla (feat. Juice WRLD),Eminem,8,Germany,2020-01-17,2020-01-24,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Skifahren (feat. Joshi Mizu),The Cratez,9,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/The-cratez-bausa-and-maxwell-skifahren-lyrics
+Alien,RIN,10,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/Rin-alien-lyrics
+The Box,Roddy Ricch,11,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Life Is Good (feat. Drake),Future,12,Germany,2020-01-17,2020-01-24,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+KEIN SCHLAF,Nimo,13,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/Nimo-and-hava-kein-schlaf-lyrics
+Benzo,Elias,14,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/Elias-benzo-lyrics
+Falling,Trevor Daniel,15,Germany,2020-01-17,2020-01-24,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+200 km/h,Apache 207,16,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/Apache-207-200-km-h-lyrics
+Vor der Tür,Gzuz,17,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/Gzuz-vor-der-tur-lyrics
+Breaking Me,Topic,18,Germany,2020-01-17,2020-01-24,Positive,https://genius.com/Topic-breaking-me-lyrics
+Maschine,RAF Camora,19,Germany,2020-01-17,2020-01-24,Negative,https://genius.com/The-cratez-and-raf-camora-maschine-lyrics
+Wieso tust Du dir das an?,Apache 207,20,Germany,2020-01-17,2020-01-24,Positive,https://genius.com/Apache-207-wieso-tust-du-dir-das-an-lyrics

@@ -1,27 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Tusa,KAROL G,1,Mexico,2019-12-27,2020-01-03,Negative
-Dance Monkey,Tones And I,2,Mexico,2019-12-27,2020-01-03,Neutral
-Vete,Bad Bunny,3,Mexico,2019-12-27,2020-01-03,Negative
-RITMO (Bad Boys For Life),Black Eyed Peas,4,Mexico,2019-12-27,2020-01-03,Positive
-LA CANCIÓN,J Balvin,5,Mexico,2019-12-27,2020-01-03,Negative
-Pa' Olvidarme De Ella,Piso 21,6,Mexico,2019-12-27,2020-01-03,Negative
-Fantasias,Rauw Alejandro,7,Mexico,2019-12-27,2020-01-03,Negative
-China,Anuel AA,8,Mexico,2019-12-27,2020-01-03,Negative
-Callaita,Bad Bunny,9,Mexico,2019-12-27,2020-01-03,Negative
-No Me Conoce - Remix,Jhay Cortez,10,Mexico,2019-12-27,2020-01-03,Negative
-Que Tire Pa Lante,Daddy Yankee,11,Mexico,2019-12-27,2020-01-03,Negative
-Oye Pablo,Danna Paola,12,Mexico,2019-12-27,2020-01-03,Negative
-Sigues Con El,Dímelo Flow,13,Mexico,2019-12-27,2020-01-03,Negative
-Amor A Primera Vista,Los Angeles Azules,14,Mexico,2019-12-27,2020-01-03,could not determine analysis
-Don't Start Now,Dua Lipa,15,Mexico,2019-12-27,2020-01-03,Negative
-Indeciso,Reik,16,Mexico,2019-12-27,2020-01-03,Negative
-Tutu,Camilo,17,Mexico,2019-12-27,2020-01-03,Negative
-Señorita,Shawn Mendes,18,Mexico,2019-12-27,2020-01-03,Positive
-De Los Besos Que Te Di,Christian Nodal,19,Mexico,2019-12-27,2020-01-03,Positive
-Blanco,J Balvin,20,Mexico,2019-12-27,2020-01-03,Negative
-Yummy,Justin Bieber,12,Mexico,2020-01-03,2020-01-10,Positive
-Blinding Lights,The Weeknd,16,Mexico,2020-01-03,2020-01-10,Negative
-Morado,J Balvin,18,Mexico,2020-01-10,2020-01-17,Negative
-Ride It,Regard,19,Mexico,2020-01-10,2020-01-17,Negative
-Hola - Remix,Dalex,18,Mexico,2020-01-17,2020-01-24,Negative
-Quizas,Rich Music LTD,20,Mexico,2020-01-17,2020-01-24,Positive
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Tusa,KAROL G,1,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Dance Monkey,Tones And I,2,Mexico,2019-12-27,2020-01-03,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Vete,Bad Bunny,3,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Bad-bunny-vete-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,4,Mexico,2019-12-27,2020-01-03,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+LA CANCIÓN,J Balvin,5,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+Pa' Olvidarme De Ella,Piso 21,6,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+Fantasias,Rauw Alejandro,7,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+China,Anuel AA,8,Mexico,2019-12-27,2020-01-03,could not determine analysis,
+Callaita,Bad Bunny,9,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+No Me Conoce - Remix,Jhay Cortez,10,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Que Tire Pa Lante,Daddy Yankee,11,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Oye Pablo,Danna Paola,12,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Danna-paola-oye-pablo-lyrics
+Sigues Con El,Dímelo Flow,13,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Amor A Primera Vista,Los Angeles Azules,14,Mexico,2019-12-27,2020-01-03,Positive,https://genius.com/Los-angeles-azules-belinda-and-lalo-ebratt-amor-a-primera-vista-lyrics
+Don't Start Now,Dua Lipa,15,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Indeciso,Reik,16,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Reik-j-balvin-and-lalo-ebratt-indeciso-lyrics
+Tutu,Camilo,17,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/Camilo-and-pedro-capo-tutu-lyrics
+Señorita,Shawn Mendes,18,Mexico,2019-12-27,2020-01-03,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+De Los Besos Que Te Di,Christian Nodal,19,Mexico,2019-12-27,2020-01-03,Positive,https://genius.com/Christian-nodal-de-los-besos-que-te-di-lyrics
+Blanco,J Balvin,20,Mexico,2019-12-27,2020-01-03,Negative,https://genius.com/J-balvin-blanco-lyrics
+Tusa,KAROL G,1,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Dance Monkey,Tones And I,2,Mexico,2020-01-03,2020-01-10,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Vete,Bad Bunny,3,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Bad-bunny-vete-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,4,Mexico,2020-01-03,2020-01-10,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+LA CANCIÓN,J Balvin,5,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+Fantasias,Rauw Alejandro,6,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Pa' Olvidarme De Ella,Piso 21,7,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+China,Anuel AA,8,Mexico,2020-01-03,2020-01-10,could not determine analysis,
+No Me Conoce - Remix,Jhay Cortez,9,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Callaita,Bad Bunny,10,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+Sigues Con El,Dímelo Flow,11,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Yummy,Justin Bieber,12,Mexico,2020-01-03,2020-01-10,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Que Tire Pa Lante,Daddy Yankee,13,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Don't Start Now,Dua Lipa,14,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Oye Pablo,Danna Paola,15,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Danna-paola-oye-pablo-lyrics
+Blinding Lights,The Weeknd,16,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Indeciso,Reik,17,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Reik-j-balvin-and-lalo-ebratt-indeciso-lyrics
+Señorita,Shawn Mendes,18,Mexico,2020-01-03,2020-01-10,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Blanco,J Balvin,19,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/J-balvin-blanco-lyrics
+Tutu,Camilo,20,Mexico,2020-01-03,2020-01-10,Negative,https://genius.com/Camilo-and-pedro-capo-tutu-lyrics
+Tusa,KAROL G,1,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Dance Monkey,Tones And I,2,Mexico,2020-01-10,2020-01-17,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Vete,Bad Bunny,3,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Sigues Con El,Dímelo Flow,4,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,5,Mexico,2020-01-10,2020-01-17,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Fantasias,Rauw Alejandro,6,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Pa' Olvidarme De Ella,Piso 21,7,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+LA CANCIÓN,J Balvin,8,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+China,Anuel AA,9,Mexico,2020-01-10,2020-01-17,could not determine analysis,
+No Me Conoce - Remix,Jhay Cortez,10,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Yummy,Justin Bieber,11,Mexico,2020-01-10,2020-01-17,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Callaita,Bad Bunny,12,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+Don't Start Now,Dua Lipa,13,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Que Tire Pa Lante,Daddy Yankee,14,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Blanco,J Balvin,15,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/J-balvin-blanco-lyrics
+Blinding Lights,The Weeknd,16,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Oye Pablo,Danna Paola,17,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Danna-paola-oye-pablo-lyrics
+Morado,J Balvin,18,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/J-balvin-morado-lyrics
+Ride It,Regard,19,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Regard-ride-it-lyrics
+Indeciso,Reik,20,Mexico,2020-01-10,2020-01-17,Negative,https://genius.com/Reik-j-balvin-and-lalo-ebratt-indeciso-lyrics
+Tusa,KAROL G,1,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Dance Monkey,Tones And I,2,Mexico,2020-01-17,2020-01-24,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Sigues Con El,Dímelo Flow,3,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Vete,Bad Bunny,4,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Fantasias,Rauw Alejandro,5,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,6,Mexico,2020-01-17,2020-01-24,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Pa' Olvidarme De Ella,Piso 21,7,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+LA CANCIÓN,J Balvin,8,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+Morado,J Balvin,9,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/J-balvin-morado-lyrics
+No Me Conoce - Remix,Jhay Cortez,10,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
+Yummy,Justin Bieber,11,Mexico,2020-01-17,2020-01-24,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Callaita,Bad Bunny,12,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
+China,Anuel AA,13,Mexico,2020-01-17,2020-01-24,could not determine analysis,
+Don't Start Now,Dua Lipa,14,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Blinding Lights,The Weeknd,15,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Que Tire Pa Lante,Daddy Yankee,16,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Daddy-yankee-que-tire-pa-lante-lyrics
+Oye Pablo,Danna Paola,17,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Danna-paola-oye-pablo-lyrics
+Hola - Remix,Dalex,18,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Blanco,J Balvin,19,Mexico,2020-01-17,2020-01-24,Negative,https://genius.com/J-balvin-blanco-lyrics
+Quizas,Rich Music LTD,20,Mexico,2020-01-17,2020-01-24,Positive,https://genius.com/Rich-music-ltd-dalex-and-sech-quizas-lyrics

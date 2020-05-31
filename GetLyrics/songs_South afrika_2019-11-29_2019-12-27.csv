@@ -1,33 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Dance Monkey,Tones And I,1,South afrika,2019-11-29,2019-12-06,Neutral
-Memories,Maroon 5,2,South afrika,2019-11-29,2019-12-06,Positive
-Circles,Post Malone,3,South afrika,2019-11-29,2019-12-06,Positive
-ROXANNE,Arizona Zervas,4,South afrika,2019-11-29,2019-12-06,Positive
-Señorita,Shawn Mendes,5,South afrika,2019-11-29,2019-12-06,Positive
-Heartless,The Weeknd,6,South afrika,2019-11-29,2019-12-06,Negative
-everything i wanted,Billie Eilish,7,South afrika,2019-11-29,2019-12-06,Negative
-Beautiful People (feat. Khalid),Ed Sheeran,8,South afrika,2019-11-29,2019-12-06,Positive
-Don't Start Now,Dua Lipa,9,South afrika,2019-11-29,2019-12-06,Negative
-Someone You Loved,Lewis Capaldi,10,South afrika,2019-11-29,2019-12-06,Positive
-HIGHEST IN THE ROOM,Travis Scott,11,South afrika,2019-11-29,2019-12-06,could not determine analysis
-Lose You To Love Me,Selena Gomez,12,South afrika,2019-11-29,2019-12-06,Positive
-Akulaleki,Samthing Soweto,13,South afrika,2019-11-29,2019-12-06,Positive
-Falling,Trevor Daniel,14,South afrika,2019-11-29,2019-12-06,Positive
-hot girl bummer,blackbear,15,South afrika,2019-11-29,2019-12-06,Negative
-Nana Thula,Kabza De Small,16,South afrika,2019-11-29,2019-12-06,Positive
-I Don't Care (with Justin Bieber),Ed Sheeran,17,South afrika,2019-11-29,2019-12-06,Positive
-How Do You Sleep?,Sam Smith,18,South afrika,2019-11-29,2019-12-06,Positive
-Blinding Lights,The Weeknd,19,South afrika,2019-11-29,2019-12-06,Negative
-bad guy,Billie Eilish,20,South afrika,2019-11-29,2019-12-06,Negative
-Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,15,South afrika,2019-12-06,2019-12-13,Positive
-Lucid Dreams,Juice WRLD,17,South afrika,2019-12-06,2019-12-13,Positive
-Eastside (with Halsey &amp; Khalid),benny blanco,20,South afrika,2019-12-06,2019-12-13,could not determine analysis
-Jerusalem,Master KG,8,South afrika,2019-12-13,2019-12-20,Neutral
-Lorch,Kabza De Small,9,South afrika,2019-12-13,2019-12-20,Negative
-Labantwana Ama Uber,Semi Tee,15,South afrika,2019-12-13,2019-12-20,could not determine analysis
-Tender Love (feat. DJ Maphorisa &amp; Kabza De Small),Sha Sha,18,South afrika,2019-12-13,2019-12-20,could not determine analysis
-All I Want for Christmas Is You,Mariah Carey,5,South afrika,2019-12-20,2019-12-27,Positive
-Last Christmas,Wham!,16,South afrika,2019-12-20,2019-12-27,Positive
-Vula Vala,DJ Maphorisa,17,South afrika,2019-12-20,2019-12-27,could not determine analysis
-"Love You Tonight (feat. DJ Maphorisa, Sha Sha &amp; Kabza De Small)",Mfr Souls,19,South afrika,2019-12-20,2019-12-27,could not determine analysis
-Umlilo,DJ Zinhle,20,South afrika,2019-12-20,2019-12-27,Neutral
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Dance Monkey,Tones And I,1,South afrika,2019-11-29,2019-12-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Memories,Maroon 5,2,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Maroon-5-memories-lyrics
+Circles,Post Malone,3,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Post-malone-circles-lyrics
+ROXANNE,Arizona Zervas,4,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Señorita,Shawn Mendes,5,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Heartless,The Weeknd,6,South afrika,2019-11-29,2019-12-06,Negative,https://genius.com/The-weeknd-heartless-lyrics
+everything i wanted,Billie Eilish,7,South afrika,2019-11-29,2019-12-06,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Beautiful People (feat. Khalid),Ed Sheeran,8,South afrika,2019-11-29,2019-12-06,could not determine analysis,
+Don't Start Now,Dua Lipa,9,South afrika,2019-11-29,2019-12-06,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Someone You Loved,Lewis Capaldi,10,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+HIGHEST IN THE ROOM,Travis Scott,11,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Travis-scott-highest-in-the-room-lyrics
+Lose You To Love Me,Selena Gomez,12,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+Akulaleki,Samthing Soweto,13,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Samthing-soweto-akulaleki-lyrics
+Falling,Trevor Daniel,14,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+hot girl bummer,blackbear,15,South afrika,2019-11-29,2019-12-06,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+Nana Thula,Kabza De Small,16,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Kabza-de-small-x-dj-maphorisa-nana-thula-lyrics
+I Don't Care (with Justin Bieber),Ed Sheeran,17,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Spotify-new-music-friday-05-10-19-annotated
+How Do You Sleep?,Sam Smith,18,South afrika,2019-11-29,2019-12-06,Positive,https://genius.com/Sam-smith-how-do-you-sleep-lyrics
+Blinding Lights,The Weeknd,19,South afrika,2019-11-29,2019-12-06,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+bad guy,Billie Eilish,20,South afrika,2019-11-29,2019-12-06,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Dance Monkey,Tones And I,1,South afrika,2019-12-06,2019-12-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Circles,Post Malone,2,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Post-malone-circles-lyrics
+Memories,Maroon 5,3,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Maroon-5-memories-lyrics
+ROXANNE,Arizona Zervas,4,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Señorita,Shawn Mendes,5,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Beautiful People (feat. Khalid),Ed Sheeran,6,South afrika,2019-12-06,2019-12-13,could not determine analysis,
+Someone You Loved,Lewis Capaldi,7,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Falling,Trevor Daniel,8,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Don't Start Now,Dua Lipa,9,South afrika,2019-12-06,2019-12-13,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+everything i wanted,Billie Eilish,10,South afrika,2019-12-06,2019-12-13,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+HIGHEST IN THE ROOM,Travis Scott,11,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Travis-scott-highest-in-the-room-lyrics
+I Don't Care (with Justin Bieber),Ed Sheeran,12,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Spotify-new-music-friday-05-10-19-annotated
+bad guy,Billie Eilish,13,South afrika,2019-12-06,2019-12-13,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Akulaleki,Samthing Soweto,14,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Samthing-soweto-akulaleki-lyrics
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,15,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Jorja-smith-virtual-reality-revolutionizes-concerts-next-up-is-post-malone-annotated
+Lose You To Love Me,Selena Gomez,16,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+Lucid Dreams,Juice WRLD,17,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Juice-wrld-lucid-dreams-lyrics
+How Do You Sleep?,Sam Smith,18,South afrika,2019-12-06,2019-12-13,Positive,https://genius.com/Sam-smith-how-do-you-sleep-lyrics
+hot girl bummer,blackbear,19,South afrika,2019-12-06,2019-12-13,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+Eastside (with Halsey &amp; Khalid),benny blanco,20,South afrika,2019-12-06,2019-12-13,could not determine analysis,
+Dance Monkey,Tones And I,1,South afrika,2019-12-13,2019-12-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Circles,Post Malone,2,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Post-malone-circles-lyrics
+Memories,Maroon 5,3,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Maroon-5-memories-lyrics
+ROXANNE,Arizona Zervas,4,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Señorita,Shawn Mendes,5,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Falling,Trevor Daniel,6,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Beautiful People (feat. Khalid),Ed Sheeran,7,South afrika,2019-12-13,2019-12-20,could not determine analysis,
+Jerusalem,Master KG,8,South afrika,2019-12-13,2019-12-20,Neutral,https://genius.com/Master-kg-jerusalem-lyrics
+Lorch,Kabza De Small,9,South afrika,2019-12-13,2019-12-20,Negative,https://genius.com/Kabza-de-small-x-dj-maphorisa-lorch-lyrics
+Don't Start Now,Dua Lipa,10,South afrika,2019-12-13,2019-12-20,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Someone You Loved,Lewis Capaldi,11,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Akulaleki,Samthing Soweto,12,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Samthing-soweto-akulaleki-lyrics
+Nana Thula,Kabza De Small,13,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Kabza-de-small-x-dj-maphorisa-nana-thula-lyrics
+everything i wanted,Billie Eilish,14,South afrika,2019-12-13,2019-12-20,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Labantwana Ama Uber,Semi Tee,15,South afrika,2019-12-13,2019-12-20,could not determine analysis,
+HIGHEST IN THE ROOM,Travis Scott,16,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Travis-scott-highest-in-the-room-lyrics
+I Don't Care (with Justin Bieber),Ed Sheeran,17,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Spotify-new-music-friday-05-10-19-annotated
+Tender Love (feat. DJ Maphorisa &amp; Kabza De Small),Sha Sha,18,South afrika,2019-12-13,2019-12-20,could not determine analysis,
+How Do You Sleep?,Sam Smith,19,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Sam-smith-how-do-you-sleep-lyrics
+Lose You To Love Me,Selena Gomez,20,South afrika,2019-12-13,2019-12-20,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+Dance Monkey,Tones And I,1,South afrika,2019-12-20,2019-12-27,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Lorch,Kabza De Small,2,South afrika,2019-12-20,2019-12-27,Negative,https://genius.com/Kabza-de-small-x-dj-maphorisa-lorch-lyrics
+Circles,Post Malone,3,South afrika,2019-12-20,2019-12-27,Positive,https://genius.com/Post-malone-circles-lyrics
+Memories,Maroon 5,4,South afrika,2019-12-20,2019-12-27,Positive,https://genius.com/Maroon-5-memories-lyrics
+All I Want for Christmas Is You,Mariah Carey,5,South afrika,2019-12-20,2019-12-27,Positive,https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
+Jerusalem,Master KG,6,South afrika,2019-12-20,2019-12-27,Neutral,https://genius.com/Master-kg-jerusalem-lyrics
+Akulaleki,Samthing Soweto,7,South afrika,2019-12-20,2019-12-27,Positive,https://genius.com/Samthing-soweto-akulaleki-lyrics
+Señorita,Shawn Mendes,8,South afrika,2019-12-20,2019-12-27,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Tender Love (feat. DJ Maphorisa &amp; Kabza De Small),Sha Sha,9,South afrika,2019-12-20,2019-12-27,could not determine analysis,
+ROXANNE,Arizona Zervas,10,South afrika,2019-12-20,2019-12-27,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Labantwana Ama Uber,Semi Tee,11,South afrika,2019-12-20,2019-12-27,could not determine analysis,
+Nana Thula,Kabza De Small,12,South afrika,2019-12-20,2019-12-27,Positive,https://genius.com/Kabza-de-small-x-dj-maphorisa-nana-thula-lyrics
+Falling,Trevor Daniel,13,South afrika,2019-12-20,2019-12-27,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Beautiful People (feat. Khalid),Ed Sheeran,14,South afrika,2019-12-20,2019-12-27,could not determine analysis,
+Don't Start Now,Dua Lipa,15,South afrika,2019-12-20,2019-12-27,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Last Christmas,Wham!,16,South afrika,2019-12-20,2019-12-27,Positive,https://genius.com/Wham-last-christmas-lyrics
+Vula Vala,DJ Maphorisa,17,South afrika,2019-12-20,2019-12-27,could not determine analysis,
+Someone You Loved,Lewis Capaldi,18,South afrika,2019-12-20,2019-12-27,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+"Love You Tonight (feat. DJ Maphorisa, Sha Sha &amp; Kabza De Small)",Mfr Souls,19,South afrika,2019-12-20,2019-12-27,could not determine analysis,
+Umlilo,DJ Zinhle,20,South afrika,2019-12-20,2019-12-27,Neutral,https://genius.com/Dj-zinhle-umlilo-lyrics

@@ -1,28 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-The Box,Roddy Ricch,1,South afrika,2020-01-24,2020-01-31,Negative
-Godzilla (feat. Juice WRLD),Eminem,2,South afrika,2020-01-24,2020-01-31,Neutral
-Dance Monkey,Tones And I,3,South afrika,2020-01-24,2020-01-31,Neutral
-Life Is Good (feat. Drake),Future,4,South afrika,2020-01-24,2020-01-31,Positive
-Circles,Post Malone,5,South afrika,2020-01-24,2020-01-31,Positive
-Memories,Maroon 5,6,South afrika,2020-01-24,2020-01-31,Positive
-Yummy,Justin Bieber,7,South afrika,2020-01-24,2020-01-31,Positive
-Don't Start Now,Dua Lipa,8,South afrika,2020-01-24,2020-01-31,Negative
-Blinding Lights,The Weeknd,9,South afrika,2020-01-24,2020-01-31,Negative
-everything i wanted,Billie Eilish,10,South afrika,2020-01-24,2020-01-31,Negative
-Falling,Trevor Daniel,11,South afrika,2020-01-24,2020-01-31,Positive
-ROXANNE,Arizona Zervas,12,South afrika,2020-01-24,2020-01-31,Positive
-Lose You To Love Me,Selena Gomez,13,South afrika,2020-01-24,2020-01-31,Positive
-Beautiful People (feat. Khalid),Ed Sheeran,14,South afrika,2020-01-24,2020-01-31,Positive
-Lorch,Kabza De Small,15,South afrika,2020-01-24,2020-01-31,Negative
-Someone You Loved,Lewis Capaldi,16,South afrika,2020-01-24,2020-01-31,Positive
-I Don't Care (with Justin Bieber),Ed Sheeran,17,South afrika,2020-01-24,2020-01-31,Positive
-bad guy,Billie Eilish,18,South afrika,2020-01-24,2020-01-31,Negative
-Señorita,Shawn Mendes,19,South afrika,2020-01-24,2020-01-31,Positive
-What A Man Gotta Do,Jonas Brothers,20,South afrika,2020-01-24,2020-01-31,Positive
-Lose Control,MEDUZA,19,South afrika,2020-01-31,2020-02-07,Positive
-eMcimbini - Live,Kabza De Small,6,South afrika,2020-02-07,2020-02-14,could not determine analysis
-Intentions,Justin Bieber,13,South afrika,2020-02-07,2020-02-14,Positive
-Know Your Worth,Khalid,20,South afrika,2020-02-07,2020-02-14,Positive
-Intentions (feat. Quavo),Justin Bieber,5,South afrika,2020-02-14,2020-02-21,Positive
-No Time To Die,Billie Eilish,9,South afrika,2020-02-14,2020-02-21,Negative
-Forever (feat. Post Malone &amp; Clever),Justin Bieber,15,South afrika,2020-02-14,2020-02-21,could not determine analysis
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+The Box,Roddy Ricch,1,South afrika,2020-01-24,2020-01-31,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Godzilla (feat. Juice WRLD),Eminem,2,South afrika,2020-01-24,2020-01-31,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Dance Monkey,Tones And I,3,South afrika,2020-01-24,2020-01-31,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Life Is Good (feat. Drake),Future,4,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Circles,Post Malone,5,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Post-malone-circles-lyrics
+Memories,Maroon 5,6,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Maroon-5-memories-lyrics
+Yummy,Justin Bieber,7,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Don't Start Now,Dua Lipa,8,South afrika,2020-01-24,2020-01-31,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Blinding Lights,The Weeknd,9,South afrika,2020-01-24,2020-01-31,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+everything i wanted,Billie Eilish,10,South afrika,2020-01-24,2020-01-31,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Falling,Trevor Daniel,11,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+ROXANNE,Arizona Zervas,12,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Lose You To Love Me,Selena Gomez,13,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+Beautiful People (feat. Khalid),Ed Sheeran,14,South afrika,2020-01-24,2020-01-31,could not determine analysis,
+Lorch,Kabza De Small,15,South afrika,2020-01-24,2020-01-31,Negative,https://genius.com/Kabza-de-small-x-dj-maphorisa-lorch-lyrics
+Someone You Loved,Lewis Capaldi,16,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+I Don't Care (with Justin Bieber),Ed Sheeran,17,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Spotify-new-music-friday-05-10-19-annotated
+bad guy,Billie Eilish,18,South afrika,2020-01-24,2020-01-31,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Señorita,Shawn Mendes,19,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+What A Man Gotta Do,Jonas Brothers,20,South afrika,2020-01-24,2020-01-31,Positive,https://genius.com/Jonas-brothers-what-a-man-gotta-do-lyrics
+The Box,Roddy Ricch,1,South afrika,2020-01-31,2020-02-07,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Dance Monkey,Tones And I,2,South afrika,2020-01-31,2020-02-07,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Life Is Good (feat. Drake),Future,3,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Godzilla (feat. Juice WRLD),Eminem,4,South afrika,2020-01-31,2020-02-07,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Don't Start Now,Dua Lipa,5,South afrika,2020-01-31,2020-02-07,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Blinding Lights,The Weeknd,6,South afrika,2020-01-31,2020-02-07,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Circles,Post Malone,7,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Post-malone-circles-lyrics
+Memories,Maroon 5,8,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Maroon-5-memories-lyrics
+everything i wanted,Billie Eilish,9,South afrika,2020-01-31,2020-02-07,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Yummy,Justin Bieber,10,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Falling,Trevor Daniel,11,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+ROXANNE,Arizona Zervas,12,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Someone You Loved,Lewis Capaldi,13,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Lorch,Kabza De Small,14,South afrika,2020-01-31,2020-02-07,Negative,https://genius.com/Kabza-de-small-x-dj-maphorisa-lorch-lyrics
+Beautiful People (feat. Khalid),Ed Sheeran,15,South afrika,2020-01-31,2020-02-07,could not determine analysis,
+I Don't Care (with Justin Bieber),Ed Sheeran,16,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Spotify-new-music-friday-05-10-19-annotated
+Señorita,Shawn Mendes,17,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Lose You To Love Me,Selena Gomez,18,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+Lose Control,MEDUZA,19,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Meduza-becky-hill-and-goodboys-lose-control-lyrics
+What A Man Gotta Do,Jonas Brothers,20,South afrika,2020-01-31,2020-02-07,Positive,https://genius.com/Jonas-brothers-what-a-man-gotta-do-lyrics
+The Box,Roddy Ricch,1,South afrika,2020-02-07,2020-02-14,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Dance Monkey,Tones And I,2,South afrika,2020-02-07,2020-02-14,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Life Is Good (feat. Drake),Future,3,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Blinding Lights,The Weeknd,4,South afrika,2020-02-07,2020-02-14,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Don't Start Now,Dua Lipa,5,South afrika,2020-02-07,2020-02-14,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+eMcimbini - Live,Kabza De Small,6,South afrika,2020-02-07,2020-02-14,could not determine analysis,
+Godzilla (feat. Juice WRLD),Eminem,7,South afrika,2020-02-07,2020-02-14,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+everything i wanted,Billie Eilish,8,South afrika,2020-02-07,2020-02-14,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Circles,Post Malone,9,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Post-malone-circles-lyrics
+Falling,Trevor Daniel,10,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Yummy,Justin Bieber,11,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Memories,Maroon 5,12,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Maroon-5-memories-lyrics
+Intentions,Justin Bieber,13,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Justin-bieber-intentions-lyrics
+ROXANNE,Arizona Zervas,14,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Someone You Loved,Lewis Capaldi,15,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Beautiful People (feat. Khalid),Ed Sheeran,16,South afrika,2020-02-07,2020-02-14,could not determine analysis,
+Lose Control,MEDUZA,17,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Meduza-becky-hill-and-goodboys-lose-control-lyrics
+I Don't Care (with Justin Bieber),Ed Sheeran,18,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Spotify-new-music-friday-05-10-19-annotated
+What A Man Gotta Do,Jonas Brothers,19,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Jonas-brothers-what-a-man-gotta-do-lyrics
+Know Your Worth,Khalid,20,South afrika,2020-02-07,2020-02-14,Positive,https://genius.com/Khalid-and-disclosure-know-your-worth-lyrics
+The Box,Roddy Ricch,1,South afrika,2020-02-14,2020-02-21,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Dance Monkey,Tones And I,2,South afrika,2020-02-14,2020-02-21,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Life Is Good (feat. Drake),Future,3,South afrika,2020-02-14,2020-02-21,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Blinding Lights,The Weeknd,4,South afrika,2020-02-14,2020-02-21,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Intentions (feat. Quavo),Justin Bieber,5,South afrika,2020-02-14,2020-02-21,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+eMcimbini - Live,Kabza De Small,6,South afrika,2020-02-14,2020-02-21,could not determine analysis,
+Don't Start Now,Dua Lipa,7,South afrika,2020-02-14,2020-02-21,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Yummy,Justin Bieber,8,South afrika,2020-02-14,2020-02-21,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+No Time To Die,Billie Eilish,9,South afrika,2020-02-14,2020-02-21,Negative,https://genius.com/Billie-eilish-no-time-to-die-lyrics
+Circles,Post Malone,10,South afrika,2020-02-14,2020-02-21,Positive,https://genius.com/Post-malone-circles-lyrics
+everything i wanted,Billie Eilish,11,South afrika,2020-02-14,2020-02-21,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Godzilla (feat. Juice WRLD),Eminem,12,South afrika,2020-02-14,2020-02-21,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Falling,Trevor Daniel,13,South afrika,2020-02-14,2020-02-21,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+Memories,Maroon 5,14,South afrika,2020-02-14,2020-02-21,Positive,https://genius.com/Maroon-5-memories-lyrics
+Forever (feat. Post Malone &amp; Clever),Justin Bieber,15,South afrika,2020-02-14,2020-02-21,could not determine analysis,
+ROXANNE,Arizona Zervas,16,South afrika,2020-02-14,2020-02-21,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Someone You Loved,Lewis Capaldi,17,South afrika,2020-02-14,2020-02-21,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Beautiful People (feat. Khalid),Ed Sheeran,18,South afrika,2020-02-14,2020-02-21,could not determine analysis,
+I Don't Care (with Justin Bieber),Ed Sheeran,19,South afrika,2020-02-14,2020-02-21,Positive,https://genius.com/Spotify-new-music-friday-05-10-19-annotated
+Lose Control,MEDUZA,20,South afrika,2020-02-14,2020-02-21,Positive,https://genius.com/Meduza-becky-hill-and-goodboys-lose-control-lyrics

@@ -1,29 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Tusa,KAROL G,1,Spain,2020-02-21,2020-02-28,Negative
-Diosa,Myke Towers,2,Spain,2020-02-21,2020-02-28,Negative
-Tattoo,Rauw Alejandro,3,Spain,2020-02-21,2020-02-28,Negative
-Keii,Anuel AA,4,Spain,2020-02-21,2020-02-28,Positive
-Morado,J Balvin,5,Spain,2020-02-21,2020-02-28,could not determine analysis
-Ignorantes,Bad Bunny,6,Spain,2020-02-21,2020-02-28,Negative
-Medusa,Jhay Cortez,7,Spain,2020-02-21,2020-02-28,Negative
-Me Gusta,Shakira,8,Spain,2020-02-21,2020-02-28,Negative
-Se iluminaba,Fred De Palma,9,Spain,2020-02-21,2020-02-28,Negative
-Muévelo,Nicky Jam,10,Spain,2020-02-21,2020-02-28,could not determine analysis
-+,Aitana,11,Spain,2020-02-21,2020-02-28,Negative
-Dance Monkey,Tones And I,12,Spain,2020-02-21,2020-02-28,Neutral
-Prendio (Remix),Rvfv,13,Spain,2020-02-21,2020-02-28,could not determine analysis
-Hola - Remix,Dalex,14,Spain,2020-02-21,2020-02-28,Negative
-Alocao (With Bad Gyal),Omar Montes,15,Spain,2020-02-21,2020-02-28,Positive
-Indeciso,Reik,16,Spain,2020-02-21,2020-02-28,Negative
-Pegamos Tela,Lérica,17,Spain,2020-02-21,2020-02-28,Negative
-Sigues Con El,Dímelo Flow,18,Spain,2020-02-21,2020-02-28,Negative
-Blanco,J Balvin,19,Spain,2020-02-21,2020-02-28,Negative
-Vete,Bad Bunny,20,Spain,2020-02-21,2020-02-28,Negative
-La Difícil,Bad Bunny,3,Spain,2020-02-28,2020-03-06,Negative
-Rojo,J Balvin,6,Spain,2020-02-28,2020-03-06,Neutral
-La Santa,Bad Bunny,9,Spain,2020-02-28,2020-03-06,Negative
-Si Veo a Tu Mamá,Bad Bunny,12,Spain,2020-02-28,2020-03-06,Negative
-Está Cabrón Ser Yo,Bad Bunny,15,Spain,2020-02-28,2020-03-06,Negative
-Pero Ya No,Bad Bunny,16,Spain,2020-02-28,2020-03-06,Negative
-Safaera,Bad Bunny,14,Spain,2020-03-06,2020-03-13,Negative
-Fantasias - Remix,Rauw Alejandro,15,Spain,2020-03-13,2020-03-20,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Tusa,KAROL G,1,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Diosa,Myke Towers,2,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Tattoo,Rauw Alejandro,3,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Keii,Anuel AA,4,Spain,2020-02-21,2020-02-28,Positive,https://genius.com/Anuel-aa-keii-lyrics
+Morado,J Balvin,5,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/J-balvin-morado-lyrics
+Ignorantes,Bad Bunny,6,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Medusa,Jhay Cortez,7,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Jhay-cortez-anuel-aa-and-j-balvin-medusa-lyrics
+Me Gusta,Shakira,8,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Shakira-and-anuel-aa-me-gusta-lyrics
+Se iluminaba,Fred De Palma,9,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Fred-de-palma-se-iluminaba-lyrics
+Muévelo,Nicky Jam,10,Spain,2020-02-21,2020-02-28,Positive,https://genius.com/Daddy-yankee-and-nicky-jam-muevelo-lyrics
++,Aitana,11,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Aitana-and-ana-guerra-lo-malo-lyrics
+Dance Monkey,Tones And I,12,Spain,2020-02-21,2020-02-28,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Prendio (Remix),Rvfv,13,Spain,2020-02-21,2020-02-28,could not determine analysis,
+Hola - Remix,Dalex,14,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Alocao (With Bad Gyal),Omar Montes,15,Spain,2020-02-21,2020-02-28,Positive,https://genius.com/Genius-october-2019-singles-release-calendar-annotated
+Indeciso,Reik,16,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Reik-j-balvin-and-lalo-ebratt-indeciso-lyrics
+Pegamos Tela,Lérica,17,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Lerica-pegamos-tela-lyrics
+Sigues Con El,Dímelo Flow,18,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Blanco,J Balvin,19,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/J-balvin-blanco-lyrics
+Vete,Bad Bunny,20,Spain,2020-02-21,2020-02-28,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Tusa,KAROL G,1,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Tattoo,Rauw Alejandro,2,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+La Difícil,Bad Bunny,3,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Diosa,Myke Towers,4,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Ignorantes,Bad Bunny,5,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Rojo,J Balvin,6,Spain,2020-02-28,2020-03-06,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Morado,J Balvin,7,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/J-balvin-morado-lyrics
+Keii,Anuel AA,8,Spain,2020-02-28,2020-03-06,Positive,https://genius.com/Anuel-aa-keii-lyrics
+La Santa,Bad Bunny,9,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-and-daddy-yankee-la-santa-lyrics
+Medusa,Jhay Cortez,10,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Jhay-cortez-anuel-aa-and-j-balvin-medusa-lyrics
+Vete,Bad Bunny,11,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Si Veo a Tu Mamá,Bad Bunny,12,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Me Gusta,Shakira,13,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Shakira-and-anuel-aa-me-gusta-lyrics
+Se iluminaba,Fred De Palma,14,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Fred-de-palma-se-iluminaba-lyrics
+Está Cabrón Ser Yo,Bad Bunny,15,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-and-anuel-aa-esta-cabron-ser-yo-lyrics
+Pero Ya No,Bad Bunny,16,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Bad-bunny-pero-ya-no-lyrics
+Muévelo,Nicky Jam,17,Spain,2020-02-28,2020-03-06,Positive,https://genius.com/Daddy-yankee-and-nicky-jam-muevelo-lyrics
++,Aitana,18,Spain,2020-02-28,2020-03-06,Negative,https://genius.com/Aitana-and-ana-guerra-lo-malo-lyrics
+Dance Monkey,Tones And I,19,Spain,2020-02-28,2020-03-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Prendio (Remix),Rvfv,20,Spain,2020-02-28,2020-03-06,could not determine analysis,
+Tusa,KAROL G,1,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+La Difícil,Bad Bunny,2,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Tattoo,Rauw Alejandro,3,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Rojo,J Balvin,4,Spain,2020-03-06,2020-03-13,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Diosa,Myke Towers,5,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Ignorantes,Bad Bunny,6,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Morado,J Balvin,7,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/J-balvin-morado-lyrics
+Keii,Anuel AA,8,Spain,2020-03-06,2020-03-13,Positive,https://genius.com/Anuel-aa-keii-lyrics
+La Santa,Bad Bunny,9,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-and-daddy-yankee-la-santa-lyrics
+Medusa,Jhay Cortez,10,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Jhay-cortez-anuel-aa-and-j-balvin-medusa-lyrics
+Si Veo a Tu Mamá,Bad Bunny,11,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Se iluminaba,Fred De Palma,12,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Fred-de-palma-se-iluminaba-lyrics
+Me Gusta,Shakira,13,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Shakira-and-anuel-aa-me-gusta-lyrics
+Safaera,Bad Bunny,14,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Vete,Bad Bunny,15,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Prendio (Remix),Rvfv,16,Spain,2020-03-06,2020-03-13,could not determine analysis,
+Dance Monkey,Tones And I,17,Spain,2020-03-06,2020-03-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Pegamos Tela,Lérica,18,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Lerica-pegamos-tela-lyrics
+Muévelo,Nicky Jam,19,Spain,2020-03-06,2020-03-13,Positive,https://genius.com/Daddy-yankee-and-nicky-jam-muevelo-lyrics
+Hola - Remix,Dalex,20,Spain,2020-03-06,2020-03-13,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Tusa,KAROL G,1,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+La Difícil,Bad Bunny,2,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Tattoo,Rauw Alejandro,3,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Rojo,J Balvin,4,Spain,2020-03-13,2020-03-20,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Diosa,Myke Towers,5,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Ignorantes,Bad Bunny,6,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Morado,J Balvin,7,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/J-balvin-morado-lyrics
+Keii,Anuel AA,8,Spain,2020-03-13,2020-03-20,Positive,https://genius.com/Anuel-aa-keii-lyrics
+Safaera,Bad Bunny,9,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Medusa,Jhay Cortez,10,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Jhay-cortez-anuel-aa-and-j-balvin-medusa-lyrics
+Se iluminaba,Fred De Palma,11,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Fred-de-palma-se-iluminaba-lyrics
+Si Veo a Tu Mamá,Bad Bunny,12,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+La Santa,Bad Bunny,13,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Bad-bunny-and-daddy-yankee-la-santa-lyrics
+Me Gusta,Shakira,14,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Shakira-and-anuel-aa-me-gusta-lyrics
+Fantasias - Remix,Rauw Alejandro,15,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Rauw-alejandro-anuel-aa-and-natti-natasha-fantasias-remix-lyrics
+Pegamos Tela,Lérica,16,Spain,2020-03-13,2020-03-20,Negative,https://genius.com/Lerica-pegamos-tela-lyrics
+Dance Monkey,Tones And I,17,Spain,2020-03-13,2020-03-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Prendio (Remix),Rvfv,18,Spain,2020-03-13,2020-03-20,could not determine analysis,
+Alocao (With Bad Gyal),Omar Montes,19,Spain,2020-03-13,2020-03-20,Positive,https://genius.com/Genius-october-2019-singles-release-calendar-annotated
+Muévelo,Nicky Jam,20,Spain,2020-03-13,2020-03-20,Positive,https://genius.com/Daddy-yankee-and-nicky-jam-muevelo-lyrics

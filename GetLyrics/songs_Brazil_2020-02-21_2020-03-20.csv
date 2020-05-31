@@ -1,27 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Liberdade Provisória - Ao Vivo,Henrique &amp; Juliano,1,Brazil,2020-02-21,2020-02-28,could not determine analysis
-Tudo Ok,Thiaguinho MT,2,Brazil,2020-02-21,2020-02-28,Positive
-SENTADÃO,Pedro Sampaio,3,Brazil,2020-02-21,2020-02-28,Negative
-A Gente Fez Amor - Ao Vivo,Gusttavo Lima,4,Brazil,2020-02-21,2020-02-28,could not determine analysis
-Vem Me Satisfazer,MC Ingryd,5,Brazil,2020-02-21,2020-02-28,Negative
-Rave de Favela (feat. BEAM),Major Lazer,6,Brazil,2020-02-21,2020-02-28,Negative
-Com ou Sem Mim - Ao Vivo,Gustavo Mioto,7,Brazil,2020-02-21,2020-02-28,Negative
-Combatchy (feat. MC Rebecca),Anitta,8,Brazil,2020-02-21,2020-02-28,Negative
-Graveto - Ao Vivo,Marília Mendonça,9,Brazil,2020-02-21,2020-02-28,could not determine analysis
-Surtada - Remix Brega Funk,Dadá Boladão,10,Brazil,2020-02-21,2020-02-28,Neutral
-Litrão - Ao Vivo,Matheus &amp; Kauan,11,Brazil,2020-02-21,2020-02-28,could not determine analysis
-S de Saudade,Luíza &amp; Maurílio,12,Brazil,2020-02-21,2020-02-28,could not determine analysis
-Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,13,Brazil,2020-02-21,2020-02-28,could not determine analysis
-Dance Monkey,Tones And I,14,Brazil,2020-02-21,2020-02-28,Neutral
-Amor de Que,Pabllo Vittar,15,Brazil,2020-02-21,2020-02-28,Positive
-Cheirosa - Ao Vivo,Jorge &amp; Mateus,16,Brazil,2020-02-21,2020-02-28,could not determine analysis
-3 Batidas - Ao Vivo,Guilherme &amp; Benuto,17,Brazil,2020-02-21,2020-02-28,could not determine analysis
-Supera - Ao Vivo,Marília Mendonça,18,Brazil,2020-02-21,2020-02-28,Positive
-Contatinho - Ao Vivo,Leo Santana,19,Brazil,2020-02-21,2020-02-28,Neutral
-Porta Mala,Os Parazim,20,Brazil,2020-02-21,2020-02-28,could not determine analysis
-Stupid Love,Lady Gaga,15,Brazil,2020-02-28,2020-03-06,Positive
-Don't Start Now,Dua Lipa,18,Brazil,2020-02-28,2020-03-06,Negative
-Volta por Baixo - Ao Vivo,Henrique &amp; Juliano,18,Brazil,2020-03-06,2020-03-13,could not determine analysis
-Te Prometo,Dennis DJ,19,Brazil,2020-03-06,2020-03-13,Neutral
-Tijolão - Ao Vivo,Jorge &amp; Mateus,20,Brazil,2020-03-06,2020-03-13,could not determine analysis
-Amoreco,Simone &amp; Simaria,13,Brazil,2020-03-13,2020-03-20,could not determine analysis
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Liberdade Provisória - Ao Vivo,Henrique &amp; Juliano,1,Brazil,2020-02-21,2020-02-28,could not determine analysis,
+Tudo Ok,Thiaguinho MT,2,Brazil,2020-02-21,2020-02-28,Positive,https://genius.com/Thiaguinho-mt-tudo-ok-lyrics
+SENTADÃO,Pedro Sampaio,3,Brazil,2020-02-21,2020-02-28,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+A Gente Fez Amor - Ao Vivo,Gusttavo Lima,4,Brazil,2020-02-21,2020-02-28,could not determine analysis,
+Vem Me Satisfazer,MC Ingryd,5,Brazil,2020-02-21,2020-02-28,Negative,https://genius.com/Mc-ingryd-vem-me-satisfazer-lyrics
+Rave de Favela (feat. BEAM),Major Lazer,6,Brazil,2020-02-21,2020-02-28,Negative,https://genius.com/Mc-lan-rave-de-favela-lyrics
+Com ou Sem Mim - Ao Vivo,Gustavo Mioto,7,Brazil,2020-02-21,2020-02-28,Negative,https://genius.com/Genius-brasil-lancamentos-musicais-de-2016-annotated
+Combatchy (feat. MC Rebecca),Anitta,8,Brazil,2020-02-21,2020-02-28,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+Graveto - Ao Vivo,Marília Mendonça,9,Brazil,2020-02-21,2020-02-28,could not determine analysis,
+Surtada - Remix Brega Funk,Dadá Boladão,10,Brazil,2020-02-21,2020-02-28,Neutral,https://genius.com/Dada-boladao-surtada-remix-lyrics
+Litrão - Ao Vivo,Matheus &amp; Kauan,11,Brazil,2020-02-21,2020-02-28,could not determine analysis,
+S de Saudade,Luíza &amp; Maurílio,12,Brazil,2020-02-21,2020-02-28,could not determine analysis,
+Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,13,Brazil,2020-02-21,2020-02-28,could not determine analysis,
+Dance Monkey,Tones And I,14,Brazil,2020-02-21,2020-02-28,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Amor de Que,Pabllo Vittar,15,Brazil,2020-02-21,2020-02-28,Positive,https://genius.com/Pabllo-vittar-amor-de-que-lyrics
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,16,Brazil,2020-02-21,2020-02-28,could not determine analysis,
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,17,Brazil,2020-02-21,2020-02-28,could not determine analysis,
+Supera - Ao Vivo,Marília Mendonça,18,Brazil,2020-02-21,2020-02-28,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Contatinho - Ao Vivo,Leo Santana,19,Brazil,2020-02-21,2020-02-28,Neutral,https://genius.com/Leo-santana-contatinho-ao-vivo-lyrics
+Porta Mala,Os Parazim,20,Brazil,2020-02-21,2020-02-28,could not determine analysis,
+Liberdade Provisória - Ao Vivo,Henrique &amp; Juliano,1,Brazil,2020-02-28,2020-03-06,could not determine analysis,
+A Gente Fez Amor - Ao Vivo,Gusttavo Lima,2,Brazil,2020-02-28,2020-03-06,could not determine analysis,
+SENTADÃO,Pedro Sampaio,3,Brazil,2020-02-28,2020-03-06,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+Tudo Ok,Thiaguinho MT,4,Brazil,2020-02-28,2020-03-06,Positive,https://genius.com/Thiaguinho-mt-tudo-ok-lyrics
+Litrão - Ao Vivo,Matheus &amp; Kauan,5,Brazil,2020-02-28,2020-03-06,could not determine analysis,
+Graveto - Ao Vivo,Marília Mendonça,6,Brazil,2020-02-28,2020-03-06,could not determine analysis,
+Rave de Favela (feat. BEAM),Major Lazer,7,Brazil,2020-02-28,2020-03-06,Negative,https://genius.com/Mc-lan-rave-de-favela-lyrics
+Vem Me Satisfazer,MC Ingryd,8,Brazil,2020-02-28,2020-03-06,Negative,https://genius.com/Mc-ingryd-vem-me-satisfazer-lyrics
+Com ou Sem Mim - Ao Vivo,Gustavo Mioto,9,Brazil,2020-02-28,2020-03-06,Negative,https://genius.com/Genius-brasil-lancamentos-musicais-de-2016-annotated
+Dance Monkey,Tones And I,10,Brazil,2020-02-28,2020-03-06,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+S de Saudade,Luíza &amp; Maurílio,11,Brazil,2020-02-28,2020-03-06,could not determine analysis,
+Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,12,Brazil,2020-02-28,2020-03-06,could not determine analysis,
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,13,Brazil,2020-02-28,2020-03-06,could not determine analysis,
+Combatchy (feat. MC Rebecca),Anitta,14,Brazil,2020-02-28,2020-03-06,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+Stupid Love,Lady Gaga,15,Brazil,2020-02-28,2020-03-06,Positive,https://genius.com/Lady-gaga-stupid-love-lyrics
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,16,Brazil,2020-02-28,2020-03-06,could not determine analysis,
+Porta Mala,Os Parazim,17,Brazil,2020-02-28,2020-03-06,could not determine analysis,
+Don't Start Now,Dua Lipa,18,Brazil,2020-02-28,2020-03-06,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Supera - Ao Vivo,Marília Mendonça,19,Brazil,2020-02-28,2020-03-06,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Surtada - Remix Brega Funk,Dadá Boladão,20,Brazil,2020-02-28,2020-03-06,Neutral,https://genius.com/Dada-boladao-surtada-remix-lyrics
+Liberdade Provisória - Ao Vivo,Henrique &amp; Juliano,1,Brazil,2020-03-06,2020-03-13,could not determine analysis,
+A Gente Fez Amor - Ao Vivo,Gusttavo Lima,2,Brazil,2020-03-06,2020-03-13,could not determine analysis,
+Graveto - Ao Vivo,Marília Mendonça,3,Brazil,2020-03-06,2020-03-13,could not determine analysis,
+Litrão - Ao Vivo,Matheus &amp; Kauan,4,Brazil,2020-03-06,2020-03-13,could not determine analysis,
+SENTADÃO,Pedro Sampaio,5,Brazil,2020-03-06,2020-03-13,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+Rave de Favela (feat. BEAM),Major Lazer,6,Brazil,2020-03-06,2020-03-13,Negative,https://genius.com/Mc-lan-rave-de-favela-lyrics
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,7,Brazil,2020-03-06,2020-03-13,could not determine analysis,
+Tudo Ok,Thiaguinho MT,8,Brazil,2020-03-06,2020-03-13,Positive,https://genius.com/Thiaguinho-mt-tudo-ok-lyrics
+Dance Monkey,Tones And I,9,Brazil,2020-03-06,2020-03-13,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+S de Saudade,Luíza &amp; Maurílio,10,Brazil,2020-03-06,2020-03-13,could not determine analysis,
+Vem Me Satisfazer,MC Ingryd,11,Brazil,2020-03-06,2020-03-13,Negative,https://genius.com/Mc-ingryd-vem-me-satisfazer-lyrics
+Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,12,Brazil,2020-03-06,2020-03-13,could not determine analysis,
+Com ou Sem Mim - Ao Vivo,Gustavo Mioto,13,Brazil,2020-03-06,2020-03-13,Negative,https://genius.com/Genius-brasil-lancamentos-musicais-de-2016-annotated
+Don't Start Now,Dua Lipa,14,Brazil,2020-03-06,2020-03-13,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,15,Brazil,2020-03-06,2020-03-13,could not determine analysis,
+Supera - Ao Vivo,Marília Mendonça,16,Brazil,2020-03-06,2020-03-13,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Combatchy (feat. MC Rebecca),Anitta,17,Brazil,2020-03-06,2020-03-13,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics
+Volta por Baixo - Ao Vivo,Henrique &amp; Juliano,18,Brazil,2020-03-06,2020-03-13,could not determine analysis,
+Te Prometo,Dennis DJ,19,Brazil,2020-03-06,2020-03-13,Neutral,https://genius.com/Dennis-dj-te-prometo-lyrics
+Tijolão - Ao Vivo,Jorge &amp; Mateus,20,Brazil,2020-03-06,2020-03-13,could not determine analysis,
+Liberdade Provisória - Ao Vivo,Henrique &amp; Juliano,1,Brazil,2020-03-13,2020-03-20,could not determine analysis,
+A Gente Fez Amor - Ao Vivo,Gusttavo Lima,2,Brazil,2020-03-13,2020-03-20,could not determine analysis,
+Litrão - Ao Vivo,Matheus &amp; Kauan,3,Brazil,2020-03-13,2020-03-20,could not determine analysis,
+Graveto - Ao Vivo,Marília Mendonça,4,Brazil,2020-03-13,2020-03-20,could not determine analysis,
+Rave de Favela (feat. BEAM),Major Lazer,5,Brazil,2020-03-13,2020-03-20,Negative,https://genius.com/Mc-lan-rave-de-favela-lyrics
+SENTADÃO,Pedro Sampaio,6,Brazil,2020-03-13,2020-03-20,Negative,https://genius.com/Pedro-sampaio-sentadao-lyrics
+S de Saudade,Luíza &amp; Maurílio,7,Brazil,2020-03-13,2020-03-20,could not determine analysis,
+Dance Monkey,Tones And I,8,Brazil,2020-03-13,2020-03-20,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Bebi Minha Bicicleta (Coração Falido) - Ao Vivo,Zé Neto &amp; Cristiano,9,Brazil,2020-03-13,2020-03-20,could not determine analysis,
+Vem Me Satisfazer,MC Ingryd,10,Brazil,2020-03-13,2020-03-20,Negative,https://genius.com/Mc-ingryd-vem-me-satisfazer-lyrics
+Tudo Ok,Thiaguinho MT,11,Brazil,2020-03-13,2020-03-20,Positive,https://genius.com/Thiaguinho-mt-tudo-ok-lyrics
+Cheirosa - Ao Vivo,Jorge &amp; Mateus,12,Brazil,2020-03-13,2020-03-20,could not determine analysis,
+Amoreco,Simone &amp; Simaria,13,Brazil,2020-03-13,2020-03-20,could not determine analysis,
+Don't Start Now,Dua Lipa,14,Brazil,2020-03-13,2020-03-20,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Com ou Sem Mim - Ao Vivo,Gustavo Mioto,15,Brazil,2020-03-13,2020-03-20,Negative,https://genius.com/Genius-brasil-lancamentos-musicais-de-2016-annotated
+3 Batidas - Ao Vivo,Guilherme &amp; Benuto,16,Brazil,2020-03-13,2020-03-20,could not determine analysis,
+Volta por Baixo - Ao Vivo,Henrique &amp; Juliano,17,Brazil,2020-03-13,2020-03-20,could not determine analysis,
+Supera - Ao Vivo,Marília Mendonça,18,Brazil,2020-03-13,2020-03-20,Positive,https://genius.com/Marilia-mendonca-supera-ao-vivo-lyrics
+Te Prometo,Dennis DJ,19,Brazil,2020-03-13,2020-03-20,Neutral,https://genius.com/Dennis-dj-te-prometo-lyrics
+Combatchy (feat. MC Rebecca),Anitta,20,Brazil,2020-03-13,2020-03-20,Negative,https://genius.com/Anitta-lexa-and-luisa-sonza-combatchy-lyrics

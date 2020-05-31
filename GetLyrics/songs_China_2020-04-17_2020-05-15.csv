@@ -1,31 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-銀河修理員,Dear Jane,1,China,2020-04-17,2020-04-24,Neutral
-"想見你想見你想見你(電視劇""想見你""片尾曲)",831,2,China,2020-04-17,2020-04-24,could not determine analysis
-Don't Start Now,Dua Lipa,3,China,2020-04-17,2020-04-24,Negative
-Toosie Slide,Drake,4,China,2020-04-17,2020-04-24,Positive
-Blinding Lights,The Weeknd,5,China,2020-04-17,2020-04-24,Negative
-Intentions (feat. Quavo),Justin Bieber,6,China,2020-04-17,2020-04-24,Positive
-Señorita,Shawn Mendes,7,China,2020-04-17,2020-04-24,Positive
-Break My Heart,Dua Lipa,8,China,2020-04-17,2020-04-24,Positive
-Dance Monkey,Tones And I,9,China,2020-04-17,2020-04-24,Neutral
-Memories,Maroon 5,10,China,2020-04-17,2020-04-24,Positive
-death bed (coffee for your head) (feat. beabadoobee),Powfu,11,China,2020-04-17,2020-04-24,Positive
-Say So,Doja Cat,12,China,2020-04-17,2020-04-24,Positive
-Blueberry Faygo,Lil Mosey,13,China,2020-04-17,2020-04-24,Negative
-Circles,Post Malone,14,China,2020-04-17,2020-04-24,Positive
-Someone You Loved,Lewis Capaldi,15,China,2020-04-17,2020-04-24,Positive
-Roses - Imanbek Remix,SAINt JHN,16,China,2020-04-17,2020-04-24,Negative
-In Your Eyes,The Weeknd,17,China,2020-04-17,2020-04-24,Negative
-bad guy,Billie Eilish,18,China,2020-04-17,2020-04-24,Negative
-WANNABE,ITZY,19,China,2020-04-17,2020-04-24,could not determine analysis
-Supalonely,BENEE,20,China,2020-04-17,2020-04-24,Negative
-THE SCOTTS,THE SCOTTS,8,China,2020-04-24,2020-05-01,Positive
-Righteous,Juice WRLD,13,China,2020-04-24,2020-05-01,Negative
-說好不哭,Jay Chou,17,China,2020-04-24,2020-05-01,Neutral
-Be Kind (with Halsey),Marshmello,2,China,2020-05-01,2020-05-08,Positive
-eight(Prod.&amp;Feat. SUGA of BTS),IU,3,China,2020-05-01,2020-05-08,could not determine analysis
-Savage Remix (feat. Beyoncé),Megan Thee Stallion,17,China,2020-05-01,2020-05-08,Positive
-Stuck with U (with Justin Bieber),Ariana Grande,2,China,2020-05-08,2020-05-15,Negative
-一人之境,Terence Lam,14,China,2020-05-08,2020-05-15,Neutral
-ROCKSTAR (feat. Roddy Ricch),DaBaby,15,China,2020-05-08,2020-05-15,Positive
-別為我好,Angela Hui,20,China,2020-05-08,2020-05-15,Positive
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+銀河修理員,Dear Jane,1,China,2020-04-17,2020-04-24,Neutral,https://genius.com/Dear-jane-galactic-repairman-lyrics
+"想見你想見你想見你(電視劇""想見你""片尾曲)",831,2,China,2020-04-17,2020-04-24,could not determine analysis,
+Don't Start Now,Dua Lipa,3,China,2020-04-17,2020-04-24,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Toosie Slide,Drake,4,China,2020-04-17,2020-04-24,Positive,https://genius.com/Drake-toosie-slide-lyrics
+Blinding Lights,The Weeknd,5,China,2020-04-17,2020-04-24,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Intentions (feat. Quavo),Justin Bieber,6,China,2020-04-17,2020-04-24,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Señorita,Shawn Mendes,7,China,2020-04-17,2020-04-24,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Break My Heart,Dua Lipa,8,China,2020-04-17,2020-04-24,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Dance Monkey,Tones And I,9,China,2020-04-17,2020-04-24,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Memories,Maroon 5,10,China,2020-04-17,2020-04-24,Positive,https://genius.com/Maroon-5-memories-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,11,China,2020-04-17,2020-04-24,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Say So,Doja Cat,12,China,2020-04-17,2020-04-24,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Blueberry Faygo,Lil Mosey,13,China,2020-04-17,2020-04-24,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Circles,Post Malone,14,China,2020-04-17,2020-04-24,Positive,https://genius.com/Post-malone-circles-lyrics
+Someone You Loved,Lewis Capaldi,15,China,2020-04-17,2020-04-24,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Roses - Imanbek Remix,SAINt JHN,16,China,2020-04-17,2020-04-24,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+In Your Eyes,The Weeknd,17,China,2020-04-17,2020-04-24,Negative,https://genius.com/The-weeknd-in-your-eyes-lyrics
+bad guy,Billie Eilish,18,China,2020-04-17,2020-04-24,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+WANNABE,ITZY,19,China,2020-04-17,2020-04-24,Negative,https://genius.com/Itzy-wannabe-lyrics
+Supalonely,BENEE,20,China,2020-04-17,2020-04-24,Negative,https://genius.com/Benee-supalonely-lyrics
+銀河修理員,Dear Jane,1,China,2020-04-24,2020-05-01,Neutral,https://genius.com/Dear-jane-galactic-repairman-lyrics
+"想見你想見你想見你(電視劇""想見你""片尾曲)",831,2,China,2020-04-24,2020-05-01,could not determine analysis,
+Don't Start Now,Dua Lipa,3,China,2020-04-24,2020-05-01,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Blinding Lights,The Weeknd,4,China,2020-04-24,2020-05-01,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Intentions (feat. Quavo),Justin Bieber,5,China,2020-04-24,2020-05-01,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Toosie Slide,Drake,6,China,2020-04-24,2020-05-01,Positive,https://genius.com/Drake-toosie-slide-lyrics
+Señorita,Shawn Mendes,7,China,2020-04-24,2020-05-01,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+THE SCOTTS,THE SCOTTS,8,China,2020-04-24,2020-05-01,Positive,https://genius.com/The-scotts-the-scotts-lyrics
+Memories,Maroon 5,9,China,2020-04-24,2020-05-01,Positive,https://genius.com/Maroon-5-memories-lyrics
+Break My Heart,Dua Lipa,10,China,2020-04-24,2020-05-01,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Say So,Doja Cat,11,China,2020-04-24,2020-05-01,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Dance Monkey,Tones And I,12,China,2020-04-24,2020-05-01,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Righteous,Juice WRLD,13,China,2020-04-24,2020-05-01,Negative,https://genius.com/Juice-wrld-righteous-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,14,China,2020-04-24,2020-05-01,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Blueberry Faygo,Lil Mosey,15,China,2020-04-24,2020-05-01,Negative,https://genius.com/Lil-mosey-blueberry-faygo-lyrics
+Someone You Loved,Lewis Capaldi,16,China,2020-04-24,2020-05-01,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+說好不哭,Jay Chou,17,China,2020-04-24,2020-05-01,Neutral,https://genius.com/Jay-chou-wont-cry-lyrics
+Supalonely,BENEE,18,China,2020-04-24,2020-05-01,Negative,https://genius.com/Benee-supalonely-lyrics
+Roses - Imanbek Remix,SAINt JHN,19,China,2020-04-24,2020-05-01,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+bad guy,Billie Eilish,20,China,2020-04-24,2020-05-01,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+銀河修理員,Dear Jane,1,China,2020-05-01,2020-05-08,Neutral,https://genius.com/Dear-jane-galactic-repairman-lyrics
+Be Kind (with Halsey),Marshmello,2,China,2020-05-01,2020-05-08,could not determine analysis,
+eight(Prod.&amp;Feat. SUGA of BTS),IU,3,China,2020-05-01,2020-05-08,could not determine analysis,
+"想見你想見你想見你(電視劇""想見你""片尾曲)",831,4,China,2020-05-01,2020-05-08,could not determine analysis,
+Toosie Slide,Drake,5,China,2020-05-01,2020-05-08,Positive,https://genius.com/Drake-toosie-slide-lyrics
+Don't Start Now,Dua Lipa,6,China,2020-05-01,2020-05-08,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Blinding Lights,The Weeknd,7,China,2020-05-01,2020-05-08,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Intentions (feat. Quavo),Justin Bieber,8,China,2020-05-01,2020-05-08,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Señorita,Shawn Mendes,9,China,2020-05-01,2020-05-08,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Break My Heart,Dua Lipa,10,China,2020-05-01,2020-05-08,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+THE SCOTTS,THE SCOTTS,11,China,2020-05-01,2020-05-08,Positive,https://genius.com/The-scotts-the-scotts-lyrics
+Memories,Maroon 5,12,China,2020-05-01,2020-05-08,Positive,https://genius.com/Maroon-5-memories-lyrics
+Say So,Doja Cat,13,China,2020-05-01,2020-05-08,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Dance Monkey,Tones And I,14,China,2020-05-01,2020-05-08,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,15,China,2020-05-01,2020-05-08,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+Someone You Loved,Lewis Capaldi,16,China,2020-05-01,2020-05-08,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+Savage Remix (feat. Beyoncé),Megan Thee Stallion,17,China,2020-05-01,2020-05-08,Positive,https://genius.com/Genius-polska-tumaczenia-megan-thee-stallion-ft-beyonce-savage-remix-polskie-tumaczenie-lyrics
+說好不哭,Jay Chou,18,China,2020-05-01,2020-05-08,Neutral,https://genius.com/Jay-chou-wont-cry-lyrics
+Roses - Imanbek Remix,SAINt JHN,19,China,2020-05-01,2020-05-08,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Righteous,Juice WRLD,20,China,2020-05-01,2020-05-08,Negative,https://genius.com/Juice-wrld-righteous-lyrics
+eight(Prod.&amp;Feat. SUGA of BTS),IU,1,China,2020-05-08,2020-05-15,could not determine analysis,
+Stuck with U (with Justin Bieber),Ariana Grande,2,China,2020-05-08,2020-05-15,Negative,https://genius.com/Ariana-grande-and-justin-bieber-stuck-with-u-lyrics
+銀河修理員,Dear Jane,3,China,2020-05-08,2020-05-15,Neutral,https://genius.com/Dear-jane-galactic-repairman-lyrics
+Be Kind (with Halsey),Marshmello,4,China,2020-05-08,2020-05-15,could not determine analysis,
+"想見你想見你想見你(電視劇""想見你""片尾曲)",831,5,China,2020-05-08,2020-05-15,could not determine analysis,
+Break My Heart,Dua Lipa,6,China,2020-05-08,2020-05-15,Positive,https://genius.com/Dua-lipa-break-my-heart-lyrics
+Blinding Lights,The Weeknd,7,China,2020-05-08,2020-05-15,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Don't Start Now,Dua Lipa,8,China,2020-05-08,2020-05-15,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Intentions (feat. Quavo),Justin Bieber,9,China,2020-05-08,2020-05-15,Positive,https://genius.com/Justin-bieber-and-quavo-intentions-lyrics
+Señorita,Shawn Mendes,10,China,2020-05-08,2020-05-15,Positive,https://genius.com/Shawn-mendes-and-camila-cabello-senorita-lyrics
+Toosie Slide,Drake,11,China,2020-05-08,2020-05-15,Positive,https://genius.com/Drake-toosie-slide-lyrics
+Memories,Maroon 5,12,China,2020-05-08,2020-05-15,Positive,https://genius.com/Maroon-5-memories-lyrics
+THE SCOTTS,THE SCOTTS,13,China,2020-05-08,2020-05-15,Positive,https://genius.com/The-scotts-the-scotts-lyrics
+一人之境,Terence Lam,14,China,2020-05-08,2020-05-15,Neutral,https://genius.com/Terence-lam-hkg-solitude-lyrics
+ROCKSTAR (feat. Roddy Ricch),DaBaby,15,China,2020-05-08,2020-05-15,Positive,https://genius.com/Gallo-dababy-rockstar-ft-roddy-ricch-rnb-pop-electro-remix-lyrics
+Supalonely,BENEE,16,China,2020-05-08,2020-05-15,Negative,https://genius.com/Benee-supalonely-lyrics
+Say So,Doja Cat,17,China,2020-05-08,2020-05-15,Positive,https://genius.com/Doja-cat-say-so-lyrics
+Someone You Loved,Lewis Capaldi,18,China,2020-05-08,2020-05-15,Positive,https://genius.com/Lewis-capaldi-someone-you-loved-lyrics
+death bed (coffee for your head) (feat. beabadoobee),Powfu,19,China,2020-05-08,2020-05-15,Positive,https://genius.com/Powfu-death-bed-coffee-for-your-head-lyrics
+別為我好,Angela Hui,20,China,2020-05-08,2020-05-15,Positive,https://genius.com/Tank--lyrics

@@ -1,22 +1,22 @@
 Country Name,Num of Positive Month Songs,Num of Negative Month Songs,Num of Neutral Month Songs,Total cases
-Italy,0,6,0,222104
-United states,3,3,0,1389935
-United kingdom,3,3,0,229705
-Argentina,0,6,0,6879
-Bulgaria,3,3,0,2069
-Brazil,0,6,0,189157
-Colombia,0,6,0,12930
-Germany,0,6,0,174098
-Spain,0,6,0,228691
-France,1,5,0,178184
-Guatemala,0,6,0,1199
-Estonia,2,4,0,1751
-India,6,0,0,78055
-Japan,3,3,0,15968
-Mexico,0,6,0,38324
-Panama,0,6,0,8783
-Thailand,6,0,0,3017
-South afrika,6,0,0,12074
-Vietnam,6,0,0,288
-Israel,3,2,1,16548
-China,6,0,0,84021
+Italy,123,226,44,222104
+United states,227,212,22,1389935
+United kingdom,215,194,42,229705
+Argentina,73,351,32,6879
+Bulgaria,203,215,51,2069
+Brazil,60,139,62,189157
+Colombia,52,371,31,12930
+Germany,117,322,25,174098
+Spain,57,352,27,228691
+France,122,318,25,178184
+Guatemala,51,376,28,1199
+Estonia,185,234,45,1751
+India,127,61,116,78055
+Japan,41,33,245,15968
+Mexico,58,373,33,38324
+Panama,80,352,18,8783
+Thailand,134,34,43,3017
+South afrika,259,138,43,12074
+Vietnam,263,109,105,288
+Israel,145,120,202,16548
+China,231,157,63,84021

@@ -1,30 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Favorito,Camilo,1,Guatemala,2020-04-17,2020-04-24,Negative
-Rojo,J Balvin,2,Guatemala,2020-04-17,2020-04-24,Neutral
-Yo Perreo Sola,Bad Bunny,3,Guatemala,2020-04-17,2020-04-24,Negative
-Safaera,Bad Bunny,4,Guatemala,2020-04-17,2020-04-24,Negative
-Tattoo,Rauw Alejandro,5,Guatemala,2020-04-17,2020-04-24,Negative
-Si Veo a Tu Mamá,Bad Bunny,6,Guatemala,2020-04-17,2020-04-24,Negative
-Ignorantes,Bad Bunny,7,Guatemala,2020-04-17,2020-04-24,Negative
-Sigues Con El,Dímelo Flow,8,Guatemala,2020-04-17,2020-04-24,Negative
-Blinding Lights,The Weeknd,9,Guatemala,2020-04-17,2020-04-24,Negative
-Tusa,KAROL G,10,Guatemala,2020-04-17,2020-04-24,Negative
-La Difícil,Bad Bunny,11,Guatemala,2020-04-17,2020-04-24,Negative
-Vete,Bad Bunny,12,Guatemala,2020-04-17,2020-04-24,Negative
-Fantasias,Rauw Alejandro,13,Guatemala,2020-04-17,2020-04-24,Negative
-Hola - Remix,Dalex,14,Guatemala,2020-04-17,2020-04-24,Negative
-Diosa,Myke Towers,15,Guatemala,2020-04-17,2020-04-24,Negative
-Jangueo,Alex Rose,16,Guatemala,2020-04-17,2020-04-24,Negative
-Por Primera Vez,Camilo,17,Guatemala,2020-04-17,2020-04-24,Positive
-Morado,J Balvin,18,Guatemala,2020-04-17,2020-04-24,Negative
-Pa' Olvidarme De Ella,Piso 21,19,Guatemala,2020-04-17,2020-04-24,Negative
-Sigues Con El - Remix,Arcangel,20,Guatemala,2020-04-17,2020-04-24,Negative
-LA CANCIÓN,J Balvin,20,Guatemala,2020-04-24,2020-05-01,Negative
-Qué Maldición,Banda MS de Sergio Lizárraga,1,Guatemala,2020-05-01,2020-05-08,Positive
-Hongos,Ricardo Arjona,18,Guatemala,2020-05-01,2020-05-08,Negative
-BYE ME FUI,Bad Bunny,2,Guatemala,2020-05-08,2020-05-15,Positive
-CANCIÓN CON YANDEL,Yandel,4,Guatemala,2020-05-08,2020-05-15,Negative
-PA' ROMPERLA,Bad Bunny,9,Guatemala,2020-05-08,2020-05-15,Negative
-MÁS DE UNA CITA,Bad Bunny,10,Guatemala,2020-05-08,2020-05-15,Negative
-CÓMO SE SIENTE - Remix,Jhay Cortez,12,Guatemala,2020-05-08,2020-05-15,Negative
-BAD CON NICKY,Bad Bunny,14,Guatemala,2020-05-08,2020-05-15,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Favorito,Camilo,1,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Camilo-favorito-lyrics
+Rojo,J Balvin,2,Guatemala,2020-04-17,2020-04-24,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Yo Perreo Sola,Bad Bunny,3,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Safaera,Bad Bunny,4,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Tattoo,Rauw Alejandro,5,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Si Veo a Tu Mamá,Bad Bunny,6,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Ignorantes,Bad Bunny,7,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Sigues Con El,Dímelo Flow,8,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Blinding Lights,The Weeknd,9,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Tusa,KAROL G,10,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+La Difícil,Bad Bunny,11,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Vete,Bad Bunny,12,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Fantasias,Rauw Alejandro,13,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Hola - Remix,Dalex,14,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Diosa,Myke Towers,15,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Jangueo,Alex Rose,16,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Alex-rose-and-rafa-pabon-jangueo-lyrics
+Por Primera Vez,Camilo,17,Guatemala,2020-04-17,2020-04-24,Positive,https://genius.com/Camilo-and-evaluna-montaner-por-primera-vez-lyrics
+Morado,J Balvin,18,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/J-balvin-morado-lyrics
+Pa' Olvidarme De Ella,Piso 21,19,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+Sigues Con El - Remix,Arcangel,20,Guatemala,2020-04-17,2020-04-24,Negative,https://genius.com/Arcangel-sech-and-romeo-santos-sigues-con-el-remix-lyrics
+Rojo,J Balvin,1,Guatemala,2020-04-24,2020-05-01,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Favorito,Camilo,2,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Camilo-favorito-lyrics
+Yo Perreo Sola,Bad Bunny,3,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Tattoo,Rauw Alejandro,4,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Safaera,Bad Bunny,5,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Ignorantes,Bad Bunny,6,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Si Veo a Tu Mamá,Bad Bunny,7,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Sigues Con El,Dímelo Flow,8,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Blinding Lights,The Weeknd,9,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Tusa,KAROL G,10,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+La Difícil,Bad Bunny,11,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Fantasias,Rauw Alejandro,12,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Hola - Remix,Dalex,13,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Vete,Bad Bunny,14,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Jangueo,Alex Rose,15,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Alex-rose-and-rafa-pabon-jangueo-lyrics
+Diosa,Myke Towers,16,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Morado,J Balvin,17,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/J-balvin-morado-lyrics
+Pa' Olvidarme De Ella,Piso 21,18,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+Sigues Con El - Remix,Arcangel,19,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/Arcangel-sech-and-romeo-santos-sigues-con-el-remix-lyrics
+LA CANCIÓN,J Balvin,20,Guatemala,2020-04-24,2020-05-01,Negative,https://genius.com/J-balvin-and-bad-bunny-la-cancion-lyrics
+Qué Maldición,Banda MS de Sergio Lizárraga,1,Guatemala,2020-05-01,2020-05-08,Positive,https://genius.com/Banda-sinaloense-ms-de-sergio-lizarraga-and-snoop-dogg-que-maldicion-lyrics
+Rojo,J Balvin,2,Guatemala,2020-05-01,2020-05-08,Neutral,https://genius.com/J-balvin-rojo-lyrics
+Yo Perreo Sola,Bad Bunny,3,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+Favorito,Camilo,4,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Camilo-favorito-lyrics
+Tattoo,Rauw Alejandro,5,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Safaera,Bad Bunny,6,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+Ignorantes,Bad Bunny,7,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Si Veo a Tu Mamá,Bad Bunny,8,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+Blinding Lights,The Weeknd,9,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Sigues Con El,Dímelo Flow,10,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+La Difícil,Bad Bunny,11,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Tusa,KAROL G,12,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
+Fantasias,Rauw Alejandro,13,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Vete,Bad Bunny,14,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Bad-bunny-vete-lyrics
+Hola - Remix,Dalex,15,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics
+Jangueo,Alex Rose,16,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Alex-rose-and-rafa-pabon-jangueo-lyrics
+Diosa,Myke Towers,17,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Myke-towers-diosa-lyrics
+Hongos,Ricardo Arjona,18,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Ricardo-arjona-hongos-lyrics
+Pa' Olvidarme De Ella,Piso 21,19,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/Piso-21-and-christian-nodal-pa-olvidarme-de-ella-lyrics
+Morado,J Balvin,20,Guatemala,2020-05-01,2020-05-08,Negative,https://genius.com/J-balvin-morado-lyrics
+Rojo,J Balvin,1,Guatemala,2020-05-08,2020-05-15,Neutral,https://genius.com/J-balvin-rojo-lyrics
+BYE ME FUI,Bad Bunny,2,Guatemala,2020-05-08,2020-05-15,Positive,https://genius.com/Bad-bunny-bye-me-fui-lyrics
+Yo Perreo Sola,Bad Bunny,3,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-yo-perreo-sola-lyrics
+CANCIÓN CON YANDEL,Yandel,4,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-and-yandel-cancion-con-yandel-lyrics
+Favorito,Camilo,5,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Camilo-favorito-lyrics
+Tattoo,Rauw Alejandro,6,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Rauw-alejandro-tattoo-lyrics
+Ignorantes,Bad Bunny,7,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
+Safaera,Bad Bunny,8,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
+PA' ROMPERLA,Bad Bunny,9,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-and-don-omar-pa-romperla-lyrics
+MÁS DE UNA CITA,Bad Bunny,10,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-and-zion-and-lennox-mas-de-una-cita-lyrics
+Si Veo a Tu Mamá,Bad Bunny,11,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-si-veo-a-tu-mama-lyrics
+CÓMO SE SIENTE - Remix,Jhay Cortez,12,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Jhay-cortez-and-bad-bunny-como-se-siente-remix-lyrics
+Blinding Lights,The Weeknd,13,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+BAD CON NICKY,Bad Bunny,14,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-and-nicky-jam-bad-con-nicky-lyrics
+Sigues Con El,Dímelo Flow,15,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Arcangel-dimelo-flow-and-sech-sigues-con-el-lyrics
+Qué Maldición,Banda MS de Sergio Lizárraga,16,Guatemala,2020-05-08,2020-05-15,Positive,https://genius.com/Banda-sinaloense-ms-de-sergio-lizarraga-and-snoop-dogg-que-maldicion-lyrics
+Vete,Bad Bunny,17,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-vete-lyrics
+La Difícil,Bad Bunny,18,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Bad-bunny-la-dificil-lyrics
+Fantasias,Rauw Alejandro,19,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Rauw-alejandro-and-farruko-fantasias-lyrics
+Hola - Remix,Dalex,20,Guatemala,2020-05-08,2020-05-15,Negative,https://genius.com/Dalex-lenny-tavarez-and-chencho-corleone-hola-remix-lyrics

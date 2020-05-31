@@ -1,32 +1,81 @@
-song_name,song_artist,track number,country,start date,end date,Analysis
-Paaristõuked,5MIINUST,1,Estonia,2019-12-27,2020-01-03,Negative
-Falling,Trevor Daniel,2,Estonia,2019-12-27,2020-01-03,Positive
-everything i wanted,Billie Eilish,3,Estonia,2019-12-27,2020-01-03,Negative
-Blinding Lights,The Weeknd,4,Estonia,2019-12-27,2020-01-03,Negative
-ROXANNE,Arizona Zervas,5,Estonia,2019-12-27,2020-01-03,Positive
-Dance Monkey,Tones And I,6,Estonia,2019-12-27,2020-01-03,Neutral
-für Oksana,Nublu,7,Estonia,2019-12-27,2020-01-03,Neutral
-Don't Start Now,Dua Lipa,8,Estonia,2019-12-27,2020-01-03,Negative
-Aluspükse,5MIINUST,9,Estonia,2019-12-27,2020-01-03,Negative
-hot girl bummer,blackbear,10,Estonia,2019-12-27,2020-01-03,Negative
-Circles,Post Malone,11,Estonia,2019-12-27,2020-01-03,Positive
-Ride It,Regard,12,Estonia,2019-12-27,2020-01-03,Negative
-bad guy,Billie Eilish,13,Estonia,2019-12-27,2020-01-03,Negative
-Memories,Maroon 5,14,Estonia,2019-12-27,2020-01-03,Positive
-Adore You,Harry Styles,15,Estonia,2019-12-27,2020-01-03,Positive
-Roses - Imanbek Remix,SAINt JHN,16,Estonia,2019-12-27,2020-01-03,Negative
-Lose You To Love Me,Selena Gomez,17,Estonia,2019-12-27,2020-01-03,Positive
-Watermelon Sugar,Harry Styles,18,Estonia,2019-12-27,2020-01-03,Positive
-3 Nights,Dominic Fike,19,Estonia,2019-12-27,2020-01-03,Positive
-RITMO (Bad Boys For Life),Black Eyed Peas,20,Estonia,2019-12-27,2020-01-03,Positive
-The Box,Roddy Ricch,10,Estonia,2020-01-03,2020-01-10,Negative
-Yummy,Justin Bieber,13,Estonia,2020-01-03,2020-01-10,Positive
-Trampoline (with ZAYN),SHAED,20,Estonia,2020-01-03,2020-01-10,Positive
-Life Is Good (feat. Drake),Future,7,Estonia,2020-01-10,2020-01-17,Positive
-Rare,Selena Gomez,15,Estonia,2020-01-10,2020-01-17,Positive
-You should be sad,Halsey,18,Estonia,2020-01-10,2020-01-17,could not determine analysis
-Good News,Mac Miller,19,Estonia,2020-01-10,2020-01-17,Negative
-Godzilla (feat. Juice WRLD),Eminem,3,Estonia,2020-01-17,2020-01-24,Neutral
-Nagu kuu,AG,18,Estonia,2020-01-17,2020-01-24,Positive
-Break My Stride,Matthew Wilder,19,Estonia,2020-01-17,2020-01-24,Positive
-Darkness,Eminem,20,Estonia,2020-01-17,2020-01-24,Negative
+song_name,song_artist,track number,country,start date,end date,Analysis,Lyrics
+Paaristõuked,5MIINUST,1,Estonia,2019-12-27,2020-01-03,Negative,https://genius.com/5miinust-paaristouked-lyrics
+Falling,Trevor Daniel,2,Estonia,2019-12-27,2020-01-03,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+everything i wanted,Billie Eilish,3,Estonia,2019-12-27,2020-01-03,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Blinding Lights,The Weeknd,4,Estonia,2019-12-27,2020-01-03,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+ROXANNE,Arizona Zervas,5,Estonia,2019-12-27,2020-01-03,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Dance Monkey,Tones And I,6,Estonia,2019-12-27,2020-01-03,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+für Oksana,Nublu,7,Estonia,2019-12-27,2020-01-03,Neutral,https://genius.com/Nublu-fur-oksana-lyrics
+Don't Start Now,Dua Lipa,8,Estonia,2019-12-27,2020-01-03,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Aluspükse,5MIINUST,9,Estonia,2019-12-27,2020-01-03,Negative,https://genius.com/5miinust-aluspukse-lyrics
+hot girl bummer,blackbear,10,Estonia,2019-12-27,2020-01-03,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+Circles,Post Malone,11,Estonia,2019-12-27,2020-01-03,Positive,https://genius.com/Post-malone-circles-lyrics
+Ride It,Regard,12,Estonia,2019-12-27,2020-01-03,Negative,https://genius.com/Regard-ride-it-lyrics
+bad guy,Billie Eilish,13,Estonia,2019-12-27,2020-01-03,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Memories,Maroon 5,14,Estonia,2019-12-27,2020-01-03,Positive,https://genius.com/Maroon-5-memories-lyrics
+Adore You,Harry Styles,15,Estonia,2019-12-27,2020-01-03,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+Roses - Imanbek Remix,SAINt JHN,16,Estonia,2019-12-27,2020-01-03,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Lose You To Love Me,Selena Gomez,17,Estonia,2019-12-27,2020-01-03,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+Watermelon Sugar,Harry Styles,18,Estonia,2019-12-27,2020-01-03,Positive,https://genius.com/Harry-styles-watermelon-sugar-lyrics
+3 Nights,Dominic Fike,19,Estonia,2019-12-27,2020-01-03,Positive,https://genius.com/Dominic-fike-3-nights-lyrics
+RITMO (Bad Boys For Life),Black Eyed Peas,20,Estonia,2019-12-27,2020-01-03,Positive,https://genius.com/The-black-eyed-peas-and-j-balvin-ritmo-bad-boys-for-life-lyrics
+Paaristõuked,5MIINUST,1,Estonia,2020-01-03,2020-01-10,Negative,https://genius.com/5miinust-paaristouked-lyrics
+Blinding Lights,The Weeknd,2,Estonia,2020-01-03,2020-01-10,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+everything i wanted,Billie Eilish,3,Estonia,2020-01-03,2020-01-10,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Falling,Trevor Daniel,4,Estonia,2020-01-03,2020-01-10,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+ROXANNE,Arizona Zervas,5,Estonia,2020-01-03,2020-01-10,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Dance Monkey,Tones And I,6,Estonia,2020-01-03,2020-01-10,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Don't Start Now,Dua Lipa,7,Estonia,2020-01-03,2020-01-10,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Circles,Post Malone,8,Estonia,2020-01-03,2020-01-10,Positive,https://genius.com/Post-malone-circles-lyrics
+hot girl bummer,blackbear,9,Estonia,2020-01-03,2020-01-10,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+The Box,Roddy Ricch,10,Estonia,2020-01-03,2020-01-10,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Ride It,Regard,11,Estonia,2020-01-03,2020-01-10,Negative,https://genius.com/Regard-ride-it-lyrics
+für Oksana,Nublu,12,Estonia,2020-01-03,2020-01-10,Neutral,https://genius.com/Nublu-fur-oksana-lyrics
+Yummy,Justin Bieber,13,Estonia,2020-01-03,2020-01-10,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Roses - Imanbek Remix,SAINt JHN,14,Estonia,2020-01-03,2020-01-10,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Aluspükse,5MIINUST,15,Estonia,2020-01-03,2020-01-10,Negative,https://genius.com/5miinust-aluspukse-lyrics
+Adore You,Harry Styles,16,Estonia,2020-01-03,2020-01-10,Positive,https://genius.com/Harry-styles-adore-you-lyrics
+bad guy,Billie Eilish,17,Estonia,2020-01-03,2020-01-10,Negative,https://genius.com/Billie-eilish-bad-guy-lyrics
+Memories,Maroon 5,18,Estonia,2020-01-03,2020-01-10,Positive,https://genius.com/Maroon-5-memories-lyrics
+Lose You To Love Me,Selena Gomez,19,Estonia,2020-01-03,2020-01-10,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+Trampoline (with ZAYN),SHAED,20,Estonia,2020-01-03,2020-01-10,Positive,https://genius.com/Spotify-new-music-friday-09-27-19-annotated
+Paaristõuked,5MIINUST,1,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/5miinust-paaristouked-lyrics
+Blinding Lights,The Weeknd,2,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+Falling,Trevor Daniel,3,Estonia,2020-01-10,2020-01-17,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+everything i wanted,Billie Eilish,4,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+The Box,Roddy Ricch,5,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+ROXANNE,Arizona Zervas,6,Estonia,2020-01-10,2020-01-17,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Life Is Good (feat. Drake),Future,7,Estonia,2020-01-10,2020-01-17,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+Dance Monkey,Tones And I,8,Estonia,2020-01-10,2020-01-17,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Don't Start Now,Dua Lipa,9,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Yummy,Justin Bieber,10,Estonia,2020-01-10,2020-01-17,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Circles,Post Malone,11,Estonia,2020-01-10,2020-01-17,Positive,https://genius.com/Post-malone-circles-lyrics
+Roses - Imanbek Remix,SAINt JHN,12,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Aluspükse,5MIINUST,13,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/5miinust-aluspukse-lyrics
+hot girl bummer,blackbear,14,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+Rare,Selena Gomez,15,Estonia,2020-01-10,2020-01-17,Positive,https://genius.com/Selena-gomez-rare-lyrics
+Lose You To Love Me,Selena Gomez,16,Estonia,2020-01-10,2020-01-17,Positive,https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
+für Oksana,Nublu,17,Estonia,2020-01-10,2020-01-17,Neutral,https://genius.com/Nublu-fur-oksana-lyrics
+You should be sad,Halsey,18,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/Halsey-you-should-be-sad-lyrics
+Good News,Mac Miller,19,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/Mac-miller-good-news-lyrics
+Ride It,Regard,20,Estonia,2020-01-10,2020-01-17,Negative,https://genius.com/Regard-ride-it-lyrics
+Blinding Lights,The Weeknd,1,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/The-weeknd-blinding-lights-lyrics
+The Box,Roddy Ricch,2,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/Roddy-ricch-the-box-lyrics
+Godzilla (feat. Juice WRLD),Eminem,3,Estonia,2020-01-17,2020-01-24,Neutral,https://genius.com/Mcdicon-russian-cover-godzilla-eminem-feat-juice-wrld-lyrics
+Paaristõuked,5MIINUST,4,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/5miinust-paaristouked-lyrics
+Falling,Trevor Daniel,5,Estonia,2020-01-17,2020-01-24,Positive,https://genius.com/Trevor-daniel-falling-lyrics
+everything i wanted,Billie Eilish,6,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/Billie-eilish-everything-i-wanted-lyrics
+Life Is Good (feat. Drake),Future,7,Estonia,2020-01-17,2020-01-24,Positive,https://genius.com/Genius-russian-translations-future-life-is-good-ft-drake-lyrics
+ROXANNE,Arizona Zervas,8,Estonia,2020-01-17,2020-01-24,Positive,https://genius.com/Arizona-zervas-roxanne-lyrics
+Dance Monkey,Tones And I,9,Estonia,2020-01-17,2020-01-24,Neutral,https://genius.com/Tones-and-i-dance-monkey-lyrics
+Good News,Mac Miller,10,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/Mac-miller-good-news-lyrics
+Don't Start Now,Dua Lipa,11,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/Dua-lipa-dont-start-now-lyrics
+Roses - Imanbek Remix,SAINt JHN,12,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/Saint-jhn-roses-imanbek-remix-lyrics
+Yummy,Justin Bieber,13,Estonia,2020-01-17,2020-01-24,Positive,https://genius.com/Justin-bieber-yummy-lyrics
+Circles,Post Malone,14,Estonia,2020-01-17,2020-01-24,Positive,https://genius.com/Post-malone-circles-lyrics
+You should be sad,Halsey,15,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/Halsey-you-should-be-sad-lyrics
+Aluspükse,5MIINUST,16,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/5miinust-aluspukse-lyrics
+hot girl bummer,blackbear,17,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/Blackbear-hot-girl-bummer-lyrics
+Nagu kuu,AG,18,Estonia,2020-01-17,2020-01-24,Positive,https://genius.com/Silver-ag-orissaar-nagu-kuu-lyrics
+Break My Stride,Matthew Wilder,19,Estonia,2020-01-17,2020-01-24,Positive,https://genius.com/Matthew-wilder-break-my-stride-lyrics
+Darkness,Eminem,20,Estonia,2020-01-17,2020-01-24,Negative,https://genius.com/Eminem-darkness-lyrics
