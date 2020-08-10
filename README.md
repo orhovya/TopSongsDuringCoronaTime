@@ -7,7 +7,7 @@ we took different countries from across the globe, some were more influenced by 
 
 ## Used API's
 - Lyric Genius API
-- NLTK Sentiment Analysis Algorithm which uses **http://mymemory.translated.net/api** to translate non eng text to eng.
+- NLTK Sentiment Analysis Algorithm which uses **'mymemory.translated.net/api'** to translate non eng text to eng.
 - corona API using **https://api.thevirustracker.com/**
 - Spotify API
 
